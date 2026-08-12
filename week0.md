@@ -41,6 +41,13 @@
 
 ![NotebookLM](images/nblm_ab.jpg)
 
+<p align="center">
+  🎧 <strong>Audio Overview</strong><br><br>
+  <a href="audio/urbanstyle-audio.mp3">
+    ▶️ Kuula meie Audio Overview'd
+  </a>
+</p>
+
 ### **`4 CORE RAG` + `Audio Overview`**
 
 ---
