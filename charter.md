@@ -8,9 +8,9 @@
 3. ## ÜHISED TÖÖRIISTAD
 
 - **Suhtluskanal:** Google Chat
-- **GitHub repo:** [UrbanStyle Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics)
-- **Supabase:** [UrbanStyle Sales Analytics](https://ntvsfakazdrfesjltfzz.supabase.co)
-- **NotebookLM:** [UrbanStyle Sales Analytics](https://notebook.google.com/notebook/61c5a45a-eb0a-4228-b5f5-d3867166bce2)
+- **GitHub repo:** [UrbanStyle Sales Analytics GitHub](https://github.com/andres-assukyll/urbanstyle-sales-analytics)
+- **Supabase:** [UrbanStyle Sales Analytics Supabase](https://ntvsfakazdrfesjltfzz.supabase.co)
+- **NotebookLM:** [UrbanStyle Sales Analytics Notebook](https://notebook.google.com/notebook/61c5a45a-eb0a-4228-b5f5-d3867166bce2)
 
 - ## KOKKULEPPED
 
