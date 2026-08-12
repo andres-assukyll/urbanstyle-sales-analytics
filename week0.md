@@ -52,17 +52,25 @@
 <br>
 
 ## 💡 SUURIM ÜLLATUS 
-> **"Mahukas materjal saab kuuldavaks."**
-Üllatuseks oli NotebookLM audiofunktsioon, mis võimaldab mahukast materjalist kiiresti arusaadava ülevaate saada. Eriti huvitav oli võimalus kohandada audio fookust vastavalt vajadusele. See näitas, et suure materjalihulgaga töötamine ei pea piirduma ainult teksti lugemisega.
---- 
-## 🎯 SOOVITUS TOOMASELE 
-> **Hoia süsteemid korrastatud ja lingid alati kättesaadavana.**
-Kontrolli regulaarselt, et **GitHub**, **Supabase** ja **NotebookLM** oleksid kõigile vajalikele meeskonnaliikmetele ligipääsetavad ning et dokumentatsioon oleks ajakohane.
----
-## ⚠️ PUUDUVAD ANDMED
-> **"Kõik süsteemid peavad omavahel töötama nagu üks meeskond."**
+> **"Mahukas materjal saab kuuldavaks."** 
 
-Kontrolli regulaarselt, et **GitHub**, **Supabase** ja **NotebookLM** oleksid kõigile vajalikele meeskonnaliikmetele ligipääsetavad ning et dokumentatsioon oleks ajakohane.
+Üllatuseks oli **NotebookLM** audiofunktsioon, mis võimaldab mahukast materjalist kiiresti arusaadava ülevaate saada. Eriti huvitav oli võimalus kohandada audio fookust vastavalt vajadusele. See näitas, et suure materjalihulgaga töötamine ei pea piirduma ainult teksti lugemisega.
+
+<br>
+
+## 🎯 SOOVITUS TOOMASELE
+> **„Ühine töökeskkond, ühine teadmine.“**
+
+Suunata edasine fookus **ühise töökeskkonna arendamisele** (GitHub, Supabase jt), kus vajalikud andmed on kogu tiimile **kättesaadavad, korrastatud ja lihtsasti hallatavad**.
+
+<br>
+
+## ⚠️ PUUDUVAD ANDMED
+> **„Ilma pärisandmeteta ei tea me veel, mis tegelikult toimib.“**
+
+Puudusid suurema mahuga **reaalsed andmed**, mille põhjal hinnata, kuidas ühised töökeskkonnad edaspidi toimivad. Pärisandmed aitaksid paremini mõista, mis töötab hästi ja mida tasub edasi arendada.
+
+
 
 <br><br><br>
 <p align="center">
