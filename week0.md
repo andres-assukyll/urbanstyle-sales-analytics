@@ -39,11 +39,12 @@
 
 ![NotebookLM](images/nblm_src.jpg)
 
+<h2>🎧 <strong>Kuulamiseks:</strong></h2>
+
 <p>
-  <h2>🎧 <strong>Kuulamiseks:</strong></h2>
-  <h3><a href="https://andres-assukyll.github.io/urbanstyle-sales-analytics">
-    ▶️ Kuula audio kokkuvõtet
-  </a></h3><br>
+▶️ <strong><a href="https://andres-assukyll.github.io/urbanstyle-sales-analytics/">
+Kuula meie audio kokkuvõtet
+</a></strong><br><br>
 </p>
 
 
