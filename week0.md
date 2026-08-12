@@ -23,7 +23,7 @@ tulemas
 
 ## 🎯 SOOVITUS TOOMASELE
 
-tulemas
+Enne töö alustamist veenduda, et kõigil meeskonnaliikmetel on vajalikesse keskkondadesse ligipääs ja kõik vajalikud tööriistad on seadistatud.
 
 ## ⚠️ PUUDUVAD ANDMED
 
