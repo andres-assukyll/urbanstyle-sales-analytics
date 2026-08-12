@@ -59,11 +59,8 @@ tulemas
 tulemas
 
 <br><br><br>
-
 <p align="center">
-
-URBANSTYLE.LTD
-Data · Teamwork · Sales · Growth
-
+  <strong>URBANSTYLE.LTD</strong><br>
+  <sub>Sales Analytics 2026</sub>
 </p>
 
