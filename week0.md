@@ -10,37 +10,41 @@
 
 | Süsteem | Link | Sisu |
 |---|---|---|
-| 🐙 GitHub | [https://github.com/andres-assukyll/urbanstyle-sales-analytics] | README + charter.md |
-| 🗄️ Supabase | [https://supabase.com/dashboard/project/ntvsfakazdrfesjltfzz/editor/17479?schema=public | team_members + team_charter |
-| 🧠 NotebookLM |[https://notebook.google.com/notebook/61c5a45a-eb0a-4228-b5f5-d3867166bce2] | 4 CORE RAG + Audio Overview |
+| 🐙 GitHub | [https://github.com/andres-assukyll/urbanstyle-sales-analytics] | `readme.md` + `charter.md` |
+| 🗄️ Supabase | [https://supabase.com/dashboard/project/ntvsfakazdrfesjltfzz/editor/17479?schema=public | `team_members` + `team_charter` |
+| 🧠 NotebookLM |[https://notebook.google.com/notebook/61c5a45a-eb0a-4228-b5f5-d3867166bce2] | `4 CORE RAG` + `Audio Overview` |
 | 📜 Team Charter | GitHub + Supabase | Sotsiaalne leping |
 
 ---
 
-## 🐙 GitHub
+## 🐙 GitHub: ✅ 
 
 ![GitHub](images/gh_readme.jpg)
 ![GitHub](images/gh_charter.jpg)
 
-**README + Team Charter**
+**`ReadMe` + `Team Charter`**
 
 ---
 
-## 🗄️ Supabase
+## 🗄️ Supabase:✅
 
 ![Supabase](images/sb_tbl1.jpg)
 ![Supabase](images/sb_tbl2.jpg)
 
-**team_members + team_charter tabelid**
+**`team_members` + `team_charter` tabelid**
 
 ---
 
-## 🧠 NotebookLM
+## 🧠 NotebookLM: ✅
 
-![NotebookLM](images/notebooklm.png)
+![NotebookLM](images/nblm_src.jpg)
 
-**4 CORE RAG + Audio Overview**
+![NotebookLM](images/nblm_ab.jpg)
+
+### **`4 CORE RAG` + `Audio Overview`**
+
 ---
+<br>
 
 ### 💡 SUURIM ÜLLATUS
 
@@ -54,6 +58,7 @@ tulemas
 
 tulemas
 
+<br><br><br>
 
 <p align="center">
 
