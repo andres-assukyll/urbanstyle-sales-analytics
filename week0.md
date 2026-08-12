@@ -17,14 +17,48 @@
 
 ---
 
-## 💡 SUURIM ÜLLATUS
+## 🐙 GitHub
+
+![GitHub](images/gh_readme.jpg)
+![GitHub](images/gh_charter.jpg)
+
+**README + Team Charter**
+
+---
+
+## 🗄️ Supabase
+
+![Supabase](images/sb_tbl1.jpg)
+![Supabase](images/sb_tbl2.jpg)
+
+**team_members + team_charter tabelid**
+
+---
+
+## 🧠 NotebookLM
+
+![NotebookLM](images/notebooklm.png)
+
+**4 CORE RAG + Audio Overview**
+---
+
+### 💡 SUURIM ÜLLATUS
 
 tulemas
 
-## 🎯 SOOVITUS TOOMASELE
+### 🎯 SOOVITUS TOOMASELE
 
 tulemas
 
-## ⚠️ PUUDUVAD ANDMED
+### ⚠️ PUUDUVAD ANDMED
 
 tulemas
+
+
+<p align="center">
+
+URBANSTYLE.LTD
+Data · Teamwork · Sales · Growth
+
+</p>
+
