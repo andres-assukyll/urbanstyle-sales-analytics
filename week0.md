@@ -41,10 +41,11 @@
 
 <p>
   <h2>🎧 <strong>Kuulamiseks:</strong></h2>
-  <h3><a href="./audio/nblm_ao1.mp3">
-    ▶️ Sales Analytics: Audio Overview
+  <h3><a href="https://andres-assukyll.github.io/urbanstyle-sales-analytics">
+    ▶️ Kuula audio kokkuvõtet
   </a></h3><br>
 </p>
+
 
 ### **`4 CORE RAG` + `Audio Overview`**
 
