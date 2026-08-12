@@ -1,4 +1,4 @@
-# 🚀 HELLO, URBANSTYLE!
+# 🚀 TERE, URBANSTYLE!
 
 **MEESKOND:** UrbanStyle.ltd Sales Analytics  
 **NÄDAL:** 0  
