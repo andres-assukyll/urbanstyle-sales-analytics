@@ -61,15 +61,14 @@
 ## 🎯 SOOVITUS TOOMASELE
 > **„Ühine töökeskkond, ühine teadmine.“**
 
-Suunata edasine fookus **ühise töökeskkonna arendamisele** (GitHub, Supabase jt), kus vajalikud andmed on kogu tiimile **kättesaadavad, korrastatud ja lihtsasti hallatavad**.
+Suunata ka edasine fookus **ühise töökeskkonna arendamisele** (GitHub, Supabase jt), kus vajalikud andmed on kogu tiimile **kättesaadavad, korrastatud ja lihtsasti hallatavad**.
 
 <br>
 
 ## ⚠️ PUUDUVAD ANDMED
-> **„Ilma pärisandmeteta ei tea me veel, mis tegelikult toimib.“**
+> **„Iga andmekild loob pildile uue varjundi.“**
 
-Puudusid suurema mahuga **reaalsed andmed**, mille põhjal hinnata, kuidas ühised töökeskkonnad edaspidi toimivad. Pärisandmed aitaksid paremini mõista, mis töötab hästi ja mida tasub edasi arendada.
-
+Oleks võinud olla **rohkem reaalseid andmeid**, mille põhjal hinnata, kuidas töökeskkonnad edaspidi toimivad.
 
 
 <br><br><br>
