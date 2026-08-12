@@ -39,13 +39,11 @@
 
 ![NotebookLM](images/nblm_src.jpg)
 
-![NotebookLM](images/nblm_ab.jpg)
-
-<p align="center">
-  🎧 <strong>Audio Overview</strong><br><br>
-  <a href="audio/urbanstyle-audio.mp3">
-    ▶️ Kuula meie Audio Overview'd
-  </a>
+<p>
+  <h2>🎧 <strong>Kuulamiseks:</strong></h2>
+  <h3><a href="./audio/nblm_ao1.mp3">
+    ▶️ Sales Analytics: Audio Overview
+  </a></h3><br>
 </p>
 
 ### **`4 CORE RAG` + `Audio Overview`**
@@ -53,17 +51,18 @@
 ---
 <br>
 
-### 💡 SUURIM ÜLLATUS
+## 💡 SUURIM ÜLLATUS 
+> **"Mahukas materjal saab kuuldavaks."**
+Üllatuseks oli NotebookLM audiofunktsioon, mis võimaldab mahukast materjalist kiiresti arusaadava ülevaate saada. Eriti huvitav oli võimalus kohandada audio fookust vastavalt vajadusele. See näitas, et suure materjalihulgaga töötamine ei pea piirduma ainult teksti lugemisega.
+--- 
+## 🎯 SOOVITUS TOOMASELE 
+> **Hoia süsteemid korrastatud ja lingid alati kättesaadavana.**
+Kontrolli regulaarselt, et **GitHub**, **Supabase** ja **NotebookLM** oleksid kõigile vajalikele meeskonnaliikmetele ligipääsetavad ning et dokumentatsioon oleks ajakohane.
+---
+## ⚠️ PUUDUVAD ANDMED
+> **"Kõik süsteemid peavad omavahel töötama nagu üks meeskond."**
 
-tulemas
-
-### 🎯 SOOVITUS TOOMASELE
-
-tulemas
-
-### ⚠️ PUUDUVAD ANDMED
-
-tulemas
+Kontrolli regulaarselt, et **GitHub**, **Supabase** ja **NotebookLM** oleksid kõigile vajalikele meeskonnaliikmetele ligipääsetavad ning et dokumentatsioon oleks ajakohane.
 
 <br><br><br>
 <p align="center">
