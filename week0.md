@@ -30,8 +30,9 @@
 
 ![Supabase](images/sb_tbl1.jpg)
 ![Supabase](images/sb_tbl2.jpg)
+![Supabase](images/sb_select.jpg)
 
-**`team_members` + `team_charter` tabelid**
+**`team_members` + `team_charter` tabelid +  SQL `SELECT` valikupäring** 
 
 ---
 
