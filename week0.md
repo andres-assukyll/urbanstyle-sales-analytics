@@ -78,4 +78,3 @@ Oleks võinud olla **rohkem reaalseid andmeid**, mille põhjal hinnata, kuidas t
   <strong>URBANSTYLE.LTD</strong><br>
   <sub>Sales Analytics 2026</sub>
 </p>
-
