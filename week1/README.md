@@ -16,7 +16,7 @@
 ### ANDMEMAASTIK (Data Landscape): 
 - sales: [X rida, Y veergu, peamine leid]
 - customers: [X rida, Y veergu, peamine leid]
-- products: [X rida, Y veergu, peamine leid]
+- products: [362 rida, 9 tulpa, tühju andmevälju ei ole]
 - sales (kanalid/asukohad):[unikaalsed kanalid, asukohad, peamine leid]
 
 
