@@ -1,8 +1,26 @@
 ## Mitu klienti on? Millised linnad? Mis oli üllatav? Puuduvad andmed?
 
-Kliente kokku 3150
+Analüüsiti kliendibaasi ja -andmeid.
+Kliendiandmed koosnevad:
+- kliendi number
+- eesnimi
+- perenimi
+- e-posti aadress
+- telefon
+- asukoht (linn)
+- registreerumise kuupäev
+- lojaalsusaste
+- sünniaasta
 
-## **Esindatud linnad ja kliente neis:**
+---
+
+### Kliente kokku: **3150**
+
+`-` vanim registreerumine: **2020-01-02** <br>
+`-` uusim registreerumine: **2025-02-27** <br>
+`-` viimase 6 kuu jooksul liitunuid: **331**
+
+### **Esindatud linnad koos klientidega:**
 
 | Linn       | Klientide arv |
 | ---------- | ------------- |
