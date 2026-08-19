@@ -1,4 +1,4 @@
-# Mitu klienti on? Millised linnad? Mis oli üllatav? Puuduvad andmed?
+## Mitu klienti on? Millised linnad? Mis oli üllatav? Puuduvad andmed?
 
 Kliente kokku 3150
 
