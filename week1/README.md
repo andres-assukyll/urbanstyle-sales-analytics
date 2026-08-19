@@ -1,4 +1,3 @@
-# UrbanStyle.ltd Sales Analytics
 
 ## MEESKOND: Sales Analytics  |  NÄDAL: 1  |  TEGELANE: Toomas Kask  
 
