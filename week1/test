@@ -1,12 +1,19 @@
-| customer_id | first_name | last_name | email                   | phone          | city     | registration_date | loyalty_tier | birth_year |
-| ----------- | ---------- | --------- | ----------------------- | -------------- | -------- | ----------------- | ------------ | ---------- |
-| 2001        | Eha        | Aas       | eha.aas@telia.ee        | +372 8713 1455 | Tallinn  | 2024-02-27        | null         | 1973       |
-| 2002        | Aivar      | Kõiv      | aivar.koiv@outlook.com  | +372 8943 8684 | Haapsalu | 2025-01-09        | bronze       | 1988       |
-| 2003        | Maris      | Rebane    | maris.rebane@telia.ee   | +372 5918 5726 | Tartu    | 2021-02-03        | null         | 1999       |
-| 2004        | Jaak       | Talvik    | jaak.talvik@mail.ee     | +372 8554 4232 |  Tallinn | 2023-11-12        | silver       | 1974       |
-| 2005        | Raivo      | Koppel    | raivo.koppel@yahoo.com  | +372 5298 4365 | Tallinn  | 2023-05-22        | bronze       | 2004       |
-| 2006        | Aili       | Must      | null                    | +372 5444 0491 | Pärnu    | 2022-01-04        | null         | 1986       |
-| 2007        | Ragnar     | Männik    | ragnar.mannik@gmail.com | +372 5554 6619 | Pärnu    | 2024-11-30        | silver       | 1977       |
-| 2008        | Külli      | Paas      | kulli.paas@mail.ee      | +372 8543 4045 | Tartu    | 2020-06-15        | gold         | 1966       |
-| 2009        | Madis      | Mitt      | madis.mitt@yahoo.com    | +372 5917 7491 | Narva    | 2021-02-03        | silver       | 1968       |
-| 2010        | Indrek     | Lill      | indrek.lill@mail.ee     | +372 8736 0957 | Tartu    | 2023-10-09        | null         | 1979       |
+# Mitu klienti on? Millised linnad? Mis oli üllatav? Puuduvad andmed?
+
+Kliente kokku 3150
+
+Esindatud linnad:
+| ---------- |
+| PAIDE      |
+| TALLINN    |
+| VÕRU       |
+| NARVA      |
+| JÕHVI      |
+| PÄRNU      |
+| VILJANDI   |
+| RAKVERE    |
+| VALGA      |
+| KURESSAARE |
+| HAAPSALU   |
+| TARTU      |
+| ---------- |
