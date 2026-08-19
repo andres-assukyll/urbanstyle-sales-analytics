@@ -1,7 +1,8 @@
-## Mitu klienti on? Millised linnad? Mis oli üllatav? Puuduvad andmed?
+Mitu klienti on? Millised linnad? Mis oli üllatav? Puuduvad andmed?
 
-Analüüsiti kliendibaasi ja -andmeid.
-Kliendiandmed koosnevad:
+### B. Analüüsiti kliendibaasi ja -andmeid.
+
+### Kliendiandmed koosnevad:
 - kliendi number
 - eesnimi
 - perenimi
