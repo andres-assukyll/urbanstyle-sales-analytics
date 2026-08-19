@@ -43,7 +43,7 @@
 <h2>🎧 <strong>Kuulamiseks:</strong></h2>
 
 <p>
-▶️ <strong><a href="https://andres-assukyll.github.io/urbanstyle-sales-analytics/">
+▶️ <strong><a href="https://andres-assukyll.github.io/urbanstyle-sales-analytics/week0/">
 Kuula meie audio kokkuvõtet
 </a></strong><br><br>
 </p>
