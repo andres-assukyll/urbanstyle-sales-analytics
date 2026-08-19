@@ -19,6 +19,7 @@
 - products: [362 rida, 9 tulpa, tühju andmevälju ei ole]
 - sales (kanalid/asukohad):[unikaalsed kanalid, asukohad, peamine leid]
 
+---
 
 SUURIM ÜLLATUS: [1-2 lauset]  
 
