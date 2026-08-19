@@ -10,7 +10,7 @@
 
 | Süsteem | Link | Sisu |
 |---|---|---|
-| 🐙 GitHub | [https://github.com/andres-assukyll/urbanstyle-sales-analytics] | `readme.md` + `charter.md` |
+| 🐙 GitHub | [(https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week0)] | `readme.md` + `charter.md` |
 | 🗄️ Supabase | [https://supabase.com/dashboard/project/ntvsfakazdrfesjltfzz/editor/17479?schema=public | `team_members` + `team_charter` |
 | 🧠 NotebookLM |[https://notebook.google.com/notebook/61c5a45a-eb0a-4228-b5f5-d3867166bce2] | `4 CORE RAG` + `Audio Overview` |
 | 📜 Team Charter | GitHub + Supabase | Sotsiaalne leping |
