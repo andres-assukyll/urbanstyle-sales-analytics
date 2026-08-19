@@ -16,4 +16,4 @@ Esindatud linnad:
 | KURESSAARE |
 | HAAPSALU   |
 | TARTU      |
-| ---------- |
+
