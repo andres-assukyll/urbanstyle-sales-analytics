@@ -1,4 +1,4 @@
-# UrbanStyle.ltd Sales Analytics – week 1
+# UrbanStyle.ltd Sales Analytics
 
    ## Meeskonnaliikmed
    | Nimi | Roll (Nädal 1) | OS |
