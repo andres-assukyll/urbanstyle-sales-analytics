@@ -21,5 +21,8 @@
 
 
 SUURIM ÜLLATUS: [1-2 lauset]  
+
 SOOVITUS TOOMASELE: [1-2 lauset]  
+
 PUUDUVAD ANDMED: [1-2 lauset]
+
