@@ -13,7 +13,7 @@
 ---
 
 ### ANDMEMAASTIK (Data Landscape): 
-- sales: [X rida, Y veergu, peamine leid]
+- sales: [15234 rida, 12 veergu, 1487 rida, kus kliendi info puudus]
 - customers: [3150 rida, 9 veergu, kliente kokku 3150, unikaalseid e-poste 2640]
 - products: [362 rida, 9 tulpa, tühju andmevälju ei ole]
 - sales (kanalid/asukohad):[unikaalsed kanalid, asukohad, peamine leid]
