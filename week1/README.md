@@ -14,10 +14,10 @@
 ---
 
 ### ANDMEMAASTIK (Data Landscape): 
-- sales (tehingud): [X rida, Y veergu, peamine leid]
-- customers: [X rida, Y veergu, peamine leid] - products:
-- [X rida, Y veergu, peamine leid] - sales (kanalid/asukohad):
-- [unikaalsed kanalid, asukohad, peamine leid]
+- sales: [X rida, Y veergu, peamine leid]
+- customers: [X rida, Y veergu, peamine leid]
+- products: [X rida, Y veergu, peamine leid]
+- sales (kanalid/asukohad):[unikaalsed kanalid, asukohad, peamine leid]
 
 
 SUURIM ÜLLATUS: [1-2 lauset]  
