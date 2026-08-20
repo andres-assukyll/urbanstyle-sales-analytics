@@ -1,6 +1,6 @@
-# Nädal 1: SQL Basics
-## 📊 Sales Data Explorer
+# 📊 Sales Data Explorer
 
+**Nimi:** Nele Kund
 **Meeskond:** Sales Analytics  
 **Roll:** A – Sales Data Explorer  
 **Andmeallikas:** ´sales tabel´ (Supabase)
