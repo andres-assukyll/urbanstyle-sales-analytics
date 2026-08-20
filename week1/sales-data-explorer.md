@@ -1,6 +1,6 @@
 # 📊 Sales Data Explorer
 
-**Nimi:** Nele Kund
+**Nimi:** Nele Kund  
 **Meeskond:** Sales Analytics  
 **Roll:** A – Sales Data Explorer  
 **Andmeallikas:** ´sales tabel´ (Supabase)
