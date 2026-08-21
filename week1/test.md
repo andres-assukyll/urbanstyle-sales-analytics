@@ -1,4 +1,9 @@
-### B. Analüüsiti kliendibaasi ja -andmeid.
+
+Nimi: Andres Assuküll
+Meeskond: Sales Analytics
+Roll: B – Customers Data Explorer
+
+### Eesmärk analüüsita kliendibaasi ja -andmeid.
 
 ### Kliendiandmed koosnevad:
 - kliendi number
