@@ -1,4 +1,4 @@
-# Customers Data Explorer - Week 1
+# Customer Data Explorer - Week 1
 
 ---
 
