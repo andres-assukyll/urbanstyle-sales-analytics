@@ -29,5 +29,5 @@ SOOVITUS TOOMASELE:
 
 PUUDUVAD ANDMED:
 
-[1-2 lauset]
+Korduvad või puuduvad e-posti aadressid, Palju linnanimede teisendeid.
 
