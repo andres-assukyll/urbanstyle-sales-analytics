@@ -1,9 +1,8 @@
+# Customers Data Explorer - Week 1
 
-Nimi: Andres Assuküll
-
-Meeskond: Sales Analytics
-
-Roll: B – Customers Data Explorer
+**Nimi:** Andres Assuküll
+**Meeskond:** Sales Analytics
+**Roll:** B – Customers Data Explorer
 
 ### Eesmärk analüüsita kliendibaasi ja -andmeid.
 
