@@ -19,15 +19,15 @@
 
 ---
 
-SUURIM ÜLLATUS:
+### SUURIM ÜLLATUS:
 
 Üpris kõrge marginaal, ca 69%, samas kui erinevaid tootegategooriad oli suhteliselt vähe.
 
-SOOVITUS TOOMASELE:
+### SOOVITUS TOOMASELE:
 
 [1-2 lauset]
 
-PUUDUVAD ANDMED:
+### PUUDUVAD ANDMED:
 
 Korduvad või puuduvad e-posti aadressid, Palju linnanimede teisendeid.
 
