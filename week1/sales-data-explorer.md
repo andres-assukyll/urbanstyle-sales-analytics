@@ -26,7 +26,7 @@
 
 Andmestikus esineb negatiivseid tehinguid.
 
-> Kas tegemist on tagastustega?  
+> Ei ole teada, mida sellised tehingud tähistavad.
 > Kuidas arvestada neid edasises analüüsis?
 
 ## 💡 Järeldused
