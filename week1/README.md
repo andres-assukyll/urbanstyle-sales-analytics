@@ -22,17 +22,17 @@
 
 ---
 
-### SUURIM ÜLLATUS:
+### 📌 SUURIM ÜLLATUS
 
 Üpris kõrge marginaal, ca 69%, samas kui erinevaid tootegategooriad oli suhteliselt vähe.
 
-### SOOVITUS TOOMASELE:
+### 💡 SOOVITUS TOOMASELE
 
 Andmed vajavad täpsustamist ja puhastamist.
 
-### PUUDUVAD ANDMED:
+### ⚠️ PUUDUVAD ANDMED
 
-Negatiivsed väärtused müüginumbrites – pole selge, mida need süsteemis tähistavad (tagastused, andmevead) <br>
-Puuduv kliendiinfo müügiandmetes. <br>
-Korduvad või puuduvad e-posti aadressid ja linnanimede teisendid kliendiandmetes.
+- Negatiivsed väärtused müüginumbrites – pole selge, mida need süsteemis tähistavad (tagastused, andmevead) <br>
+- Puuduv kliendiinfo müügiandmetes. <br>
+- Korduvad või puuduvad e-posti aadressid ja linnanimede teisendid kliendiandmetes.
 
