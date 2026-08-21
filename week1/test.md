@@ -16,7 +16,8 @@ Eesmärk analüüsida kliendibaasi ja -andmeid.
 `-` vanim registreerumine: **2020-01-02** <br>
 `-` uusim registreerumine: **2025-02-27** <br>
 `-` viimase 6 kuu jooksul liitunuid: **331** <br>
-`-` viimase 6 kuu jooksul liitunuid: **331**
+`-` klientide e-posti aadresse: **2770** <br>
+`-` unikaalseid e-posti aadresse: **2640**
 
 ### **Esindatud linnad koos klientidega:**
 
@@ -38,5 +39,7 @@ Eesmärk analüüsida kliendibaasi ja -andmeid.
 ---
 
 ## 🔎 Üllatus
+
+
 
 ## 💡 Järeldus
