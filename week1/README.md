@@ -21,7 +21,7 @@
 
 SUURIM ÜLLATUS:
 
-[1-2 lauset]
+Üpris kõrge marginaal, ca 69%, samas kui erinevaid tootegategooriad oli suhteliselt vähe.
 
 SOOVITUS TOOMASELE:
 
