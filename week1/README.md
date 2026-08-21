@@ -25,7 +25,7 @@
 
 ### SOOVITUS TOOMASELE:
 
-[1-2 lauset]
+Andmed vajavad täpsustamist ja puhastamist.
 
 ### PUUDUVAD ANDMED:
 
