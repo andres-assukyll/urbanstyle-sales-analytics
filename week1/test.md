@@ -7,15 +7,7 @@
 Eesmärk analüüsida kliendibaasi ja -andmeid.
 
 ### Kliendiandmed koosnevad:
-- kliendi number
-- eesnimi
-- perenimi
-- e-posti aadress
-- telefon
-- asukoht (linn)
-- registreerumise kuupäev
-- lojaalsusaste
-- sünniaasta
+`kliendi number` · `eesnimi` · `perenimi` · `e-posti aadress` · `telefon` · `asukoht (linn)` · `registreerumise kuupäev` · `lojaalsusaste` · `sünniaasta`
 
 ---
 
