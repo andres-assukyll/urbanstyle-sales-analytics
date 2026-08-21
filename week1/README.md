@@ -18,7 +18,7 @@
 
 **customers:** 3150 rida, 9 veergu, kliente kokku 3150, unikaalseid e-poste 2640  
 
-**products:** 362 rida, 9 tulpa, tühju andmevälju ei ole
+**products:** 362 rida, 9 tulpa, tühju andmevälje ei ole
 
 ---
 
