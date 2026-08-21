@@ -53,4 +53,4 @@ Kliendiandmetes esines korduvaid ja NULL väärtusega e-posti aadresse, samuti p
 
 ### 💡 Järeldus
 
-Andmestik vajab puhastamist.
+Andmestik on kasutatav edasiseks analüüsik, kuid vajab puhastamist.
