@@ -1,17 +1,22 @@
 # Customers Data Explorer - Week 1
 
+---
+
 **Nimi:** Andres Assuküll <br>
 **Meeskond:** Sales Analytics <br>
 **Roll:** B – Customers Data Explorer <br>
+**Link grupitööle:** https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/README.md
 
 Eesmärk analüüsida kliendibaasi ja -andmeid.
 
-### Kliendiandmed koosnevad:
+---
+
+### 📌 Kliendiandmed koosnevad:
 `kliendi number` · `eesnimi` · `perenimi` · `e-posti aadress` · `telefon` · `asukoht (linn)` · `registreerumise kuupäev` · `lojaalsusaste` · `sünniaasta`
 
 ---
 
-### Kliente kokku: **3150**
+### 📌 Kliente kokku: **3150**
 
 `-` vanim registreerumine: **2020-01-02** <br>
 `-` uusim registreerumine: **2025-02-27** <br>
@@ -19,7 +24,9 @@ Eesmärk analüüsida kliendibaasi ja -andmeid.
 `-` klientide e-posti aadresse: **2770** <br>
 `-` unikaalseid e-posti aadresse: **2640**
 
-### **Esindatud linnad koos klientidega:**
+---
+
+### 📌 **Esindatud linnad koos klientidega:**
 
 | Linn       | Klientide arv |
 | ---------- | ------------- |
@@ -38,8 +45,12 @@ Eesmärk analüüsida kliendibaasi ja -andmeid.
 
 ---
 
-## 🔎 Üllatus
+### 🔎 Üllatus
 
+Kliendiandmetes esines korduvaid ja NULL väärtusega e-posti aadresse, samuti palju linnanimede teisendeid.
 
+---
 
-## 💡 Järeldus
+### 💡 Järeldus
+
+Andmestik vajab puhastamist.
