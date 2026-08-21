@@ -29,5 +29,7 @@
 
 ### PUUDUVAD ANDMED:
 
-Korduvad või puuduvad e-posti aadressid, Palju linnanimede teisendeid.
+Negatiivsed väärtused müüginumbrites – pole selge, kas need on tagastused. <br>
+Puuduv kliendiinfo müügiandmetes. <br>
+Korduvad või puuduvad e-posti aadressid ja linnanimede teisendid kliendiandmetes.
 
