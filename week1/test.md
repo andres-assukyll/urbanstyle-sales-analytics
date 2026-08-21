@@ -15,6 +15,7 @@ Eesmärk analüüsida kliendibaasi ja -andmeid.
 
 `-` vanim registreerumine: **2020-01-02** <br>
 `-` uusim registreerumine: **2025-02-27** <br>
+`-` viimase 6 kuu jooksul liitunuid: **331** <br>
 `-` viimase 6 kuu jooksul liitunuid: **331**
 
 ### **Esindatud linnad koos klientidega:**
@@ -33,3 +34,9 @@ Eesmärk analüüsida kliendibaasi ja -andmeid.
 | JÕHVI      | 83            |
 | VÕRU       | 81            |
 | PAIDE      | 66            |
+
+---
+
+## 🔎 Üllatus
+
+## 💡 Järeldus
