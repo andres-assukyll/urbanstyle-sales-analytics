@@ -1,5 +1,3 @@
-Mitu klienti on? Millised linnad? Mis oli üllatav? Puuduvad andmed?
-
 ### B. Analüüsiti kliendibaasi ja -andmeid.
 
 ### Kliendiandmed koosnevad:
