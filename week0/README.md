@@ -1,9 +1,8 @@
 # UrbanStyle.ltd Sales Analytics
    ## Meeskonnaliikmed
    | Nimi | Roll (Nädal 0) | OS |
-   
+   |---|---:|---:|
    | Andres Assuküll | A: GitHub + Supabase | Win |
-   
    | Nele Kund | B: NotebookLM + Team Charter | Win |
 
    ## Meie eesmärk
