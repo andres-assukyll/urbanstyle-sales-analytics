@@ -2,11 +2,11 @@
 
    ## Meeskonnaliikmed
 
-   | Evelyn Uusmaa | (https://github.com/Nordmehr/daca-portfolio/) | Win |
+   | Evelyn Uusmaa | [DACA Portfolio](https://github.com/Nordmehr/daca-portfolio/) | Win |
 
-   | Nele Kund | https://github.com/nelekund/daca-portfolio/ | Win |
+   | Nele Kund | [DACA Portfolio](https://github.com/nelekund/daca-portfolio/) | Win |
    
-   | Andres Assuküll | https://github.com/andres-assukyll/daca-portfolio | Win/Mac |
+   | Andres Assuküll | [DACA Portfolio](https://github.com/andres-assukyll/daca-portfolio/) | Win/Mac |
    
 <br>
 
