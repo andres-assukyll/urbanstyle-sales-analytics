@@ -1,4 +1,8 @@
+# Product data cleaner - Week 2
 
+**Tegija:** Andres Assuküll
+**Roll:* Product data cleaner
+**Andmetabel:* 'products'
 
 ### 📊 Tooteandmete analüüsi kokkuvõte
 
