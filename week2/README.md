@@ -9,3 +9,30 @@
 
 ---
 
+## Andmekvaliteedi koondraport
+
+```text
+MEESKOND: Operatsioonid  |  NÄDAL: 2  |  TEGELANE: Toomas Kask
+
+ROLL: Müügiandmete puhastaja (Sales Data Cleaner)
+
+PEAMISED LEIUD:
+1. Sales: leitud 6603 ebapäüsete andmetega müügirida, mis eemaldati.
+2. Customers: leitud [arv] kommentaar.
+3. Products: leitud [arv] kommentaar.
+
+
+SUURIM ÜLLATUS:
+Müügiandmetes leidus 5116 üleliigset duplikaatrida.
+korduvaid invoice_id väärtused esinesid tabelis 1487 korda.
+
+SOOVITUS TOOMASELE:
+Esimesena tuleks parandada duplikaatide tekkimise põhjus, sest korduvad
+müügiread võivad näidata tegelikust suuremat müügitulu ja tellimuste arvu.
+Edaspidi võiks invoice_id kordumist kontrollida juba andmete sisestamisel.
+
+PUUDUVAD ANDMED:
+Puuduvate customer_id väärtuste tõttu ei saa kõiki oste kliendiga siduda.
+Puuduvate sale_date ja total_price väärtustega müüke ei saa täielikult
+kasutada müügi- ega perioodianalüüsis.
+```
