@@ -3,7 +3,7 @@
 
    ### Meeskonnaliikmed
    | Nimi | Roll (Nädal 1) | OS |
-   |---|---:|---:|
+   |---|---|:---:|
    |  [Nele Kund](sales-data-explorer.md)  | A: Sales Data Explorer | Win |
    |  [Andres Assuküll](customer-data-explorer.md)  | B: Customer Data Explorer | Mac |
    | [Evelyn Uusmaa](product-data-explorer.md) | C: Product Data Explorer | Win |
