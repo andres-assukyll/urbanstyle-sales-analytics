@@ -19,12 +19,13 @@ ROLL: Müügiandmete puhastaja (Sales Data Cleaner)
 PEAMISED LEIUD:
 1. Sales: leitud 6603 ebaptäsete andmetega müügirida, mis eemaldati.
 2. Customers: leitud [arv] kommentaar.
-3. Products: leitud [arv] kommentaar.
+3. Products: 12 duplikaatset toodet, mis eemaldati.
 
 
 SUURIM ÜLLATUS:
 Müügiandmetes leidus 5116 üleliigset duplikaatrida.
 korduvaid invoice_id väärtused esinesid tabelis 1487 korda.
+Tooteandmed olid üpris puhtad.
 
 SOOVITUS TOOMASELE:
 Esimesena tuleks parandada duplikaatide tekkimise põhjus, sest korduvad
