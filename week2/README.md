@@ -14,7 +14,10 @@
 ```text
 PEAMISED LEIUD:
 1. Sales: leitud 6603 ebaptäsete andmetega müügirida, mis eemaldati.
-2. Customers: leitud 520 kliendiandmetega seotud probleemi.
+2. Customers: leitud kokku 520 kliendiandmetega seotud probleemi, millest:
+- 380 on puuduvad e-mailid;
+- 128 on duplikaatsed e-mailid;
+- 12 linnal on ebajärjekindlad nimed
 3. Products: 12 duplikaatset toodet, mis eemaldati.
 
 
