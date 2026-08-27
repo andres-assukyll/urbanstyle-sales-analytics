@@ -37,7 +37,6 @@ See on oluline risk, sest korduvad müügiread võivad näidata tegelikust suure
 ---
 
 ### 💡 Soovitus Toomasele
-
 **Peamine prioriteet: parandada duplikaatide tekkepõhjus.** <br>
 Korduvate müügiridade vältimiseks võiks `invoice_id` kordumist kontrollida juba **andmete sisestamisel**. <br>
 See aitab vähendada hilisemat puhastustööd ning vältida moonutatud müügi- ja tellimusstatistikat.
