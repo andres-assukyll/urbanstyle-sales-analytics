@@ -13,6 +13,10 @@
 ---
 
 ## 📊 Andmekvaliteedi koondraport
+![Sales](https://img.shields.io/badge/Sales-6603%20rida%20eemaldatud-red)
+![Customers](https://img.shields.io/badge/Customers-info%20tulekul-orange)
+![Products](https://img.shields.io/badge/Products-12%20duplikaati%20eemaldatud-yellow)
+![Status](https://img.shields.io/badge/Status-Cleaned-success)
 
 | Andmestik | Tulemus |
 |---|---|
