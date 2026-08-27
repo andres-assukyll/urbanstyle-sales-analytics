@@ -2,7 +2,7 @@
 
 ## ⚙️ Kliendiandmete puhastamine
 
-**Nimi:** Nele Kund 
+**Nimi:** Nele Kund   
 **Meeskond:** Sales Analytics    
 **Roll:** B – Customer Data Cleaner  
 **Andmeallikas:** ´customers_test´ tabel (Supabase)   
