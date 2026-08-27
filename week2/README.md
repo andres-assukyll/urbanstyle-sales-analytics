@@ -12,10 +12,6 @@
 ## Andmekvaliteedi koondraport
 
 ```text
-MEESKOND: Operatsioonid  |  NÄDAL: 2  |  TEGELANE: Toomas Kask
-
-ROLL: Müügiandmete puhastaja (Sales Data Cleaner)
-
 PEAMISED LEIUD:
 1. Sales: leitud 6603 ebaptäsete andmetega müügirida, mis eemaldati.
 2. Customers: leitud 520 kliendiandmetega seotud probleemi.
