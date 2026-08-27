@@ -5,7 +5,7 @@
 **Nimi:** Nele Kund   
 **Meeskond:** Sales Analytics    
 **Roll:** B – Customer Data Cleaner  
-**Andmeallikas:** ´customers_test´ tabel (Supabase)   
+**Andmeallikas:** ´customers´ tabel (Supabase)   
 
 ### 📝 Puhastamisraport
 
