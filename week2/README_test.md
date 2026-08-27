@@ -56,13 +56,12 @@ Andmete (nt `invoice_id`, `email`, `product_id`jms) kordumisi ja puudumisi tulek
 | `customer_id` | Puuduvad väärtused | ❌ Kõiki oste ei saa kliendiga siduda |
 | `sale_date`   | Puuduvad väärtused | ❌ Müüki ei saa täielikult kasutada perioodianalüüsis |
 | `total_price` | Puuduvad väärtused | ❌ Müüki ei saa täielikult kasutada müügitulu analüüsis |
+| `email`       | Puuduvad väärtused | ❌ Häiritud kliendisuhtlus |
 
 ---
 
 #### 📌 Kokkuvõte
 
-> **🎯 Prioriteet:** peatada duplikaatide tekkimine andmete sisestamisel.  
-> **⚠️ Peamine risk:** müügitulu ja tellimuste arvu kunstlik suurenemine.  
 > **📊 Andmekvaliteet:** Sales ⚠️ · Customers ⚠️ · Products ⭐
 
 
