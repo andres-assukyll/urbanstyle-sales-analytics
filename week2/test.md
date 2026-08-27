@@ -1,7 +1,4 @@
-# 📊 Sales Analytics — Nädal 2
-
-> **👤 Tegelane:** Toomas Kask  
-> **🎯 Roll:** Müügiandmete puhastaja · *Sales Data Cleaner*
+## MEESKOND: Sales Analytics  |  NÄDAL: 2 |  TEGELANE: Toomas Kask
 
 ---
 
@@ -15,7 +12,7 @@
 
 ---
 
-## 🔎 Andmekvaliteedi koondraport
+## 📊 Andmekvaliteedi koondraport
 
 | Andmestik | Tulemus |
 |---|---:|
