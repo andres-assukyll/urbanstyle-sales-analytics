@@ -19,7 +19,8 @@
 ![Sales](https://img.shields.io/badge/Sales-6603%20rida%20eemaldatud-orange)
 ![Duplicates](https://img.shields.io/badge/Duplicates-5116-red)
 ![Invoice IDs](https://img.shields.io/badge/Invoice%20ID-1487%20kordust-red)
-![Products](https://img.shields.io/badge/Products-12%20duplikaati-yellow)
+![Customers](https://img.shields.io/badge/Customers-info%20tulekul-yellow)
+![Products](https://img.shields.io/badge/Products-12%20duplikaati%20eemaldatud-yellow)
 ![Status](https://img.shields.io/badge/Status-Cleaned-success)
 
 | Andmestik | Probleem | Tulemus |
