@@ -32,7 +32,7 @@ Müügiandmetes **5 116 üleliigset duplikaatrida**. Korduvaid `invoice_id` vä�
 *See on oluline risk, sest korduvad müügiread võivad näidata tegelikust suuremat **müügitulu** ja **tellimuste arvu**.*
 
 Kliendiandmetes puuduvaid e-poste **380** ja korduvaid **128**. <br>
-*Tekitab probleemseid kliendikontakte (nt tellimuse kinnitamine, teavitamine, turunduskampaaniad jms).*
+*Tekitab probleemseid kliendikontakte (nt online-tellimuse kinnitamine, teavitamine, turunduskampaaniad jms).*
 
 🟢 **Hea uudis:** tooteandmed olid üpris puhtad. <br>
 
