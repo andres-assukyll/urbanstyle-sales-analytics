@@ -26,7 +26,7 @@
 
 ---
 
-### 🚨 Suurim üllatus
+#### 🚨 Suurim üllatus
 
 Müügiandmetes leidus **5 116 üleliigset duplikaatrida**.  <br>
 Korduvaid `invoice_id` väärtusi esines tabelis **1 487 korral**. <br>
@@ -36,7 +36,7 @@ See on oluline risk, sest korduvad müügiread võivad näidata tegelikust suure
 
 ---
 
-### 💡 Soovitus Toomasele
+#### 💡 Soovitus Toomasele
 🎯 **Peamine prioriteet: parandada duplikaatide tekkepõhjus.** <br>
 Andmete (nt `invoice_id`, `product_id`jne) kordumisi tuleks kontrollida juba **andmete sisestamisel**.
 
@@ -48,7 +48,7 @@ See aitab: <br>
 
 ---
 
-### ⚠️ Puuduvad andmed
+#### ⚠️ Puuduvad andmed
 | Väli          | Probleem           | Mõju analüüsile                         |
 | ------------- | ------------------ | --------------------------------------- |
 | `customer_id` | Puuduvad väärtused | ❌ Kõiki oste ei saa kliendiga siduda |
@@ -57,7 +57,7 @@ See aitab: <br>
 
 ---
 
-## 📌 Kokkuvõte
+### 📌 Kokkuvõte
 
 > **🎯 Prioriteet:** peatada duplikaatide tekkimine andmete sisestamisel.  
 > **⚠️ Peamine risk:** müügitulu ja tellimuste arvu kunstlik suurenemine.  
