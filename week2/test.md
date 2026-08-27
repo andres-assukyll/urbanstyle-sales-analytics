@@ -29,7 +29,7 @@
 ### 🚨 Suurim üllatus
 
 Müügiandmetes leidus **5 116 üleliigset duplikaatrida**.  <br>
-`invoice_id` korduvad väärtused esinesid tabelis **1 487 korral**. <br>
+Korduvaid `invoice_id` väärtusi esines tabelis **1 487 korral**. <br>
 See on oluline risk, sest korduvad müügiread võivad näidata tegelikust suuremat **müügitulu** ja **tellimuste arvu**.
 
 🟢 **Hea uudis:** tooteandmed olid üpris puhtad.
