@@ -37,19 +37,23 @@ See on oluline risk, sest korduvad müügiread võivad näidata tegelikust suure
 ---
 
 ### 💡 Soovitus Toomasele
-**Peamine prioriteet: parandada duplikaatide tekkepõhjus.** <br>
-Korduvate müügiridade vältimiseks võiks `invoice_id` kordumist kontrollida juba **andmete sisestamisel**. <br>
-See aitab vähendada hilisemat puhastustööd ning vältida moonutatud müügi- ja tellimusstatistikat.
+🎯 **Peamine prioriteet: parandada duplikaatide tekkepõhjus.** <br>
+Andmete (nt `invoice_id`, `product_id`jne) kordumisi tuleks kontrollida juba **andmete sisestamisel**.
+
+See aitab: <br>
+- vältida topeltmüüke;
+- hoida müügitulu õigena;
+- vähendada hilisemat puhastustööd;
+- parandada perioodi- ja müügitulemuste analüüsi.
 
 ---
 
 ### ⚠️ Puuduvad andmed
-
-| Väli | Probleem | Mõju |
-|---|---|---|
-| `customer_id` | Väärtus puudub | Kõiki oste ei saa kliendiga siduda |
-| `sale_date` | Väärtus puudub | Müüki ei saa täielikult kasutada perioodianalüüsis |
-| `total_price` | Väärtus puudub | Müüki ei saa täielikult kasutada müügitulu analüüsis |
+| Väli          | Probleem           | Mõju analüüsile                         |
+| ------------- | ------------------ | --------------------------------------- |
+| `customer_id` | Puuduvad väärtused | ❌ Kõiki oste ei saa kliendiga siduda |
+| `sale_date`   | Puuduvad väärtused | ❌ Müüki ei saa täielikult kasutada perioodianalüüsis |
+| `total_price` | Puuduvad väärtused | ❌ Müüki ei saa täielikult kasutada müügitulu analüüsis |
 
 ---
 
@@ -58,3 +62,5 @@ See aitab vähendada hilisemat puhastustööd ning vältida moonutatud müügi- 
 > **🎯 Prioriteet:** peatada duplikaatide tekkimine andmete sisestamisel.  
 > **⚠️ Peamine risk:** müügitulu ja tellimuste arvu kunstlik suurenemine.  
 > **📊 Andmekvaliteet:** Sales ⚠️ · Customers ⚠️ · Products 🟢
+
+
