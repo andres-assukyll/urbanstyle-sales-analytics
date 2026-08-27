@@ -39,15 +39,14 @@ Kliendiandmetes puuduvaid e-poste **380** ja korduvaid **128**. <br>
 ---
 
 ### 💡 Soovitus Toomasele
-🎯 **Peamine prioriteet: parandada duplikaatide tekkepõhjus.** <br>
-Andmete (nt `invoice_id`, èmail`, `product_id`jms) kordumisi ja puudumisi tuleks kontrollida juba **andmete sisestamisel**.
+🎯 **Peamine prioriteet: parandada duplikaatide ja puuduvate andmete tekkepõhjus.** <br>
+Andmete (nt `invoice_id`, `email`, `product_id`jms) kordumisi ja puudumisi tuleks kontrollida juba **andmete sisestamisel**.
 
-See aitab:
-- vältida topeltmüüke;
-- hoida müügitulu õigena;
-- hoida kliendi- ja tooteandmed õigena;
-- vähendada hilisemat puhastustööd;
-- parandada perioodi- ja müügitulemuste analüüsi.
+ **See aitab:** <br>
+🔸 vältida topeltmüüke; <br>
+🔸 tagada andmete kvaliteedi; <br>
+🔸 vähendada puhastustööd; <br>
+🔸 parandada analüüsi täpsust.
 
 ---
 
