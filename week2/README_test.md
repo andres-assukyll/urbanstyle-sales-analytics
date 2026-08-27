@@ -15,8 +15,8 @@
 ## 📈 Andmekvaliteedi koondraport
 ![Sales](https://img.shields.io/badge/Sales-6603%20rida%20eemaldatud-red)
 ![Customers](https://img.shields.io/badge/Customers-520%20probleemi%20leitud-orange)
-![Products](https://img.shields.io/badge/Products-12%20duplikaati%20eemaldatud-yellow)
-![Status](https://img.shields.io/badge/Status-Cleaned-success)
+![Products](https://img.shields.io/badge/Products-12%20duplikaati%20eemaldatud-brightgreen)
+![Status](https://img.shields.io/badge/Status-vajab%20täiendamist-yellow)
 
 | Andmestik | Tulemus |
 |---|---|
@@ -28,22 +28,24 @@
 
 ### 🚨 Suurim üllatus
 
-Müügiandmetes leidus **5 116 üleliigset duplikaatrida**.  <br>
-Korduvaid `invoice_id` väärtusi esines tabelis **1 487 korral**. <br>
-See on oluline risk, sest korduvad müügiread võivad näidata tegelikust suuremat **müügitulu** ja **tellimuste arvu**.
+Müügiandmetes **5 116 üleliigset duplikaatrida**. Korduvaid `invoice_id` väärtusi **1 487**. <br> 
+*See on oluline risk, sest korduvad müügiread võivad näidata tegelikust suuremat **müügitulu** ja **tellimuste arvu**.*
+
+Kliendiandmetes puuduvaid e-poste **380** ja korduvaid **128**. <br>
+*Tekitab probleemseid kliendikontakte (nt tellimuse kinnitamine, teavitamine, turunduskampaaniad jms).*
 
 🟢 **Hea uudis:** tooteandmed olid üpris puhtad. <br>
-> 🔴 🟠 🟡 🟢 milline pallike tuleb kliendiandmetele?
+
 ---
 
 ### 💡 Soovitus Toomasele
 🎯 **Peamine prioriteet: parandada duplikaatide tekkepõhjus.** <br>
-Andmete (nt `invoice_id`, `product_id`jne) kordumisi tuleks kontrollida juba **andmete sisestamisel**.
+Andmete (nt `invoice_id`, èmail`, `product_id`jms) kordumisi ja puudumisi tuleks kontrollida juba **andmete sisestamisel**.
 
 See aitab:
 - vältida topeltmüüke;
 - hoida müügitulu õigena;
-- hoida tooteandmed õigena;
+- hoida kliendi- ja tooteandmed õigena;
 - vähendada hilisemat puhastustööd;
 - parandada perioodi- ja müügitulemuste analüüsi.
 
@@ -62,6 +64,6 @@ See aitab:
 
 > **🎯 Prioriteet:** peatada duplikaatide tekkimine andmete sisestamisel.  
 > **⚠️ Peamine risk:** müügitulu ja tellimuste arvu kunstlik suurenemine.  
-> **📊 Andmekvaliteet:** Sales ⚠️ · Customers ⚠️ · Products 🟡
+> **📊 Andmekvaliteet:** Sales ⚠️ · Customers ⚠️ · Products ⭐
 
 
