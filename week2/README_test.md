@@ -14,14 +14,14 @@
 
 ## 📈 Andmekvaliteedi koondraport
 ![Sales](https://img.shields.io/badge/Sales-6603%20rida%20eemaldatud-red)
-![Customers](https://img.shields.io/badge/Customers-info%20tulekul-orange)
+![Customers](https://img.shields.io/badge/Customers-520%20probleemi%20leitud-orange)
 ![Products](https://img.shields.io/badge/Products-12%20duplikaati%20eemaldatud-yellow)
 ![Status](https://img.shields.io/badge/Status-Cleaned-success)
 
 | Andmestik | Tulemus |
 |---|---|
 | 🧾 **Sales** | **6 603** ebatäpse andmekvaliteediga müügirida eemaldatud |
-| 👥 **Customers** | **520** kommentaari leitud |
+| 👥 **Customers** | **520** kliendiandmetega seotud probleemi leitud |
 | 📦 **Products** | **12** duplikaatset toodet eemaldatud |
 
 ---
