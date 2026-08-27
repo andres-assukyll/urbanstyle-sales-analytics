@@ -21,7 +21,7 @@
 | Andmestik | Tulemus |
 |---|---|
 | 🧾 **Sales** | **6 603** ebatäpse andmekvaliteediga müügirida eemaldatud |
-| 👥 **Customers** | **[arv]** kommentaari leitud |
+| 👥 **Customers** | **520** kommentaari leitud |
 | 📦 **Products** | **12** duplikaatset toodet eemaldatud |
 
 ---
