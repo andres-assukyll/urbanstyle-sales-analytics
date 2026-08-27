@@ -22,7 +22,7 @@
 
 Selgitada välja **puuduvate e-mailide põhjused** ja võimalusel **täiendada kontaktandmeid**, sest:
 
-🔸tellimuse kinnitust meili teel ei ole võimalik puuduva e-mailiga kliendile saata;  
+🔸online-tellimuse kinnitust meili teel ei ole võimalik puuduva e-mailiga kliendile saata;  
 🔸tellimustega seotud probleemide korral ei saa ettevõte klienti meili teel teavitada;  
 🔸puuduvad e-mailid piiravad tulevaste turunduskampaaniate potentsiaali.  
 
