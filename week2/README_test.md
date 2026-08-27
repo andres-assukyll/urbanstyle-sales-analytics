@@ -40,7 +40,7 @@ See on oluline risk, sest korduvad müügiread võivad näidata tegelikust suure
 🎯 **Peamine prioriteet: parandada duplikaatide tekkepõhjus.** <br>
 Andmete (nt `invoice_id`, `product_id`jne) kordumisi tuleks kontrollida juba **andmete sisestamisel**.
 
-See aitab: <br>
+See aitab:
 - vältida topeltmüüke;
 - hoida müügitulu õigena;
 - hoida tooteandmed õigena;
