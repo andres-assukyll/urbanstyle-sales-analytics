@@ -1,4 +1,4 @@
-## MEESKOND: Sales Analytics  |  NÄDAL: 12 |  TEGELANE: Toomas Kask
+## MEESKOND: Sales Analytics  |  NÄDAL: 2 |  TEGELANE: Toomas Kask
 
    ### Meeskonnaliikmed
    | Nimi | Roll (Nädal 2) | OS |
