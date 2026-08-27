@@ -1,15 +1,25 @@
-# 📊 Operatsioonid — Nädal 2
+# 📊 Sales Analytics — Nädal 2
 
 > **👤 Tegelane:** Toomas Kask  
 > **🎯 Roll:** Müügiandmete puhastaja · *Sales Data Cleaner*
 
 ---
 
-## 🔎 Peamised leiud
+## 👥 Meeskonnaliikmed
+
+| Nimi | Roll (Nädal 2) | OS |
+|---|---|:---:|
+| [Evelyn Uusmaa](sales-data-cleaner.md) | A: Sales Data Cleaner | 🪟 Win |
+| [Nele Kund](customer-data-cleaner.md) | B: Customer Data Cleaner | 🪟 Win |
+| [Andres Assuküll](product-data-cleaner.md) | C: Product Data Cleaner | 🍎 Mac |
+
+---
+
+## 🔎 Andmekvaliteedi koondraport
 
 | Andmestik | Tulemus |
 |---|---:|
-| 🧾 **Sales** | **6 603** ebatäpset müügirida eemaldatud |
+| 🧾 **Sales** | **6 603** ebatäpse andmekvaliteediga müügirida eemaldatud |
 | 👥 **Customers** | **[arv]** kommentaari leitud |
 | 📦 **Products** | **12** duplikaatset toodet eemaldatud |
 
@@ -22,7 +32,7 @@ leidus müügiandmetes.
 
 > `invoice_id` korduvad väärtused esinesid tabelis **1 487 korral**.
 
-See on oluline risk, sest duplikaatsed müügiread võivad näidata tegelikust suuremat **müügitulu** ja **tellimuste arvu**.
+See on oluline risk, sest korduvad müügiread võivad näidata tegelikust suuremat **müügitulu** ja **tellimuste arvu**.
 
 🟢 **Hea uudis:** tooteandmed olid üpris puhtad.
 
@@ -30,24 +40,26 @@ See on oluline risk, sest duplikaatsed müügiread võivad näidata tegelikust s
 
 ## 💡 Soovitus Toomasele
 
-**1. Kõigepealt lahendada duplikaatide tekkepõhjus.**
+**Peamine prioriteet: parandada duplikaatide tekkepõhjus.**
 
-Korduvate müügiridade vältimiseks võiks `invoice_id` unikaalsust kontrollida juba **andmete sisestamisel**.
+Korduvate müügiridade vältimiseks võiks `invoice_id` kordumist kontrollida juba **andmete sisestamisel**.
 
-See vähendaks hilisemat puhastustööd ning aitaks vältida moonutatud müügi- ja tellimusstatistikat.
+See aitab vähendada hilisemat puhastustööd ning vältida moonutatud müügi- ja tellimusstatistikat.
 
 ---
 
 ## ⚠️ Puuduvad andmed
 
-- `customer_id` puudumisel ei saa kõiki oste kliendiga siduda.
-- `sale_date` puudumisel ei saa müüki täielikult kasutada perioodianalüüsis.
-- `total_price` puudumisel ei saa müüki täielikult kasutada müügitulu analüüsis.
+| Väli | Probleem | Mõju |
+|---|---|---|
+| `customer_id` | Väärtus puudub | Kõiki oste ei saa kliendiga siduda |
+| `sale_date` | Väärtus puudub | Müüki ei saa täielikult kasutada perioodianalüüsis |
+| `total_price` | Väärtus puudub | Müüki ei saa täielikult kasutada müügitulu analüüsis |
 
 ---
 
 ### 📌 Kokkuvõte
 
-> **Peamine prioriteet:** peatada duplikaatide tekkimine andmete sisestamisel.  
-> **Peamine risk:** müügitulemuste kunstlik suurenemine.  
-> **Andmekvaliteet:** Sales ⚠️ · Customers ⚠️ · Products 🟢
+> **🎯 Prioriteet:** peatada duplikaatide tekkimine andmete sisestamisel.  
+> **⚠️ Peamine risk:** müügitulu ja tellimuste arvu kunstlik suurenemine.  
+> **📊 Andmekvaliteet:** Sales ⚠️ · Customers ⚠️ · Products 🟢
