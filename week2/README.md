@@ -25,16 +25,12 @@ SUURIM ÜLLATUS:
 Müügiandmetes leidus 5116 üleliigset duplikaatrida.
 korduvaid invoice_id väärtused esinesid tabelis 1487 korda.
 Tooteandmed olid üpris puhtad.
-Kliendiandmete tabelis oli iga unikaalse linna kohta vähemalt 2 erinevat nimekuju.
+Kliendiandmetes esines kõikide linnade puhul vähemalt 2 erinevat nimekuju.
 
 SOOVITUS TOOMASELE:
 Esimesena tuleks parandada duplikaatide tekkimise põhjus, sest korduvad
 müügiread võivad näidata tegelikust suuremat müügitulu ja tellimuste arvu.
 Edaspidi võiks invoice_id kordumist kontrollida juba andmete sisestamisel.
-
-Kliendiandmete puhul selgitada esmalt välja puuduvate e-mailide põhjused ja võimalusel
-täiendada kontaktandmeid, sest need mõjutavad tellimuste kinnituste saatmist, klientide
-teavitamist ja turunduskampaaniate efektiivsust.
 
 PUUDUVAD ANDMED:
 Puuduvate customer_id väärtuste tõttu ei saa kõiki oste kliendiga siduda.
