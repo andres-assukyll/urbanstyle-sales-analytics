@@ -26,30 +26,25 @@
 
 ---
 
-## 🚨 Suurim üllatus
+### 🚨 Suurim üllatus
 
-**5 116 üleliigset duplikaatrida**  
-leidus müügiandmetes.
-
-> `invoice_id` korduvad väärtused esinesid tabelis **1 487 korral**.
-
+Müügiandmetes leidus **5 116 üleliigset duplikaatrida**.  <br>
+`invoice_id` korduvad väärtused esinesid tabelis **1 487 korral**. <br>
 See on oluline risk, sest korduvad müügiread võivad näidata tegelikust suuremat **müügitulu** ja **tellimuste arvu**.
 
 🟢 **Hea uudis:** tooteandmed olid üpris puhtad.
 
 ---
 
-## 💡 Soovitus Toomasele
+### 💡 Soovitus Toomasele
 
-**Peamine prioriteet: parandada duplikaatide tekkepõhjus.**
-
-Korduvate müügiridade vältimiseks võiks `invoice_id` kordumist kontrollida juba **andmete sisestamisel**.
-
+**Peamine prioriteet: parandada duplikaatide tekkepõhjus.** <br>
+Korduvate müügiridade vältimiseks võiks `invoice_id` kordumist kontrollida juba **andmete sisestamisel**. <br>
 See aitab vähendada hilisemat puhastustööd ning vältida moonutatud müügi- ja tellimusstatistikat.
 
 ---
 
-## ⚠️ Puuduvad andmed
+### ⚠️ Puuduvad andmed
 
 | Väli | Probleem | Mõju |
 |---|---|---|
@@ -59,7 +54,7 @@ See aitab vähendada hilisemat puhastustööd ning vältida moonutatud müügi- 
 
 ---
 
-### 📌 Kokkuvõte
+## 📌 Kokkuvõte
 
 > **🎯 Prioriteet:** peatada duplikaatide tekkimine andmete sisestamisel.  
 > **⚠️ Peamine risk:** müügitulu ja tellimuste arvu kunstlik suurenemine.  
