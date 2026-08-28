@@ -36,6 +36,5 @@ PUUDUVAD ANDMED:
 Puuduvate customer_id väärtuste tõttu ei saa kõiki oste kliendiga siduda.
 Puuduvate sale_date ja total_price väärtustega müüke ei saa täielikult
 kasutada müügi- ega perioodianalüüsis.
-Pole teada, kas puuduvaid meiliaadresse saab olemasolevate andmete põhjal
-tuletada või on vaja kliendi sisendit.
+380 kliendi meiliaadressi - võimalusel täiendada kontaktandmeid.
 ```
