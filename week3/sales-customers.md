@@ -12,14 +12,13 @@
 ### 🔎 Peamised leiud
 
 **👥 Kliendid** <br>
-TOP 10 klientide seas domineerivad `kuld-` ja `hõbekliendid`; <br> 
-nende hulgas ka **kolm** `lojaalsustasemeta` klienti.
+TOP 10 klientide seas domineerivad `kuld-` ja `hõbekliendid`, nende hulgas ka **kolm** `lojaalsustasemeta` klienti.
 
 **🏙️ Linnad** <br>
-Suurim kogumüük – **Tallinna** kliendid; 
-⭐ **Pärnu** klientid
-head ostlejad, vaid iga ost on olnud ka keskmiselt suurema väärtusega.
-on kõrgeim müük kliendi ja ostu kohta ning enim oste kliendi kohta.
+1. Suurim kogumüük – **Tallinna** kliendid, **Tartu** omadel vaid u. **6,2%** madalam. <br>
+*⭐ **Pärnu** kliendid pole ainult head ostlejad, vaid iga ost on olnud ka keskmiselt suurema väärtusega.*
+
+2. Parim müügikoht – **Tallinna** pood, **veebimüük** maas vaid **4.2%**.
 
 **💎 Lojaalsus** <br>
 Suurima kogumüügiga kliendisegmendil **lojaalsustase puudub**. <br>
@@ -29,7 +28,9 @@ Järgnevad ⚪ **hõbe-**, 🟡 **kuld-** ja 🟠 **pronkskliendid**.
 
 ### 😲 Suurim üllatus
 
-Pärnu kliendid paistavad silma eriti kõrge ostuväärtusega – müük kliendi kohta on 1 355 EUR ja müük ostu kohta 303.82 EUR, mis on analüüsi kõrgeimad näitajad.
+**Pärnu** klientidle **analüüsi kõrgeimad näitajad**:
+- müük kliendi kohta **1 355 EUR**;
+- müük ostu kohta **303.82 EUR**.
 
 ---
 
@@ -42,4 +43,4 @@ Samuti tasub täpsemalt uurida Pärnu klientide ostukäitumist, vahest leidub se
 
 ### ⚠️ Puuduvad andmed
 
-Analüüsist ei selgu näiteks kasumimarginaalid, kliendi omandamise kulu (CAC), kliendi eluea väärtus (CLV), toodete kategooriad ega ostude ajastus/sagedus ajas. Nende andmeteta on keerulisem hinnata, millised kliendid ja müügikanalid on tegelikult kõige kasumlikumad.
+Olemasolevad andmed võimaldavad võrrelda klientide kogumüüki, ostude arvu, asukohta, müügikanalit ja lojaalsustaset, kuid detailsemate järelduste tegemiseks oleks vaja täiendavaid kliendi- ja ostuandmeid.
