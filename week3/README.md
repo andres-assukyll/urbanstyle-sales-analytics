@@ -12,7 +12,7 @@
 
 ---
 
-Meeskond koostab 1 Google Slide / shared doc järgmise struktuuriga:
+### Meeskond koostab 1 Google Slide / shared doc järgmise struktuuriga:
 
 Meeskond [nimi] — Nädal 3 JOIN-analüüs  
 
