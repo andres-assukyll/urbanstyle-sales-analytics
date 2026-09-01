@@ -6,7 +6,7 @@
 
 | Nimi | Roll (Nädal 2) | OS |
 |---|---|:---:|
-| [Andres Assuküll](sales-products.md) | A: Sales + Customers | 🍎 Mac |
+| [Andres Assuküll](sales-customers.md) | A: Sales + Customers | 🍎 Mac |
 | [Evelyn Uusmaa](sales-data-cleaner.md) | B: Customers w/o purchases | 🪟 Win |
 | [Nele Kund](customer-data-cleaner.md) | C: Products + Inventory | 🪟 Win |
 
