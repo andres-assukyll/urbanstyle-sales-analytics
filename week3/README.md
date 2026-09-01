@@ -6,8 +6,8 @@
 
 | Nimi | Roll (Nädal 2) | OS |
 |---|---|:---:|
-| [Andres Assuküll](product-data-cleaner.md) | A: ... | 🍎 Mac |
-| [Evelyn Uusmaa](sales-data-cleaner.md) | B: ... | 🪟 Win |
-| [Nele Kund](customer-data-cleaner.md) | C: ... | 🪟 Win |
+| [Andres Assuküll](product-data-cleaner.md) | A: Sales + Customers | 🍎 Mac |
+| [Evelyn Uusmaa](sales-data-cleaner.md) | B: Customers w/o purchases | 🪟 Win |
+| [Nele Kund](customer-data-cleaner.md) | C: Products + Inventory | 🪟 Win |
 
 ---
