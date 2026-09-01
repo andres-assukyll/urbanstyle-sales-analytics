@@ -4,11 +4,11 @@
 
 ## 👥 Meeskonnaliikmed
 
-| Nimi | Roll (Nädal 2) | OS |
-|---|---|---|:---:|
-| Andres Assuküll | A: Sales + Customers | [Analüüs detailsemalt](sales-customers.md)  | 🍎 Mac |
-| Evelyn Uusmaa | B: Customers w/o purchases | [Analüüs detailsemalt](XXXXX.md) | 🪟 Win |
-| Nele Kund | C: Products + Inventory | [Analüüs detailsemalt](XXXXX.md) | 🪟 Win |
+| Nimi | Roll (Nädal 3) | Analüüs detailides | OS |
+|---|:---:|---|:---:|
+| Andres Assuküll | A | [Sales + Customers](sales-customers.md)  | 🍎 Mac |
+| Evelyn Uusmaa | B | [Customers w/o purchases ](XXXXX.md) | 🪟 Win |
+| Nele Kund | C | [Products + Inventory ](XXXXX.md) | 🪟 Win |
 
 ---
 
