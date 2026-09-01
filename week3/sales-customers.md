@@ -5,6 +5,7 @@
 **Andmetabel:** `sales` ja `customers` <br><br>
 
 ## 📋 LÜHIKOKKUVÕTE <br>
+Uuriti TOP kliente INNER JOIN klausliga. <br>
 > *Täielik analüüs on [leitav siit](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-3/README.md)*.
 
 ---
