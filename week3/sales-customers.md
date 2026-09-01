@@ -2,10 +2,10 @@
 
 **Tegija:** Andres Assuküll <br>
 **Roll:** (A) Müügi ja klientide ühendamine <br>
-**Andmetabel:** `sales` ja `customers` <br>
-**Täielik analüüs:** [Vaata siit](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-3/README.md)
+**Andmetabel:** `sales` ja `customers` <br><br>
 
-## 📋 LÜHIKOKKUVÕTE
+## 📋 LÜHIKOKKUVÕTE <br>
+> *Täielik analüüs on [leitav siit](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-3/README.md)*.
 
 ---
 
