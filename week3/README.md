@@ -5,7 +5,7 @@
 ## 👥 Meeskonnaliikmed
 
 | Nimi | Roll (Nädal 2) | OS |
-|---|---|:---:|
+|---|---|---|:---:|
 | Andres Assuküll | A: Sales + Customers | [Analüüs detailsemalt](sales-customers.md)  | 🍎 Mac |
 | [Evelyn Uusmaa](sales-data-cleaner.md) | B: Customers w/o purchases | 🪟 Win |
 | [Nele Kund](customer-data-cleaner.md) | C: Products + Inventory | 🪟 Win |
