@@ -21,4 +21,4 @@ Meeskond [nimi] — Nädal 3 JOIN-analüüs  
 3. Soovitus Annale
 4. Puuduvad andmed
    
-> *Kui teeme slaidiesitluse, võiks vast siia esmalt kokku koondada need punktid, mille põhjalt slaid teha.*
+> *Kui teeme slaidiesitluse, võiks vast siia esmalt kokku koondada need punktid, mille põhjalt lõplik slaid teha.*
