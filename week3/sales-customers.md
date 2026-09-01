@@ -3,21 +3,43 @@
 **Tegija:** Andres Assuküll <br>
 **Roll:** (A) Müügi ja klientide ühendamine <br>
 **Andmetabel:** `sales` ja `customers` <br>
-**Detailsem analüüs:** [Vaata siit](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-3/README.md)
+**Täielik analüüs:** [Vaata siit](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-3/README.md)
 
-📋 Lühikokkuvõte
-1. Peamised leiud
-👥 Kliendid: TOP 10 klientide seas domineerivad gold ja silver lojaalsustasemega kliendid, kuid TOP 10 hulka kuulub ka 3 lojaalsustasemeta klienti.
-🏙️ Linnad: Suurim kogumüük tuleb Tallinna klientidelt, kuid Pärnu klientidel on kõrgeim müük kliendi ja ostu kohta ning enim oste kliendi kohta.
-💎 Lojaalsus: Kõige suurema kogumüügiga segment on lojaalsustasemeta kliendid, järgnevad silver, gold ja bronze.
-2. Suurim üllatus
+## 📋 LÜHIKOKKUVÕTE
 
-⭐ Pärnu kliendid paistavad silma eriti kõrge ostuväärtusega – müük kliendi kohta on 1 355 EUR ja müük ostu kohta 303.82 EUR, mis on analüüsi kõrgeimad näitajad.
+---
 
-3. Soovitus UrbanStyle'ile
+### 🔎 Peamised leiud
 
-🎯 Keskenduda väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, eriti lojaalsustasemeta klientide puhul. Samuti tasub uurida Pärnu klientide ostukäitumist ning rakendada seal toimivaid võtteid teistes linnades.
+**👥 Kliendid** <br>
+TOP 10 klientide seas domineerivad `kuld-` ja `hõbekliendid`; <br> 
+nende hulgas ka **kolm** `lojaalsustasemeta` klienti.
 
-4. Puuduvad andmed
+**🏙️ Linnad** <br>
+Suurim kogumüük – **Tallinna** kliendid; 
+⭐ **Pärnu** klientid
+head ostlejad, vaid iga ost on olnud ka keskmiselt suurema väärtusega.
+on kõrgeim müük kliendi ja ostu kohta ning enim oste kliendi kohta.
 
-⚠️ Analüüsist ei selgu näiteks kasumimarginaalid, kliendi omandamise kulu (CAC), kliendi eluea väärtus (CLV), toodete kategooriad ega ostude ajastus/sagedus ajas. Nende andmeteta on keerulisem hinnata, millised kliendid ja müügikanalid on tegelikult kõige kasumlikumad.
+**💎 Lojaalsus** <br>
+Suurima kogumüügiga kliendisegmendil **lojaalsustase puudub**. <br>
+Järgnevad ⚪ **hõbe-**, 🟡 **kuld-** ja 🟠 **pronkskliendid**.
+
+---
+
+### 😲 Suurim üllatus
+
+Pärnu kliendid paistavad silma eriti kõrge ostuväärtusega – müük kliendi kohta on 1 355 EUR ja müük ostu kohta 303.82 EUR, mis on analüüsi kõrgeimad näitajad.
+
+---
+
+### 💡 Soovitus Annale
+
+Keskenduda väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, eriti lojaalsustasemeta klientide puhul. <br>
+Samuti tasub täpsemalt uurida Pärnu klientide ostukäitumist, vahest leidub seal mingi muster, mida rakendada ka mujal.
+
+---
+
+### ⚠️ Puuduvad andmed
+
+Analüüsist ei selgu näiteks kasumimarginaalid, kliendi omandamise kulu (CAC), kliendi eluea väärtus (CLV), toodete kategooriad ega ostude ajastus/sagedus ajas. Nende andmeteta on keerulisem hinnata, millised kliendid ja müügikanalid on tegelikult kõige kasumlikumad.
