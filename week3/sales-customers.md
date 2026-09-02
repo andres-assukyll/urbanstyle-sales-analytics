@@ -2,7 +2,7 @@
 
 **Tegija:** Andres Assuküll <br>
 **Roll:** (A) Müügi ja klientide ühendamine <br>
-**Andmetabel:** `sales` ja `customers` <br><br>
+**Andmetabel:** `sales` ja `customers` <br><br> -
 
 ## 📋 LÜHIKOKKUVÕTE <br>
 Uuriti TOP kliente INNER JOIN klausliga. <br>
