@@ -2,7 +2,7 @@
 
 ---
 
-## 👥 Meeskonnaliikmed m 
+## 👥 Meeskonnaliikmed
 
 | Nimi | Roll (Nädal 3) | OS |
 |---|---|:---:|
