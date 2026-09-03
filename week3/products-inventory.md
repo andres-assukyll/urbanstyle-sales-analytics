@@ -20,7 +20,7 @@
 
 *⚠️ Tähelepanek: Kuigi naiste riided on müüdud koguse põhjal 4. kohal, on see kogumüügilt 3. suurim tuluallikas ning toonud sisse 686 464.24 €. Turundusfookus hoida ka naisteriietel!*
 
-✔ Müüdud koguse põhjal tasub inventuuri planeerimisel **prioritiseerida TOP 3** toodete laoseisu ja saadavust   
+✔ Müüdud koguse põhjal tasub inventuuri planeerimisel **prioritiseerida TOP 3** toodete laoseisu ja saadavust.   
 
 
 ### 🚨 Müümata tooted
