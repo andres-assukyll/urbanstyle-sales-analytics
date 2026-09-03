@@ -18,7 +18,7 @@ Meeskond [nimi] — Nädal 3 JOIN-analüüs  
 
 1. Peamised leiud (3 punkti — üks igalt rollilt):
 - Kliendibaasis on 599 registreerunud klienti, kes pole veel ühtegi ostu teinud, mis on 19% kogu kliendibaasist
-- Juurdetellimist vajab 231 toodet, müümata tooteid laos ei ole
+- Juurdetellimist vajab 231 toodet, tooteid, mida pole kordagi müüdud, laos ei ole
 3. Suurim üllatus
 - **12** toodet ei ole kunagi müüdud, samas ei ole nende toodete id-d ka laosüsteemiga seotud
 4. Soovitus Annale:
