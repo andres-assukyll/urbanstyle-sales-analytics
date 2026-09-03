@@ -18,9 +18,9 @@
 | 👗 Naiste riided | **3604** | **686 464.24** |
 | 💍 Aksessuaarid | **3231** | **393 035.82** |
 
-*⚠️ Tähelepanek: Kuigi naiste riided on müüdud koguse põhjal 4. kohal, on see kogumüügilt 3. suurim tuluallikas ning toonud sisse 686 464.24 €. Turundusfookus hoida ka naisteriietel!*
+*⚠️ Tähelepanek: Kuigi naiste riided on müüdud koguse põhjal 4. kohal, on see käibelt ettevõtte 3. suurim tuluallikas (686 464.24 €). Turundusfookus hoida ka naisteriietel, sest sarnase müüdud koguse juures on nende käive üle **2x** suurem kui lasteriietel!*
 
-✔ Müüdud koguse põhjal tasub inventuuri planeerimisel **prioritiseerida TOP 3** toodete laoseisu ja saadavust.   
+✔ Inventuuri planeerimisel **prioritiseerida meeste riiete, jalanõude ja naiste riiete** laoseisu ja saadavust, sest nad moodustavad **~76%** käibest. 
 <br>
 
 ### 🚨 Müümata tooted
@@ -32,7 +32,7 @@
 
 🚩 **231** toodet vajab juurdetellimist.  
 *Soovitatav tähtsuse järjekord toodete saadavuse põhjal* :   
-     **KRIITILINE:** Laoseis negatiivne ➜ **KÕRGE:** Laoseis 0 ➜ **KESKMINE:** Positiivne, kuid ebapiisav laoseis.     
+     **KRIITILINE:** Laoseis negatiivne ➜ **KÕRGE:** Laoseis 0 ➜ **KESKMINE:** Positiivne, kuid ebapiisav laoseis     
 
 <br>
 <details>
