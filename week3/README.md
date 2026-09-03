@@ -7,7 +7,7 @@
 | Nimi | Roll (Nädal 3) | OS |
 |---|---|:---:|
 | Andres Assuküll | A: [Sales + Customers](sales-customers.md)  | 🍎 Mac |
-| Evelyn Uusmaa | B: [Customers w/o purchases ](XXXXX.md) | 🪟 Win |
+| Evelyn Uusmaa | B: [Customers w/o purchases](customers-without-purchases.md) | 🪟 Win |
 | Nele Kund | C: [Products + Inventory ](XXXXX.md) | 🪟 Win |
 
 ---
