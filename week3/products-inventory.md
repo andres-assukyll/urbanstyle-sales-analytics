@@ -38,5 +38,5 @@
 <details>
 <summary> Vaata lisainfot </summary>     
 <br>
-➕ Tooteid, mis on laos ja pole kordagi müüdud **ei ole!** See kinnitas täiendavalt, et 12 müümata toodet ei ole laosüsteemiga seotud.
+➕ Tooteid, mis on laos ja pole kordagi müüdud <strong>ei ole!</strong> See kinnitas täiendavalt, et 12 müümata toodet ei ole laosüsteemiga seotud.
 
