@@ -32,11 +32,5 @@
 
 🚩 **231** toodet vajab juurdetellimist.  
 *Soovitatav tähtsuse järjekord toodete saadavuse põhjal* :   
-     **KRIITILINE:** Laoseis negatiivne ➜ **KÕRGE:** Laoseis 0 ➜ **KESKMINE:** Positiivne, kuid ebapiisav laoseis     
-
-<br>
-<details>
-<summary> Vaata lisainfot </summary>     
-<br>
-➕ Tooteid, mis on laos ja pole kordagi müüdud <strong>ei ole!</strong> See kinnitas täiendavalt, et 12 müümata toodet ei ole laosüsteemiga seotud.
+     **KRIITILINE:** Laoseis negatiivne ➜ **KÕRGE:** Laoseis 0 ➜ **KESKMINE:** Positiivne, kuid ebapiisav laoseis  
 
