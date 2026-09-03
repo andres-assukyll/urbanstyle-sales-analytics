@@ -31,7 +31,7 @@
 ### 🚚 Laoseis
 
 🚩 **231** toodet vajab juurdetellimist.  
-*Soovitatav prioriteettsuse järjekord toodete saadavuse põhjal* :    
+*Soovitatav tähtsuse järjekord toodete saadavuse põhjal* :    
      **Kriitiline:** Laoseis negatiivne ➜ **Kõrge:** Laoseis 0 ➜ **Keskmine:** Positiivne, kuid ebapiisav laoseis.
 
 
