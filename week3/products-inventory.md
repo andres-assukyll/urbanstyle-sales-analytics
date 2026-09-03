@@ -35,7 +35,6 @@
      **KRIITILINE:** Laoseis negatiivne ➜ **KÕRGE:** Laoseis 0 ➜ **KESKMINE:** Positiivne, kuid ebapiisav laoseis.     
 
 <br>
-<br>
 <details>
 <summary> Vaata lisainfot </summary>     
 <br>
