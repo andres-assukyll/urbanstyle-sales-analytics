@@ -25,7 +25,7 @@
 
 ### 🚨 Müümata tooted
 
-❗ Kokku on **12** müümata toodet - neid pole kordagi ostetud ega inventuuri tabelisse lisatud. Lisaks selgus, et tegemist on duplikaatsete väärtustega, mis tuleks segaduse vältimiseks `products` tabelist eemaldada.
+❗ Kokku on **12** müümata toodet - neid pole kordagi ostetud ega inventuuri tabelisse lisatud. Lisaks selgus, et tegemist on duplikaatsete toodetega, mis tuleks segaduse vältimiseks `products` tabelist eemaldada.
 
 
 ### 🚚 Laoseis
