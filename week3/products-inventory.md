@@ -18,7 +18,7 @@
 | 👗 Naiste riided | **3604** | **686 464.24** |
 | 💍 Aksessuaarid | **3231** | **393 035.82** |
 
-*⚠️ Turundusfookus hoida ka naisteriietel, sest sarnase müüdud koguse juures on nende käive üle **2x** suurem kui lasteriietel!*
+*⚠️ Turundusfookus hoida ka naiste riietel, sest sarnase müüdud koguse juures on nende käive üle **2x** suurem kui lasteriietel!*
 
 ✔ Inventuuri planeerimisel **prioritiseerida meeste riiete, jalanõude ja naiste riiete** laoseisu ja saadavust, sest nad moodustavad **~76%** käibest. 
 <br>
