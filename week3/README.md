@@ -16,9 +16,9 @@
 
 Meeskond [nimi] — Nädal 3 JOIN-analüüs  
 
-1. Peamised leiud (3 punkti — üks igalt rollilt)
+1. Peamised leiud (3 punkti — üks igalt rollilt) kliendibaasis on 599 registreerunud klienti, kes pole veel ühtegi ostu teinud, mis on 19% kogu kliendibaasist
 2. Suurim üllatus
-3. Soovitus Annale
+3. Soovitus Annale-  Esimese kampaania võiks suunata Tallinna ja Tartu ostuta klientidele
 4. Puuduvad andmed
    
 > *Kui teeme slaidiesitluse, võiks vast siia esmalt kokku koondada need punktid, mille põhjalt lõplik slaid teha.*
