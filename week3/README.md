@@ -22,7 +22,7 @@ Meeskond [nimi] — Nädal 3 JOIN-analüüs  
     - müük ostu kohta **303.82 EUR**;
     - kõrgeim ostude arv kliendi kohta **4.46**.
 - Kliendibaasis on **599** registreerunud klienti, kes pole veel ühtegi ostu teinud, mis on 19% kogu kliendibaasist.
-- Juurdetellimist vajab **231** toodet, tooteid, mida pole kordagi müüdud ega ole laos.
+- Juurdetellimist vajab **231** toodet. Tooteid, mida pole kordagi müüdud, laos ei ole.
   
 2. Suurim üllatus
 - **12** toodet ei ole kunagi müüdud, samas ei ole nende toodete id-d ka laosüsteemiga seotud.
