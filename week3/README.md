@@ -34,5 +34,6 @@ Meeskond [nimi] — Nädal 3 JOIN-analüüs  
 - Samuti tasub täpsemalt uurida Pärnu klientide ostukäitumist, vahest leidub seal mingi muster, mida rakendada ka mujal.
   
 4. Puuduvad andmed
+- Laoseis ja asukoht 12 tootel, mida pole kordagi ostetud.
    
 > *Kui teeme slaidiesitluse, võiks vast siia esmalt kokku koondada need punktid, mille põhjalt lõplik slaid teha.*
