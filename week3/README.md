@@ -17,6 +17,7 @@
 Meeskond [nimi] — Nädal 3 JOIN-analüüs  
 
 1. Peamised leiud (3 punkti — üks igalt rollilt):
+- Pärnu kliendid pole ainult head ostlejad, vaid iga ost on olnud ka keskmiselt suurema väärtusega.
 - Kliendibaasis on 599 registreerunud klienti, kes pole veel ühtegi ostu teinud, mis on 19% kogu kliendibaasist
 - Juurdetellimist vajab 231 toodet, tooteid, mida pole kordagi müüdud, laos ei ole
 3. Suurim üllatus
