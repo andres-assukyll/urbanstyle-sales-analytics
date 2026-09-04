@@ -28,9 +28,9 @@ Meeskond [nimi] — Nädal 3 JOIN-analüüs  
 - **12** toodet ei ole kunagi müüdud, samas ei ole nende toodete id-d ka laosüsteemiga seotud.
   
 3. Soovitus Annale:
-- Esimese kampaania võiks suunata Tallinna ja Tartu ostuta klientidele
-- Segaduse ja ebatäpsete analüüsitulemuste vältimiseks tuleks products tabelist duplikaadid eemaldada
+- Esimese kampaania võiks suunata Tallinna ja Tartu ostuta klientidele.
 - Keskenduda väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, eriti lojaalsustasemeta klientide puhul.
+- Fokusseerida meeste riiete, jalanõude ja naiste riiete reklaamile, sest nende keskmine tooteväärtus on kõrgeim.
 - Samuti tasub täpsemalt uurida Pärnu klientide ostukäitumist, vahest leidub seal mingi muster, mida rakendada ka mujal.
   
 4. Puuduvad andmed
