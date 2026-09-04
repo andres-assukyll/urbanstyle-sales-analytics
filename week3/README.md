@@ -24,13 +24,15 @@ Meeskond [nimi] — Nädal 3 JOIN-analüüs  
 - Kliendibaasis on **599** registreerunud klienti, kes pole veel ühtegi ostu teinud, mis on 19% kogu kliendibaasist.
 - Juurdetellimist vajab **231** toodet, tooteid, mida pole kordagi müüdud ega ole laos.
   
-3. Suurim üllatus
-- **12** toodet ei ole kunagi müüdud, samas ei ole nende toodete id-d ka laosüsteemiga seotud
-4. Soovitus Annale:
+2. Suurim üllatus
+- **12** toodet ei ole kunagi müüdud, samas ei ole nende toodete id-d ka laosüsteemiga seotud.
+  
+3. Soovitus Annale:
 - Esimese kampaania võiks suunata Tallinna ja Tartu ostuta klientidele
 - Segaduse ja ebatäpsete analüüsitulemuste vältimiseks tuleks products tabelist duplikaadid eemaldada
 - Keskenduda väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, eriti lojaalsustasemeta klientide puhul.
 - Samuti tasub täpsemalt uurida Pärnu klientide ostukäitumist, vahest leidub seal mingi muster, mida rakendada ka mujal.
-6. Puuduvad andmed
+  
+4. Puuduvad andmed
    
 > *Kui teeme slaidiesitluse, võiks vast siia esmalt kokku koondada need punktid, mille põhjalt lõplik slaid teha.*
