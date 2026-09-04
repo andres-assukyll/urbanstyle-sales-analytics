@@ -28,6 +28,8 @@ Meeskond [nimi] — Nädal 3 JOIN-analüüs  
 4. Soovitus Annale:
 - Esimese kampaania võiks suunata Tallinna ja Tartu ostuta klientidele
 - Segaduse ja ebatäpsete analüüsitulemuste vältimiseks tuleks products tabelist duplikaadid eemaldada
+- Keskenduda väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, eriti lojaalsustasemeta klientide puhul.
+- Samuti tasub täpsemalt uurida Pärnu klientide ostukäitumist, vahest leidub seal mingi muster, mida rakendada ka mujal.
 6. Puuduvad andmed
    
 > *Kui teeme slaidiesitluse, võiks vast siia esmalt kokku koondada need punktid, mille põhjalt lõplik slaid teha.*
