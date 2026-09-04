@@ -33,7 +33,8 @@ Järgnevad ⚪ **hõbe-**, 🟡 **kuld-** ja 🟠 **pronkskliendid**.
 **Pärnu** klientidle **analüüsi kõrgeimad näitajad**:
 - müük kliendi kohta **1 355 EUR**;
 - müük ostu kohta **303.82 EUR**;
-- kõrgeim ostude arv kliendi kohta **4.46**.
+- kõrgeim ostude arv kliendi kohta **4.46**;
+- keskmisest kõrgemate kulutajate osakaal **42.06%**.
 
 ---
 
