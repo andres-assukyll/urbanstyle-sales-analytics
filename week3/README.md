@@ -12,9 +12,9 @@
 
 ---
 
-### 🎯 Meeskond koostab 1 Google Slide / shared doc järgmise struktuuriga:
+### 🎯 Müügiandmete raport:
 
-Meeskond [nimi] — Nädal 3 JOIN-analüüs  
+![Esitlus](./w3_presentation.png)
 
 1. Peamised leiud (3 punkti — üks igalt rollilt):
 - Pärnu kliendid pole ainult head ostlejad, vaid iga ost on olnud ka keskmiselt suurema väärtusega.
