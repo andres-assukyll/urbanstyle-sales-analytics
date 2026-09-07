@@ -1,6 +1,34 @@
 # Nädal 3: SQL JOINs
 
+## 📦 Inventuuri soovitused
+
 **Nimi:** Nele Kund   
 **Meeskond:** Sales Analytics    
 **Roll:** C – Müümata toodete ja inventuuri analüüs   
-**Andmeallikad:** `products` , `sales`, `inventory` tabelid (Supabase)  
+**Andmeallikad:** `products` , `sales`, `inventory` tabelid (Supabase)
+
+
+### 🔝 Populaarsus vs kogumüük
+
+| Kategooria | Müüdud kogus (tk) | Kogumüük (€) |
+|:---:|:---:|:---:|
+| 🥇 Meeste riided | **4 121** | **749 798.72** |
+| 🥈 Jalanõud | **3 737** | **774 034.75** |
+| 🥉 Lasteriided | **3 686** | **305 844.45** |
+| 👗 Naiste riided | **3604** | **686 464.24** |
+| 💍 Aksessuaarid | **3231** | **393 035.82** |
+
+*⚠️ Tähelepanek: Turundusfookus hoida ka naiste riietel, sest sarnase müüdud koguse juures on nende käive üle **2x** suurem kui lasteriietel!*
+
+✔ Inventuuri planeerimisel **prioritiseerida meeste riiete, jalanõude ja naiste riiete** laoseisu ja saadavust, sest nad moodustavad **~76%** käibest. 
+<br>
+
+### 🚨 Müümata tooted
+
+❗ Kokku on **12** müümata toodet - neid pole kordagi ostetud ega inventuuri tabelisse lisatud. Lisaks selgus, et tegemist on duplikaatsete toodetega, mis tuleks segaduse vältimiseks `products` tabelist eemaldada.
+<br>
+
+### 🚚 Laoseis
+
+🚩 **231** toodet vajab juurdetellimist.
+

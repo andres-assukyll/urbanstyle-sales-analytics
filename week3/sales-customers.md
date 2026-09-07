@@ -13,7 +13,8 @@ Uuriti TOP kliente INNER JOIN klausliga. <br>
 ### 🔎 Peamised leiud
 
 **👥 Kliendid** <br>
-TOP 10 klientide seas domineerivad `kuld-` ja `hõbekliendid`, nende hulgas ka **kolm** `lojaalsustasemeta` klienti.
+TOP 10 klientide seas domineerivad `kuld-` ja `hõbekliendid`, nende hulgas ka **kolm** `lojaalsustasemeta` klienti. Lisaks ligi **kolmandiku klientide** ostumaht on keskmisest suurem moodustades olulise osa ettevõtte potentsiaalsest müügitulust.
+
 
 **🏙️ Linnad** <br>
 1. Suurim kogumüük – **Tallinna** kliendid, **Tartu** omadel vaid u. **6,2%** madalam. <br>
@@ -31,7 +32,9 @@ Järgnevad ⚪ **hõbe-**, 🟡 **kuld-** ja 🟠 **pronkskliendid**.
 
 **Pärnu** klientidle **analüüsi kõrgeimad näitajad**:
 - müük kliendi kohta **1 355 EUR**;
-- müük ostu kohta **303.82 EUR**.
+- müük ostu kohta **303.82 EUR**;
+- kõrgeim ostude arv kliendi kohta **4.46**;
+- keskmisest kõrgemate kulutajate osakaal **42.06%**.
 
 ---
 
