@@ -1,4 +1,4 @@
-## MEESKOND: SQL agregatsioon  |  NÄDAL: 3 |  TEGELANE: Toomas Kask ja Anna Mets
+## MEESKOND: SQL agregatsioon  |  NÄDAL: 4 |  TEGELANE: Toomas Kask ja Anna Mets
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### 🎯 Meeskond koostab 1 Google Slide / shared doc järgmise struktuuriga:
 
-Meeskond [nimi] — Nädal 3 JOIN-analüüs
+Meeskond [nimi] — Nädal 4 SQL agregatsioon 
 
 1. Peamised leiud (3 punkti — üks igalt rollilt)
 2. Suurim üllatus
