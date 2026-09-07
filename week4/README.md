@@ -1,4 +1,4 @@
-## MEESKOND: SQL agregatsioon  |  NÄDAL: 4 |  TEGELANE: Toomas Kask ja Anna Mets
+## MEESKOND: SQL agregatsioon  |  NÄDAL: 4 |  TEGELANE: Anna Mets, Kristi Tamm, Liis Koppel
 
 ---
 
@@ -8,7 +8,7 @@
 |---|---|:---:|
 | Nele Kund | A: [Products + Inventory ](XXXXX.md) | 🪟 Win |
 | Andres Assuküll | B: [Sales + Customers](sales-customers.md)  | 🍎 Mac |
-| Evelyn Uusmaa | C: [Inventuuristatistikas](inventory-statistics.md) | 🪟 Win |
+| Evelyn Uusmaa | C: [Inventuuristatistika](inventory-statistics.md) | 🪟 Win |
 
 
 ---
