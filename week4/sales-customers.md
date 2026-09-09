@@ -39,7 +39,7 @@ Tuvastatud kliendid annavad **90% kogukäibest** ning kõige väärtuslikum segm
 - Ülejäänud klientide keskmine käive on ligikaudu **899 €**. 
 
 **Koondumisrisk**: VIP-i lahkumine võib oluliselt mõjutada kogukäivet. <br>
-> *Seega tasub VIP-e tasub hoolega hoida ning samal ajal üritada kasvatada järgmise taseme klientidest uusi VIP-e*.
+> *Seega tasub VIP-e hoolega hoida ning samal ajal üritada kasvatada teistest klientidest uusi VIP-e*.
 
 ---
 
