@@ -40,9 +40,9 @@ VIP kliendi keskmine käive on 18 227,01 €, mis on üle 11 korra suurem kui ta
 
 ## SOOVITUS KRISTILE                                        
 
-Suunata kliendihoid ja personaalsed pakkumised esmalt VIP klientidele Tallinnas ja Pärnus ning kasvatada tavakliente VIP taseme poole.
+Hoia fookus `VIP` klientide säilitamisel ning `tavaklientide` kasvatamisel VIP tasemele, eelkõige Tallinnas ja Pärnus.
 
 ## PUUDUVAD ANDMED
 
-n
+Pole.
 
