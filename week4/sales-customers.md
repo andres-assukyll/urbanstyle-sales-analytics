@@ -17,9 +17,6 @@ Segmenteerida kliendid kulutuse järgi (VIP / Regular / Uus), leida TOP kliendid
 | 2 909 177.98 EUR | 2 622 731.78 EUR      |
 
 
-| ------------------- |
-| 2622731.78          |
-
 ### Kliendisegmendid
 VIP piir > 20 000 € : kokku 10 klienti <br>
 Regular piir > 10 000 € : kokku 5 klienti <br>
