@@ -10,6 +10,11 @@ Segmenteerida kliendid kulutuse järgi (VIP / Regular / Uus), leida TOP kliendid
 
 ## Tulemused
 
+VIP piir > 20 000 eur : kokku 10 klienti <br>
+Regular piir > 10 000 eur : kokku 5 klienti <br>
+Uus piir > 10 000 eur : kokku 2535 klienti 
+
+
 | kliendikood | nimi         | linn     | asukoht   | asukoha_koguküive | asukoha tellimuste arv | kliendi_kogukäive |
 | ----------- | ------------ | -------- | --------- | ----------------- | ---------------------- | ----------------- |
 | 3618        | Tiina Pärn   | Tartu    | veebimüük | 14679.38          | 24                     | 27668.02          |
