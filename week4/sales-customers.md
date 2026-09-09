@@ -41,7 +41,7 @@ Uus piir < 10 000 € : kokku 2 536 klienti
 ---
 
 
-| kliendikood | nimi         | linn     | asukoht   | asukoha_koguküive | asukoha tellimuste arv | kliendi_kogukäive |
+| kliendikood | nimi         | linn     | asukoht   | asukoha_kogukäive | asukoha tellimuste arv | kliendi_kogukäive |
 | ----------- | ------------ | -------- | --------- | ----------------- | ---------------------- | ----------------- |
 | 3618        | Tiina Pärn   | Tartu    | veebimüük | 14679.38          | 24                     | 27668.02          |
 | 3618        | Tiina Pärn   | Tartu    | Tallinn   | 6825.17           | 28                     | 27668.02          |
