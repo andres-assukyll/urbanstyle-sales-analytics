@@ -13,11 +13,11 @@
 
 ---
 
-### 🎯 Meeskond koostab 1 Google Slide / shared doc järgmise struktuuriga:
+## 🎯 Meeskond koostab 1 Google Slide / shared doc järgmise struktuuriga:
 
 Meeskond [nimi] — Nädal 4 SQL agregatsioon 
 
-#### Peamised leiud (3 punkti — üks igalt rollilt)
+### Peamised leiud (3 punkti — üks igalt rollilt)
 
 **Kokkuvõte (A)**: <br> 
 ...
