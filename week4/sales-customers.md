@@ -12,7 +12,7 @@ Segmenteerida kliendid kulutuse järgi **VIP** / **Regular** / **Uus**, leida `T
 
 ## TULEMUSED
 
-[Analüüsis kastutatud SQL koodid](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/week4_customer_segmentation_aggregation.sql)
+[Analüüsis kastutatud SQL-päringud](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/week4_customer_segmentation_aggregation.sql)
 
 ### Käive
 
