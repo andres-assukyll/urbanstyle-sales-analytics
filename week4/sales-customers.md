@@ -32,10 +32,12 @@ Uus piir < 1 000 € : kokku 1 615 klienti
 #### VIP klientide asukohad
 
 | linn     | vip_klientide_arv |
-| -------- | ----------------- |
-| Pärnu    | 4                 |
-| Tallinn  | 3                 |
+| -------- | :---------------: |
+| Tallinn  | 8                 |
+| Pärnu    | 6                 |
 | Tartu    | 2                 |
+| Jõhvi    | 1                 |
+| Rakvere  | 1                 |
 | Viljandi | 1                 |
 
 ---
