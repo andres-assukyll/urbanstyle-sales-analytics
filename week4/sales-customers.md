@@ -18,9 +18,9 @@ Segmenteerida kliendid kulutuse järgi (VIP / Regular / Uus), leida TOP kliendid
 
 
 ### Kliendisegmendid
-VIP piir > 20 000 € : kokku 10 klienti <br>
-Regular piir > 10 000 € : kokku 5 klienti <br>
-Uus piir < 10 000 € : kokku 2 536 klienti 
+VIP piir > 5 000 € : kokku 19 klienti <br>
+Regular piir > 1 000 € : kokku 917 klienti <br>
+Uus piir < 1 000 € : kokku 1 615 klienti 
 
 | segment | klientide_arv | keskmine_käive |
 | ------- | ------------- | -------------- |
