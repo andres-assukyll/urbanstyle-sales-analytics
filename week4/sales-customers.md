@@ -10,7 +10,7 @@ Segmenteerida kliendid kulutuse järgi **VIP** / **Regular** / **Uus**, leida `T
 
 ---
 
-## Tulemused
+## TULEMUSED
 
 ### Käive
 
