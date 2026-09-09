@@ -15,19 +15,12 @@ VIP piir > 20 000 € : kokku 10 klienti <br>
 Regular piir > 10 000 € : kokku 5 klienti <br>
 Uus piir < 10 000 € : kokku 2 536 klienti 
 
-| segment | klientide_arv |
-| ------- | ------------- |
-| VIP     | 10            |
-| Regular | 5             |
-| Uus     | 2 536          |
+| segment | klientide_arv | keskmine_käive |
+| ------- | ------------- | -------------- |
+| VIP     | 10            | 22 833.68 EUR  |
+| Regular | 5             | 18 129.66 EUR  |
+| Uus     | 2 536         | 908.42 EUR     |
 
-#### Käibed segmentide kaupa
-
-| segment | keskmine_käive |
-| ------- | -------------- |
-| VIP     | 22 833.68 EUR      |
-| Regular | 18 129.66 EUR      |
-| Uus     | 908.42 EUR        |
 
 #### VIP klientide asukohad
 
