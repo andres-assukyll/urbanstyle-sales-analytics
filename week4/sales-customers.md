@@ -30,7 +30,7 @@ Kõik VIP kliendid on sooritanud oste kõigist UrbanStyle.ltd müügikohtadest n
 ---
 
 #### JÄRELDUS
-Tuvastatud kliendid toovad **90% kogukäibest** ning kõige väärtuslikum segment koosneb vaid **19** VIP kliendist, kes toovad **13.2%** ja kellest **14** asuvad Tallinnas või Pärnus.
+Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtuslikumasse segmenti kuulub vaid **19 VIP-klienti**, kelle käive moodustab **13,2% kogukäibest** ja kellest **14** asuvad Tallinnas või Pärnus.
 
 **Tugev tulemus**: üks VIP teeb keskmiselt umbes 20 korda rohkem käivet kui teiste segmentide kliendid.
 - **19** VIP klienti moodustavad vaid **0.74%** kogu kliendibaasist **2 551**. <br>
