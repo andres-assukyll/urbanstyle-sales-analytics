@@ -36,5 +36,7 @@ Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtusliku
 **(B)** Hoia fookus VIP-klientide säilitamisel ning tavaklientide kasvatamisel VIP tasemele, eelkõige Tallinnas ja Pärnus.
 
 ### Puuduvad andmed
+
+**(B)** Pole.
    
 > *Slaidiesitluseks koondame siia esmalt kokku need punktid, mis slaidile lähevad.*
