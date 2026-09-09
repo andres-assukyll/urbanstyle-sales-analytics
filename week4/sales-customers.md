@@ -10,6 +10,12 @@ Segmenteerida kliendid kulutuse järgi (VIP / Regular / Uus), leida TOP kliendid
 
 ## Tulemused
 
+### W
+
+| kogukäive  |
+| ---------- |
+| 2909177.98 |
+
 ### Kliendisegmendid
 VIP piir > 20 000 € : kokku 10 klienti <br>
 Regular piir > 10 000 € : kokku 5 klienti <br>
