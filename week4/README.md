@@ -31,13 +31,12 @@ Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtusliku
 ### Suurim üllatus
 **(B)** VIP kliendi keskmine käive on **18 227 €**, mis on **11.3 korda** suurem kui tavaklientidel ja **37 korda** suurem kui uutel klientidel.  
 
-### Soovitus Kristile
+### Soovitus Annale ja Kristile
 
-**(A)** ..
-
-### Soovitus Annale
-
-**(B)** Hoia fookus VIP-klientide säilitamisel ning tavaklientide kasvatamisel VIP tasemele, eelkõige Tallinnas ja Pärnus. <br>
+**(A)** .. 
+<b>
+**(B)** Hoia fookus VIP-klientide säilitamisel ning tavaklientide kasvatamisel VIP tasemele, eelkõige Tallinnas ja Pärnus. 
+<br>
 **(C)** Kontrolli Tartu poe meeste- ja lasteriiete laoseisu ning kasuta kõrvalekallete tuvastamiseks iganädalast erandite raportit.
 
 ### Puuduvad andmed
