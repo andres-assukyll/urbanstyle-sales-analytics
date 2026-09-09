@@ -28,14 +28,20 @@ Kõik VIP kliendid on oste sooritanud kõigist UrbanStyle.ltd müügikohtadest n
 
 ---
 
- ## SUURIM ÜLLATUS:                                         
+#### JÄRELDUS
+Tuvastatud kliendid annavad 90% kogukäibest ning kõige väärtuslikum segment koosneb ainult 19 VIP-kliendist, kellest 14 asuvad Tallinnas või Pärnus.
 
-[1-2 lauset]                                            
+---
 
-## SOOVITUS KRISTILE:                                        
+## SUURIM ÜLLATUS                                       
 
-[1-2 lauset]     
+VIP kliendi keskmine käive on 18 227,01 €, mis on üle 11 korra suurem kui tavaklientide ja 37 korda suurem kui uute klientide segmendis.                                       
 
-## PUUDUVAD ANDMED:                                        
-[1-2 lauset]                  
+## SOOVITUS KRISTILE                                        
+
+Suunata kliendihoid ja personaalsed pakkumised esmalt VIP klientidele Tallinnas ja Pärnus ning kasvatada tavakliente VIP taseme poole.
+
+## PUUDUVAD ANDMED
+
+n
 
