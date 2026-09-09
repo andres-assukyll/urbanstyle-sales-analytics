@@ -10,7 +10,7 @@ Segmenteerida kliendid kulutuse järgi (VIP / Regular / Uus), leida TOP kliendid
 
 ## Tulemused
 
-| kliendikood | nimi         | linn     | asukoht   | asukoha_kogukaive | asukoha tellimuste arv | kliendi_kogukaive |
+| kliendikood | nimi         | linn     | asukoht   | asukoha_koguküive | asukoha tellimuste arv | kliendi_kogukäive |
 | ----------- | ------------ | -------- | --------- | ----------------- | ---------------------- | ----------------- |
 | 3618        | Tiina Pärn   | Tartu    | veebimüük | 14679.38          | 24                     | 27668.02          |
 | 3618        | Tiina Pärn   | Tartu    | Tallinn   | 6825.17           | 28                     | 27668.02          |
