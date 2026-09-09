@@ -33,10 +33,11 @@ Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtusliku
 
 ### Soovitus Kristile
 
-**(B)** Hoia fookus VIP-klientide säilitamisel ning tavaklientide kasvatamisel VIP tasemele, eelkõige Tallinnas ja Pärnus.
+**(A)** ..
 
-### Soovitus Liisile
+### Soovitus Annale
 
+**(B)** Hoia fookus VIP-klientide säilitamisel ning tavaklientide kasvatamisel VIP tasemele, eelkõige Tallinnas ja Pärnus. <br>
 **(C)** Kontrolli Tartu poe meeste- ja lasteriiete laoseisu ning kasuta kõrvalekallete tuvastamiseks iganädalast erandite raportit.
 
 ### Puuduvad andmed
