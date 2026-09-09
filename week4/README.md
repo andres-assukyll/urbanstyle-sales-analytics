@@ -37,7 +37,7 @@ Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtusliku
 
 ### Soovitus Liisile
 
-**(C)** 
+**(C)** Kontrolli Tartu poe meeste- ja lasteriiete laoseisu ning kasuta kõrvalekallete tuvastamiseks iganädalast erandite raportit.
 
 ### Puuduvad andmed
 
