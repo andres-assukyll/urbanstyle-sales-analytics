@@ -36,7 +36,7 @@ Tuvastatud kliendid annavad **90% kogukäibest** ning kõige väärtuslikum segm
 
 ## SUURIM ÜLLATUS                                       
 
-VIP kliendi keskmine käive on 18 227,01 €, mis on üle 11 korra suurem kui tavaklientide ja 37 korda suurem kui uute klientide segmendis.                                       
+VIP kliendi keskmine käive on **18 227,01 €**, mis on **11.28** korda suurem kui tavaklientidel ja **37.05** korda suurem kui uutel klientidel.                                       
 
 ## SOOVITUS KRISTILE                                        
 
