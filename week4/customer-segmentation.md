@@ -5,7 +5,7 @@
 **Andmetabel:** `sales` ja `customers` <br><br> 
 
 ## 📋 LÜHIKOKKUVÕTE <br>
-Segmenteerida kliendid kulutuse järgi **VIP** / **Regular** / **Uus**, leida `TOP kliendid` ja koostada kliendiprofiili kokkuvõte **Kristile**. <br>
+Segmenteerida kliendid kulutuse järgi **VIP** / **Regular** / **Uus**, leida `TOP kliendid` ja koostada kliendiprofiili kokkuvõte **Annale**. <br>
 > *Täielik analüüs on [leitav siit](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/README.md)*.
 
 ---
