@@ -6,7 +6,7 @@
 
 | Nimi | Roll (Nädal 4) | OS |
 |---|---|:---:|
-| Nele Kund | A: [Products + Inventory ](XXXXX.md) | 🪟 Win |
+| Nele Kund | A: [Müügi koondandmed](sales-aggregation.md) | 🪟 Win |
 | Andres Assuküll | B: [Kliendigruppide analüüs](sales-customers.md)  | 🍎 Mac |
 | Evelyn Uusmaa | C: [Inventuuristatistika](inventory-statistics.md) | 🪟 Win |
 
