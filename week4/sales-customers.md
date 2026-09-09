@@ -27,4 +27,5 @@ Segmenteerida kliendid kulutuse järgi (VIP / Regular / Uus), leida TOP kliendid
 Kõik VIP kliendid on oste sooritanud kõigist UrbanStyle.ltd müügikohtadest ning rohkem kulutanud kas Tallinna poes või veebipoes.
 
 ---
+
  ##
