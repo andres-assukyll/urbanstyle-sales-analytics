@@ -14,7 +14,7 @@ Segmenteerida kliendid kulutuse järgi (VIP / Regular / Uus), leida TOP kliendid
 
 | kogukäive  | klientide_kogukäive | klientide_keskmine_käive |keskmine_käive |
 | ---------- | ------------------- | ------------------- |--- |
-| 2 909 177.98 EUR | 2 622 731.78 EUR | 1 028.12 EUR | 1139.96 EUR |
+| 2 909 177.98 EUR | 2 622 731.78 EUR | 1 028.12 EUR | 1 139.96 EUR |
 
 
 ### Kliendisegmendid
