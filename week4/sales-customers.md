@@ -22,6 +22,9 @@ Segmenteerida kliendid kulutuse järgi **VIP** / **Regular** / **Uus**, leida `T
 
 ![Kliendisegmendid](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/segmentide-tabel.svg)
 
+### Käivete koond
+
+![Koondkäive](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/klientide_kaive_koond.svg)
 
 ### Asukohad
 ![Asukohad](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/vip-kliendid-linnade-kaupa.svg)
