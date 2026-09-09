@@ -20,7 +20,7 @@ Meeskond [nimi] — Nädal 4 SQL agregatsioon
 #### Peamised leiud (3 punkti — üks igalt rollilt)
 
 **Kokkuvõte (B)** 
-Tuvastatud kliendid toovad 90% kogukäibest ning kõige väärtuslikum segment koosneb vaid 19 VIP kliendist, kes toovad 13.2% ja kellest 14 asuvad Tallinnas või Pärnus.
+Tuvastatud kliendid toovad **90% kogukäibest** ning kõige väärtuslikum segment koosneb vaid **19** VIP kliendist, kes toovad **13.2% kogukäibest** ja kellest **14** asuvad Tallinnas või Pärnus.
    
 #### Suurim üllatus
 
