@@ -19,8 +19,8 @@ Uus piir > 10 000 € : kokku 2535 klienti
 
 | segment | keskmine_käive |
 | ------- | -------------- |
-| VIP     | 22833.68 EUR      |
-| Regular | 18129.66 EUR      |
+| VIP     | 22 833.68 EUR      |
+| Regular | 18 129.66 EUR      |
 | Uus     | 908.42 EUR        |
 
 ---
