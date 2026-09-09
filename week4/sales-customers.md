@@ -26,7 +26,7 @@ Segmenteerida kliendid kulutuse järgi **VIP** / **Regular** / **Uus**, leida `T
 ![Asukohad](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/vip-kliendid-linnade-kaupa.svg)
 
 #### Lisaks
-Kõik VIP kliendid on sooritanud oste kõigist UrbanStyle.ltd müügikohtadest ning rohkem kulutanud kas Tallinna poes või veebipoes.
+Kõik VIP-kliendid on sooritanud oste **kõigist** UrbanStyle.ltd müügikohtadest ning rohkem kulutanud kas **Tallinna poes** või **veebipoes**.
 
 ---
 
@@ -34,9 +34,9 @@ Kõik VIP kliendid on sooritanud oste kõigist UrbanStyle.ltd müügikohtadest n
 Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtuslikumasse segmenti kuulub vaid **19 VIP-klienti**, kelle käive moodustab **13,2% kogukäibest** ja kellest **14** asuvad Tallinnas või Pärnus.
 
 **Tugev tulemus**: üks VIP teeb keskmiselt umbes 20 korda rohkem käivet kui teiste segmentide kliendid.
-- **19** VIP klienti moodustavad vaid **0.74%** kogu kliendibaasist **2 551**. <br>
+- **19** VIP-klienti moodustavad vaid **0.74%** kogu kliendibaasist **2 551**. <br>
 - Nad annavad **13.2%** kogukäibest. <br>
-- Ühe VIP kliendi keskmine käive on **18 227 €**. <br>
+- Ühe VIP-kliendi keskmine käive on **18 227 €**. <br>
 - Ülejäänud klientide keskmine käive on ligikaudu **900 €**. 
 
 **Koondumisrisk**: VIP-i lahkumine võib oluliselt mõjutada kogukäivet. <br>
@@ -46,11 +46,11 @@ Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtusliku
 
 ## SUURIM ÜLLATUS                                       
 
-VIP kliendi keskmine käive on **18 227 €**, mis on **11.3** korda suurem kui tavaklientidel ja **37** korda suurem kui uutel klientidel.                                       
+VIP-kliendi keskmine käive on **18 227 €**, mis on **11.3** korda suurem kui tavaklientidel ja **37** korda suurem kui uutel klientidel.                                       
 
 ## SOOVITUS KRISTILE                                        
 
-Hoia fookus `VIP` klientide säilitamisel ning `tavaklientide` kasvatamisel VIP tasemele, eelkõige Tallinnas ja Pärnus.
+Hoia fookus `VIP-klientide` säilitamisel ning `tavaklientide` kasvatamisel VIP tasemele, eelkõige Tallinnas ja Pärnus.
 
 ## PUUDUVAD ANDMED
 
