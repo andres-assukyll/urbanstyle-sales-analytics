@@ -28,11 +28,11 @@ Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtusliku
 **Kokkuvõte (C)**: <br> 
 ...
    
-#### Suurim üllatus
+### Suurim üllatus
 **(B)** VIP kliendi keskmine käive on **18 227 €**, mis on **11.3** korda suurem kui tavaklientidel ja **37** korda suurem kui uutel klientidel.  
 
-#### Soovitus Kristile
+### Soovitus Kristile
 
-#### Puuduvad andmed
+### Puuduvad andmed
    
 > *Slaidiesitluseks koondame siia esmalt kokku need punktid, mis slaidile lähevad.*
