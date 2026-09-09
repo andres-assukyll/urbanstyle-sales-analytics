@@ -14,15 +14,11 @@ Segmenteerida kliendid kulutuse järgi (VIP / Regular / Uus), leida TOP kliendid
 
 ### Käive
 
-img
+![Käive](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/käibe-võrdlus.svg)
 
 ### Kliendisegmendid
 
-| Segment | Klientide arv | Keskmine käive |
-| ------- | ------------: | -------------: |
-| VIP 5k+     | 19            | 18 227.01 EUR  |
-| Regular 1k+ | 917           | 1 615.43 EUR   |
-| Uus     | 1 615         | 492.30 EUR     |
+![Kliendisegmendid](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/segmentide-tabel.svg)
 
 
 #### VIP klientide asukohad
