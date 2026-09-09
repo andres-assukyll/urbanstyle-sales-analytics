@@ -16,7 +16,7 @@ Segmenteerida kliendid kulutuse järgi **VIP** / **Regular** / **Uus**, leida `T
 
 ### Käive
 
-![Käive](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/klientide_kaive_koond.svg)
+![Käive](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/klientide-kaive-koond.svg)
 
 ### Kliendisegmendid
 
