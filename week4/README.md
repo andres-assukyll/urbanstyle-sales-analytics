@@ -20,8 +20,7 @@ Meeskond [nimi] — Nädal 4 SQL agregatsioon
 #### Peamised leiud (3 punkti — üks igalt rollilt)
 
 **Kokkuvõte (B)** 
-Kliendibaasis on **19 VIP-i**, **917** tavaklienti ja **1 615** uut klienti. <br>
-VIP-d asuvad: **8** Tallinnas, **6** Pärnus, **2** Tartus ning **1** Jõhvis, Rakveres ja Viljandis.
+Tuvastatud kliendid toovad 90% kogukäibest ning kõige väärtuslikum segment koosneb vaid 19 VIP kliendist, kes toovad 13.2% ja kellest 14 asuvad Tallinnas või Pärnus.
    
 #### Suurim üllatus
 
