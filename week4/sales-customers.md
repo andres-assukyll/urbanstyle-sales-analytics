@@ -48,7 +48,7 @@ Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtusliku
 
 VIP-kliendi keskmine käive on **18 227 €**, mis on **11.3** korda suurem kui tavaklientidel ja **37** korda suurem kui uutel klientidel.                                       
 
-## SOOVITUS KRISTILE                                        
+## SOOVITUS ANNALE                                        
 
 Hoia fookus `VIP-klientide` säilitamisel ning `tavaklientide` kasvatamisel VIP tasemele, eelkõige Tallinnas ja Pärnus.
 
