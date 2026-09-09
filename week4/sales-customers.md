@@ -1,4 +1,5 @@
-## M
+## Kliendigruppide analüüs – Week 4
+
 
 ## Ülesanne
 Segmenteerida kliendid kulutuse järgi (VIP / Regular / Uus), leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
