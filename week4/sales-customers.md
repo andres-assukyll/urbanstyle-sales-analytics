@@ -12,7 +12,7 @@ Segmenteerida kliendid kulutuse järgi (VIP / Regular / Uus), leida TOP kliendid
 
 ### W
 
-| kogukäive  | klientide_kogukäive | klientide_keskmine_käive |keskmine_käive |
+| Kogukäive  | Klientide kogukäive | Klientide keskmine käive |Keskmine käive |
 | ---------- | ------------------- | ------------------- |--- |
 | 2 909 177.98 EUR | 2 622 731.78 EUR | 1 028.12 EUR | 1 139.96 EUR |
 
@@ -22,7 +22,7 @@ VIP piir > 5 000 € : kokku 19 klienti <br>
 Regular piir > 1 000 € : kokku 917 klienti <br>
 Uus piir < 1 000 € : kokku 1 615 klienti 
 
-| segment | klientide_arv | keskmine_käive |
+| Segment | Klientide arv | Keskmine käive |
 | ------- | ------------: | -------------: |
 | VIP     | 19            | 18 227.01 EUR  |
 | Regular | 917           | 1 615.43 EUR   |
@@ -31,7 +31,7 @@ Uus piir < 1 000 € : kokku 1 615 klienti
 
 #### VIP klientide asukohad
 
-| linn     | vip_klientide_arv |
+| Linn     | VIP klientide arv |
 | -------- | :---------------: |
 | Tallinn  | 8                 |
 | Pärnu    | 6                 |
@@ -45,7 +45,7 @@ Kõik VIP kliendid on oste sooritanud kõigist UrbanStyle.ltd müügikohtadest n
 ---
 
 
-| nimi         | linn     | asukoht   | asukoha_kogukäive | asukoha tellimuste arv | kliendi_kogukäive |
+| Nimi         | Linn     | Müügikoht   | Müügikoha kogukäive | Tellimusi müügikohas | Kliendi kogukäive |
 | ------------ | -------- | --------- | ----------------: | ---------------------: | ----------------: |
 | Tiina Pärn   | Tartu    | veebimüük | 14 679 EUR        | 24                     | 27 668 EUR        |
 | Tiina Pärn   | Tartu    | Tallinn   | 6 825 EUR         | 28                     | 27 668 EUR        |
