@@ -23,6 +23,15 @@ Uus piir > 10 000 € : kokku 2535 klienti
 | Regular | 18 129.66 EUR      |
 | Uus     | 908.42 EUR        |
 
+#### VIP klientide asukohad
+
+| linn     | vip_klientide_arv |
+| -------- | ----------------- |
+| Pärnu    | 4                 |
+| Tallinn  | 3                 |
+| Tartu    | 2                 |
+| Viljandi | 1                 |
+
 ---
 
 
