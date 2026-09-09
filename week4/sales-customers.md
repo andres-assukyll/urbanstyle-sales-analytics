@@ -23,7 +23,7 @@ Segmenteerida kliendid kulutuse järgi (VIP / Regular / Uus), leida TOP kliendid
 
 #### VIP klientide asukohad
 
-img
+![Asukohad](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/vip-kliendid-linnade-kaupa.svg)
 
 Kõik VIP kliendid on oste sooritanud kõigist UrbanStyle.ltd müügikohtadest ning rohkem kulutanud kas Tallinna poes või veebipoes.
 
