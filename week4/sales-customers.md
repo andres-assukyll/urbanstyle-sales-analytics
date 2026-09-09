@@ -14,7 +14,7 @@ Segmenteerida kliendid kulutuse järgi (VIP / Regular / Uus), leida TOP kliendid
 
 ### Käive
 
-![Käive](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/käibe-võrdlus.svg)
+![Käive](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/kaibe-vordlus.svg)
 
 ### Kliendisegmendid
 
