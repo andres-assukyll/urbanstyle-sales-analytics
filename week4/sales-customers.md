@@ -32,7 +32,7 @@ Kõik VIP kliendid on oste sooritanud kõigist UrbanStyle.ltd müügikohtadest n
 
 [1-2 lauset]                                            
 
-## SOOVITUS KRITILE:                                        
+## SOOVITUS KRISTILE:                                        
 
 [1-2 lauset]     
 
