@@ -1,7 +1,7 @@
 # Kliendigruppide analüüs – Week 4
 
-**Tegija:** Andres Assuküll 
-**Roll:** B: Kliendigruppide analüüsija 
+**Tegija:** Andres Assuküll <br>
+**Roll:** B: Kliendigruppide analüüsija <br>
 **Kasutatud tabelid:** `customers`, `sales`
 
 
