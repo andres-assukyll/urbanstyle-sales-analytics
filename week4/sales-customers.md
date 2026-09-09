@@ -24,7 +24,8 @@ Segmenteerida kliendid kulutuse järgi **VIP** / **Regular** / **Uus**), leida `
 ### Asukohad
 ![Asukohad](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/vip-kliendid-linnade-kaupa.svg)
 
-Kõik VIP kliendid on oste sooritanud kõigist UrbanStyle.ltd müügikohtadest ning rohkem kulutanud kas Tallinna poes või veebipoes.
+#### Lisaks
+Kõik VIP kliendid on sooritanud oste kõigist UrbanStyle.ltd müügikohtadest ning rohkem kulutanud kas Tallinna poes või veebipoes.
 
 ---
 
