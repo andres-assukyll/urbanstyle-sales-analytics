@@ -5,7 +5,7 @@
 **Roll:** A – Müügi koondandmed   
 **Andmeallikad:** `sales`, `products` tabelid (Supabase)
 
-## Ettevõtte aastane käibekasv - 2023 vs 2024
+## Ettevõtte käibekasvu võrdlus
 
 | Näitaja | 2023. aasta | 2024. aasta | Kasvuprotsent (%)|
 | :---: | :---: | :---: | :---: |
