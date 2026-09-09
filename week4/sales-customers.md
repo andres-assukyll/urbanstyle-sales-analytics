@@ -23,7 +23,7 @@ Regular piir > 1 000 € : kokku 917 klienti <br>
 Uus piir < 1 000 € : kokku 1 615 klienti 
 
 | segment | klientide_arv | keskmine_käive |
-| ------- | ------------- | -------------- |
+| ------- | ------------: | -------------: |
 | VIP     | 19            | 18 227.01 EUR  |
 | Regular | 917           | 1 615.43 EUR   |
 | Uus     | 1 615         | 492.30 EUR     |
