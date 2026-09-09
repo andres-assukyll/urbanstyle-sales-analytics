@@ -44,6 +44,7 @@ Kõik VIP kliendid on oste sooritanud kõigist UrbanStyle.ltd müügikohtadest n
 
 ---
 
+#### Top 10 VIP klienti müügikohtade kaupa
 
 | Nimi         | Linn     | Müügikoht   | Müügikoha kogukäive | Tellimusi müügikohas | Kliendi kogukäive |
 | ------------ | -------- | --------- | ----------------: | ---------------------: | ----------------: |
