@@ -28,4 +28,14 @@ Kõik VIP kliendid on oste sooritanud kõigist UrbanStyle.ltd müügikohtadest n
 
 ---
 
- ##
+ ## SUURIM ÜLLATUS:                                         
+
+[1-2 lauset]                                            
+
+## SOOVITUS KRITILE:                                        
+
+[1-2 lauset]     
+
+## PUUDUVAD ANDMED:                                        
+[1-2 lauset]                  
+
