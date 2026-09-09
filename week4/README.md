@@ -17,9 +17,16 @@
 
 Meeskond [nimi] — Nädal 4 SQL agregatsioon 
 
-1. Peamised leiud (3 punkti — üks igalt rollilt)
-2. Suurim üllatus
-3. Soovitus Annale
-4. Puuduvad andmed
+#### Peamised leiud (3 punkti — üks igalt rollilt)
+
+**Kokkuvõte (B)** 
+Kliendibaasis on **19 VIP-i**, **917** tavaklienti ja **1 615** uut klienti. <br>
+VIP-d asuvad: **8** Tallinnas, **6** Pärnus, **2** Tartus ning **1** Jõhvis, Rakveres ja Viljandis.
    
-> *Kui teeme slaidiesitluse, võiks vast siia esmalt kokku koondada need punktid, mille põhjalt lõplik slaid teha.*
+#### Suurim üllatus
+
+#### Soovitus Kristile
+
+#### Puuduvad andmed
+   
+> *Slaidiesitluseks koondame siia esmalt kokku need punktid, mis slaidile lähevad.*
