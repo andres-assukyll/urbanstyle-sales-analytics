@@ -27,6 +27,8 @@ Segmenteerida kliendid kulutuse järgi **VIP** / **Regular** / **Uus**, leida `T
 #### Lisaks
 Kõik VIP kliendid on sooritanud oste kõigist UrbanStyle.ltd müügikohtadest ning rohkem kulutanud kas Tallinna poes või veebipoes.
 
+[Analüüsis kastutatud SQL koodid](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/week4_customer_segmentation_aggregation.sql)
+
 ---
 
 #### JÄRELDUS
