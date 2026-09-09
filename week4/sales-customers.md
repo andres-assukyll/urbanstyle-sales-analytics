@@ -23,6 +23,8 @@ Uus piir > 10 000 € : kokku 2535 klienti
 | Regular | 18129.66 EUR      |
 | Uus     | 908.42 EUR        |
 
+---
+
 
 | kliendikood | nimi         | linn     | asukoht   | asukoha_koguküive | asukoha tellimuste arv | kliendi_kogukäive |
 | ----------- | ------------ | -------- | --------- | ----------------- | ---------------------- | ----------------- |
