@@ -1,5 +1,10 @@
 ## M
 
+## Ülesanne
+Segmenteerida kliendid kulutuse järgi (VIP / Regular / Uus), leida TOP kliendid ja koostada kliendiprofiili kokkuvõte Annale.
+
+## Tulemused
+
 | kliendikood | nimi         | linn     | asukoht   | asukoha_kogukaive | asukoha tellimuste arv | kliendi_kogukaive |
 | ----------- | ------------ | -------- | --------- | ----------------- | ---------------------- | ----------------- |
 | 3618        | Tiina Pärn   | Tartu    | veebimüük | 14679.38          | 24                     | 27668.02          |
