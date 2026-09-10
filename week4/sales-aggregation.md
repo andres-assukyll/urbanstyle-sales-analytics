@@ -21,4 +21,6 @@
 *1. Müügid kasvavad varakevadel, suve alguses ja aasta lõpus*  
 *2. Septembrikuud on olnud võrreldes suvekuudega nõrgemad, kuid kuukäive suurenes siiski ~96 tuhandelt eurolt ~109 tuhande euroni*
 
-🏷️ **UrbanStyle**'i müügiandmed näitavad kahe uuritud aasta põhjal selget kasvu. Isegi kui sügise alguses ja jaanuaris on müüginumbrid võrreldes suve ja aasta lõpuga väiksemad, on näha, et ka nõrgemate kuude puhul on käive võrreldes 2023. aastaga kasvanud. Hooajalisuse mustrit annab edaspidi kasutada järgmiste aastate numbrite prognoosimisel, kuid täpsemateks andmeteks on vaja võrrelda numbreid suurema arvu aastate lõikes.
+🏷️ **UrbanStyle**'i müügiandmed näitavad kahe uuritud aasta põhjal selget kasvu. Isegi kui sügise alguses ja jaanuaris on müüginumbrid võrreldes suve ja aasta lõpuga väiksemad, on näha, et ka nõrgemate kuude puhul on käive võrreldes 2023. aastaga kasvanud.
+<br>
+Hooajalisuse mustrit annab edaspidi kasutada järgmiste aastate numbrite prognoosimisel, kuid täpsemateks andmeteks on vaja võrrelda numbreid suurema arvu aastate lõikes.
