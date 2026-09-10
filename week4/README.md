@@ -19,15 +19,15 @@ Meeskond Sales Analytics — Nädal 4 SQL agregatsioon
 
 ### Peamised leiud (3 punkti — üks igalt rollilt)
 
-**Kokkuvõte (A)**: <br> 
+**Kokkuvõte (A)**: Müük <br> 
 ...
 
-**Kokkuvõte (B)**: <br>
+**Kokkuvõte (B)**: Kliendigrupid <br>
 ![Käivete koond](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/klientide-kaive-koond.svg) <br>
 Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtuslikumasse segmenti kuulub vaid **19 VIP-klienti**, kelle käive moodustab **13,2% kogukäibest** ja kellest **14** asuvad Tallinnas või Pärnus.
 
-**Kokkuvõte (C)**: <br> 
-...
+**Kokkuvõte (C)**: Inventuur <br> 
+![Inventuur](./img/inventory-stat.svg)
    
 ### Suurim üllatus
 **(B)** VIP kliendi keskmine käive on **18 227 €**, mis on **11.3 korda** suurem kui tavaklientidel ja **37 korda** suurem kui uutel klientidel.  
