@@ -22,6 +22,7 @@ Meeskond Sales Analytics — Nädal 4 SQL agregatsioon
 ### Peamised leiud (3 punkti — üks igalt rollilt)
 
 **Kokkuvõte (A)**: Müük <br> 
+![Müügi koond](./img/myygi-koond.svg)
 ...
 
 **Kokkuvõte (B)**: Kliendigrupid <br>
