@@ -15,7 +15,7 @@
 
 ## 📌 Tähelepanekud
 
-📈 Müügitrend on üldiselt kasvav, **2024**. aasta kogukäive oli **~19%** suurem kui **2023**. aastal.  
+📈 Aastane käibekasv on **19.1%** (2023 → 2024), mis tähendas lisatulu **+235 599 €** võrreldes 2023. aastaga.   
 📅 Andmed viitavad hooajalistele käibekõikumistele, mis on sarnased **mõlema aasta puhul**:
 
 *1. Müügid kasvavad varakevadel, suve alguses ja aasta lõpus*  
