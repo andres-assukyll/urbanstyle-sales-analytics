@@ -35,7 +35,7 @@ Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtusliku
 
 ### Soovitus Annale ja Kristile
 
-**(A)** .. 
+**(A)** Juhatusele tasub esitada aastane käibekasv **+19,1%** (2023 --> 2024) ning tuua välja, et ka madalaima käibega kuul ehk jaanuaris kasvas käive 2024. aastal **7,4%** võrreldes 2023. aasta jaanuariga.
 <br>
 **(B)** Hoia fookus VIP-klientide säilitamisel ning tavaklientide kasvatamisel VIP tasemele, eelkõige Tallinnas ja Pärnus. 
 <br>
