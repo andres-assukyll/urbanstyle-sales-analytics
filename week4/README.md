@@ -15,7 +15,7 @@
 
 ## 🎯 Meeskond koostab 1 Google Slide / shared doc järgmise struktuuriga:
 
-Meeskond [nimi] — Nädal 4 SQL agregatsioon 
+Meeskond Sales Analytics — Nädal 4 SQL agregatsioon 
 
 ### Peamised leiud (3 punkti — üks igalt rollilt)
 
@@ -41,6 +41,7 @@ Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtusliku
 
 ### Puuduvad andmed
 
+**A** 
 **(B)** Pole.
    
 > *Slaidiesitluseks koondame siia esmalt kokku need punktid, mis slaidile lähevad.*
