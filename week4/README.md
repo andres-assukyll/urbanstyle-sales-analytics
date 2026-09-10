@@ -13,7 +13,9 @@
 
 ---
 
-## 🎯 Meeskond koostab 1 Google Slide / shared doc järgmise struktuuriga:
+## 🎯 Müügiandmete koondraport:
+
+![Esitlus](./w3_presentation.png) < *tulemas*
 
 Meeskond Sales Analytics — Nädal 4 SQL agregatsioon 
 
