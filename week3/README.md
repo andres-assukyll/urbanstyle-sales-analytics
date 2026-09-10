@@ -16,7 +16,7 @@
 
 ![Esitlus](./w3_presentation.png)
 
-1. Peamised leiud (3 punkti — üks igalt rollilt):
+### Peamised leiud (3 punkti — üks igalt rollilt):
 - Pärnu kliendid pole ainult head ostlejad, vaid iga ost on olnud ka keskmiselt suurema väärtusega.
     - müük kliendi kohta **1 355 EUR**;
     - müük ostu kohta **303.82 EUR**;
@@ -25,16 +25,16 @@
 - Kliendibaasis on **599** registreerunud klienti, kes pole veel ühtegi ostu teinud, mis on 19% kogu kliendibaasist.
 - Juurdetellimist vajab **231** toodet. Tooteid, mida pole kordagi müüdud, laos ei ole.
   
-2. Suurim üllatus
+### Suurim üllatus
 - **12** toodet ei ole kunagi müüdud, samas ei ole nende toodete id-d ka laosüsteemiga seotud.
   
-3. Soovitus Annale:
+### Soovitus Annale:
 - Esimese kampaania võiks suunata Tallinna ja Tartu ostuta klientidele.
 - Keskenduda väärtuslike klientide hoidmisele ja lojaalsuse suurendamisele, eriti lojaalsustasemeta klientide puhul.
 - Fokusseerida meeste riiete, jalanõude ja naiste riiete reklaamile, sest nende keskmine müügiväärtus ühiku kohta on kõrgeim.
 - Samuti tasub täpsemalt uurida Pärnu klientide ostukäitumist, vahest leidub seal mingi muster, mida rakendada ka mujal.
   
-4. Puuduvad andmed
+### Puuduvad andmed
 - Laoseis ja asukoht 12 tootel, mida pole kordagi ostetud.
    
 
