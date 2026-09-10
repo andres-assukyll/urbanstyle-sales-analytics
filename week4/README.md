@@ -43,7 +43,7 @@ Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtusliku
 
 ### Puuduvad andmed
 
-**(A)** Rohkemate aastate müügiandmed hooajaliste mustrite prognoosimiseks.  
+**(A)** Hetkel puuduvad rohkemate aastate müügiandmed hooajaliste mustrite prognoosimiseks.  
 **(B)** Pole.
    
 > *Slaidiesitluseks koondame siia esmalt kokku need punktid, mis slaidile lähevad.*
