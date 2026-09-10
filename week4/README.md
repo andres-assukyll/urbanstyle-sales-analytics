@@ -21,7 +21,7 @@
 
 **Kokkuvõte (A)**: Müügi koondandmed <br> 
 ![Müügi koond](./img/myygi-koond.svg) <br>
-Aastane käibekasv on **19.1%** (2023 → 2024), mis tähendas lisatulu ~**+235 599 €** võrreldes 2023. aastaga.
+Aastane käibekasv on **19.1%** (2023 → 2024), ehk **+235 599 €** võrreldes 2023. aastaga.
 
 **Kokkuvõte (B)**: Kliendigrupid <br>
 ![Käivete koond](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/klientide-kaive-koond.svg) <br>
