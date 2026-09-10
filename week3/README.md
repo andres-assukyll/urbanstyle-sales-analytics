@@ -12,7 +12,7 @@
 
 ---
 
-### 🎯 Müügiandmete raport:
+## 🎯 Müügiandmete raport:
 
 ![Esitlus](./w3_presentation.png)
 
