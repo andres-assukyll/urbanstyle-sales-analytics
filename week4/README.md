@@ -1,4 +1,4 @@
-## MEESKOND: SQL agregatsioon  |  NÄDAL: 4 |  TEGELANE: Anna Mets, Kristi Tamm, Liis Koppel
+## MEESKOND: Sales Analytics  |  NÄDAL: 4 |  TEGELANE: Anna Mets, Kristi Tamm, Liis Koppel
 
 ---
 
@@ -16,8 +16,6 @@
 ## 🎯 Müügiandmete koondraport:
 
 ![Esitlus](./w3_presentation.png) < *tulemas*
-
-Meeskond Sales Analytics — Nädal 4 SQL agregatsioon 
 
 ### Peamised leiud (3 punkti — üks igalt rollilt)
 
