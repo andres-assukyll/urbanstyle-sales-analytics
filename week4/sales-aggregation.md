@@ -13,14 +13,12 @@
 | **Parim müügikuu** | Detsember (**129.1k €**) | Detsember (**170.6k €**) | **+32.2%** |
 | **Halvim müügikuu** | Jaanuar (**79 735.03 €**) | Jaanuar (**85 618.65 €**) | **+7.4%** |
 
-### Graafik kuude lõikes
-
-![Käibe muutus (%) 2023–2024]
-
 ## Tähelepanekud
 
 - Müügitrend on üldiselt kasvav, **2024**. aasta kogukäive oli 19% suurem kui **2023**. aastal.
-- Hooajalised käibekõikumised on sarnased **mõlema aasta puhul**:
+- Andmed viitavad hooajalistele käibekõikumistele, mis on sarnased **mõlema aasta puhul**:
 
 *1. Müügid kasvavad varakevadel, suve alguses ja aasta lõpus*  
-*2. Septembrikuu oli võrreldes suvekuudega nõrgem, kuid käive suurenes siiski ~96 tuhandelt eurolt ~109 tuhande euroni*  
+*2. Septembrikuud on olnud võrreldes suvekuudega nõrgemad, kuid kuukäive suurenes siiski ~96 tuhandelt eurolt ~109 tuhande euroni*
+
+- UrbanStyle'i müügiandmed näitavad kahe uuritud aasta põhjal selget kasvu. Isegi kui sügise alguses ja jaanuaris on müüginumbrid võrreldes suve ja aasta lõpuga väiksemad, on näha, et ka nõrgemate kuude puhul on käive võrreldes 2023. aastaga kasvanud. Hooajalisuse mustrit annab edaspidi kasutada järgmiste aastate numbrite prognoosimisel, kuid täpsemateks andmeteks on vaja võrrelda numbreid suurema arvu aastate lõikes.
