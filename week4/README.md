@@ -19,9 +19,9 @@
 
 ### Peamised leiud (3 punkti — üks igalt rollilt)
 
-**Kokkuvõte (A)**: Müük <br> 
+**Kokkuvõte (A)**: Müügi koondandmed <br> 
 ![Müügi koond](./img/myygi-koond.svg) <br>
-...
+**19.1%** aastane käibekasv (2023 → 2024), mis tähendas lisatulu ~**+235 599 €**
 
 **Kokkuvõte (B)**: Kliendigrupid <br>
 ![Käivete koond](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/klientide-kaive-koond.svg) <br>
