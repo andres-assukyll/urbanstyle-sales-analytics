@@ -18,8 +18,8 @@
 📈 Aastane käibekasv on **19.1%** (2023 → 2024), mis tähendas lisatulu **+235 599 €** võrreldes 2023. aastaga *(1,23 mln € → 1,47 mln €)*.  
 📅 Andmed viitavad hooajalistele käibekõikumistele, mis on sarnased **mõlema aasta puhul**:
 
-*1. Müügid kasvavad varakevadel, suve alguses ja aasta lõpus*  
-*2. Septembrikuud on olnud võrreldes suvekuudega nõrgemad, kuid kuukäive suurenes siiski ~96 tuhandelt eurolt ~109 tuhande euroni*
+- Müügid kasvavad varakevadel, suve alguses ja aasta lõpus   
+- Septembrikuud on olnud võrreldes suvekuudega nõrgemad, kuid kuukäive suurenes siiski ~96 tuhandelt eurolt ~109 tuhande eurole   
 
 🏷️ **UrbanStyle**'i müügiandmed näitavad kahe uuritud aasta põhjal selget kasvu. Isegi kui sügise alguses ja jaanuaris on müüginumbrid võrreldes suve ja aasta lõpuga väiksemad, on näha, et ka nõrgemate kuude puhul on käive võrreldes 2023. aastaga kasvanud.
 <br>
