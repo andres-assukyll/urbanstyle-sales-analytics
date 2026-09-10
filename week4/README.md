@@ -15,7 +15,7 @@
 
 ## 🎯 Müügiandmete koondraport:
 
-![Esitlus](./w3_presentation.png) < *tulemas*
+![Esitlus](./img/w4_presentation.png) < *tulemas*
 
 ### Peamised leiud (3 punkti — üks igalt rollilt)
 
