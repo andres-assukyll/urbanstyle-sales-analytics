@@ -22,7 +22,8 @@ Meeskond Sales Analytics — Nädal 4 SQL agregatsioon
 **Kokkuvõte (A)**: <br> 
 ...
 
-**Kokkuvõte (B)**: <br> 
+**Kokkuvõte (B)**: <br>
+![Käivete koond](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-4/img/klientide-kaive-koond.svg) <br>
 Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtuslikumasse segmenti kuulub vaid **19 VIP-klienti**, kelle käive moodustab **13,2% kogukäibest** ja kellest **14** asuvad Tallinnas või Pärnus.
 
 **Kokkuvõte (C)**: <br> 
