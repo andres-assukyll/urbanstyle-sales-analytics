@@ -23,4 +23,4 @@
 
 🏷️ **UrbanStyle**'i müügiandmed näitavad kahe uuritud aasta põhjal selget kasvu. Isegi kui sügise alguses ja jaanuaris on müüginumbrid võrreldes suve ja aasta lõpuga väiksemad, on näha, et ka nõrgemate kuude puhul on käive võrreldes 2023. aastaga kasvanud.
 <br>
-Hooajalisuse mustrit annab edaspidi kasutada järgmiste aastate numbrite prognoosimisel, kuid täpsemateks andmeteks on vaja võrrelda numbreid suurema arvu aastate lõikes.
+Hooajalisuse mustrit annab edaspidi kasutada järgmiste aastate numbrite prognoosimisel, kuid täpsemate prognooside tegemiseks on vaja võrrelda numbreid suurema arvu aastate lõikes.
