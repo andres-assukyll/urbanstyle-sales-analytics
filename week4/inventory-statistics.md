@@ -50,7 +50,7 @@ Toodete järjestamiseks kategooria sees kasutasin `ROW_NUMBER()` window function
 
 Kõige suurem müügikoormus langeb meeste riiete kategooriale, millest müüdi kokku 4121 ühikut. Laste riiete kategoorias oli aga kõige suurem keskmine müük ühe toote kohta – 64,33 ühikut –, mis võib tähendada, et nõudlus koondub väiksemale arvule toodetele. Need kategooriad vajavad varude planeerimisel esmajärjekorras tähelepanu, sest ebapiisav laoseis võib seal kõige kiiremini müügikadu põhjustada.
 
-## Soovitus Liisile
+## Soovitus Liisile /Liisile? Kas mitte Annale?/
 
 Kontrolli esmajärjekorras Tartu poe meeste ja laste riiete laoseisu, sest nende kategooriate müügimaht on kõige suurem ning puudulik laovaru võib kiiresti müügikadu põhjustada. Võrdle süsteemis näidatud koguseid tegeliku inventuuri ning `IN`, `OUT`, `TRANSFER` ja `ADJUSTMENT` laoliikumistega. Eraldi tuleb üle vaadata sagedaste paranduskannete ja ülekannetega tooted, sest need võivad viidata sisestusvigadele või ebatäpsele varude liikumise protsessile. Soovitan võtta kasutusele iganädalase erandite raporti, mis toob automaatselt välja negatiivse laoseisu, suured korrigeerimised ja kiiresti väheneva varuga tooted.
 
