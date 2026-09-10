@@ -1,1 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="720"
+     height="376"
+     viewBox="0 0 720 376"
+     role="img"
+     aria-labelledby="title desc">
 
+  <title id="title">Ettevõtte käibekasvu võrdlus</title>
+
+  <desc id="desc">
+    2023 ja 2024 võrdlus.
+    Aastane kogukäive: 1 234 758,90 € ja 1 470 358,02 €, kasv 19,1%.
+    Parim müügikuu detsember: 129,1 tuhat ja 170,6 tuhat eurot, kasv 32,2%.
+    Halvim müügikuu jaanuar: 79 735,03 € ja 85 618,65 €, kasv 7,4%.
+  </desc>
+
+  <!-- Taust -->
+  <rect width="720" height="376" fill="#F7F1E6"/>
+
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#2F302B">
+
+    <!-- Pealkiri -->
+    <text x="36" y="48" font-size="25" font-weight="700">
+      Ettevõtte käibekasvu võrdlus
+    </text>
+
+    <!-- Kaartide heledad salveitaustad -->
+    <rect x="36" y="72" width="208" height="264"
+          rx="5" fill="#E8EEE5"/>
+    <rect x="256" y="72" width="208" height="264"
+          rx="5" fill="#E8EEE5"/>
+    <rect x="476" y="72" width="208" height="264"
+          rx="5" fill="#E8EEE5"/>
+
+    <!-- Tumerohelised päised -->
+    <g fill="#5E7361">
+      <path d="M 41 72 H 239 Q 244 72 244 77
+               V 116 H 36 V 77 Q 36 72 41 72"/>
+      <path d="M 261 72 H 459 Q 464 72 464 77
+               V 116 H 256 V 77 Q 256 72 261 72"/>
+      <path d="M 481 72 H 679 Q 684 72 684 77
+               V 116 H 476 V 77 Q 476 72 481 72"/>
+    </g>
+
+    <!-- Päiste tekst -->
+    <g font-size="16" font-weight="700"
+       text-anchor="middle" fill="#F7F1E6">
+      <text x="140" y="100">Aastane kogukäive</text>
+      <text x="360" y="100">Parim müügikuu</text>
+      <text x="580" y="100">Halvim müügikuu</text>
+    </g>
+
+    <!-- Perioodid -->
+    <g font-size="16">
+      <text x="52" y="145">Kogu aasta</text>
+      <text x="272" y="145">Detsember</text>
+      <text x="492" y="145">Jaanuar</text>
+    </g>
+
+    <!-- Kasvuprotsendid -->
+    <g font-size="36" font-weight="700" fill="#CC6E50">
+      <text x="52" y="193">+19,1%</text>
+      <text x="272" y="193">+32,2%</text>
+      <text x="492" y="193">+7,4%</text>
+    </g>
+
+    <g font-size="14" fill="#5E7361">
+      <text x="52" y="216">käibe kasv</text>
+      <text x="272" y="216">käibe kasv</text>
+      <text x="492" y="216">käibe kasv</text>
+    </g>
+
+    <!-- Eraldusjooned -->
+    <g stroke="#D6D0C5" stroke-width="1">
+      <line x1="52" y1="233" x2="228" y2="233"/>
+      <line x1="272" y1="233" x2="448" y2="233"/>
+      <line x1="492" y1="233" x2="668" y2="233"/>
+    </g>
+
+    <!-- 2023. aasta -->
+    <g font-size="13">
+      <text x="48" y="265">2023</text>
+      <text x="268" y="265">2023</text>
+      <text x="488" y="265">2023</text>
+    </g>
+
+    <g font-size="14" text-anchor="end">
+      <text x="232" y="265">1 234 758,90 €</text>
+      <text x="452" y="265">129,1 tuh €</text>
+      <text x="672" y="265">79 735,03 €</text>
+    </g>
+
+    <!-- 2024. aasta salveirohelised taustaribad -->
+    <g fill="#B5C5B5">
+      <rect x="42" y="282" width="196" height="40" rx="3"/>
+      <rect x="262" y="282" width="196" height="40" rx="3"/>
+      <rect x="482" y="282" width="196" height="40" rx="3"/>
+    </g>
+
+    <!-- 2024. aasta -->
+    <g font-size="13">
+      <text x="48" y="307">2024</text>
+      <text x="268" y="307">2024</text>
+      <text x="488" y="307">2024</text>
+    </g>
+
+    <g font-size="14" font-weight="700" text-anchor="end">
+      <text x="232" y="307">1 470 358,02 €</text>
+      <text x="452" y="307">170,6 tuh €</text>
+      <text x="672" y="307">85 618,65 €</text>
+    </g>
+
+  </g>
+</svg>
