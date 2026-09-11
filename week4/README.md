@@ -36,7 +36,7 @@ Kõige rohkem **erinevaid tooteid** ja **suurim müügikogus** oli **meeste riie
 
 ### Soovitus Annale ja Kristile
 
-**(A)** Juhatusele tasub esitada aastane käibekasv **+19.1%** (1.23 mln € → 1.47 mln €) ning tuua välja, et ka madalaima käibega kuul ehk jaanuaris kasvas käive 2024. aastal **7.4%** võrreldes 2023. aasta jaanuariga.
+**(A)** Too juhatusele esile aastane käibekasv 19,1% ning 7,4% kasv ka nõrgimal müügikuul, jaanuaris.
 <br>
 **(B)** Hoia fookus VIP-klientide säilitamisel ning tavaklientide kasvatamisel VIP tasemele, eelkõige Tallinnas ja Pärnus. 
 <br>
