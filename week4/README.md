@@ -28,7 +28,8 @@ Aastane käibekasv on **19.1%** (2023 → 2024), ehk **+235 599 €** võrreldes
 Tuvastatud klientide käive moodustab **90% kogukäibest**. Kõige väärtuslikumasse segmenti kuulub vaid **19 VIP-klienti**, kelle käive moodustab **13,2% kogukäibest** ja kellest **14** asuvad Tallinnas või Pärnus.
 
 **Kokkuvõte (C)**: Inventuur <br> 
-![Inventuur](./img/inventory-stat.svg)
+![Inventuur](./img/inventory-stat.svg) <br>
+Kõige rohkem **erinevaid tooteid** ja **suurim müügikogus** oli **meeste riiete** kategoorias. **Laste riiete** kategoorias oli kõige suurem **keskmine müüdud kogus** ühe müüdud **toote** kohta.
    
 ### Suurim üllatus
 **(B)** VIP kliendi keskmine käive on **18 227 €**, mis on **11.3 korda** suurem kui tavaklientidel ja **37 korda** suurem kui uutel klientidel.  
