@@ -7,6 +7,6 @@
 | Nimi | Roll (Nädal 5) | OS |
 |---|---|:---:|
 | Evelyn Uusmaa | A: [CEO + Operations]() | 🪟 Win |
-| Nele Kund | B: [Marketing + Koondvaade]() | 🪟 Win |
+| Nele Kund | B: [Marketing + Koondvaade](marketing-dashboard.md) | 🪟 Win |
 | Andres Assuküll | C: []()  | 🍎 Mac |
 
