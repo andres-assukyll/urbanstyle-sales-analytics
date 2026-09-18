@@ -39,3 +39,9 @@ Turundustegevustes tasub pöörata tähelepanu online-kanalile ning tugevdada ka
 ### C: Operations
 
 Andrese Operations-analüüs lisatakse pärast selle valmimist.
+
+### D: Investori kokkuvõte
+
+UrbanStyle'i aastane kasv on **19%** (2023 → 2024). Kasvu toetab online-müügi ja füüsiliste poodide kombinatsioon. Suurima käibega on Tallinna pood **(1,09 mln €)**, millele järgneb vaid väikese vahega e-pood **(1,01 mln €)**
+<br>
+**Soovitus:** Suurendada turundustegevusi augustis-septembris ja alustada varakult aastalõpukampaaniatega.
