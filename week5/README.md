@@ -22,7 +22,7 @@
 
 ### A: CEO Dashboard
 
-UrbanStyle’i kogumüügitulu on **2,67 miljonit eurot** ning müügiandmetes on **2558 ostnud klienti**. Müügitulu kasvas 2024. aastal võrreldes 2023. aastaga **19,08%**, mis näitab ettevõtte positiivset arengut.
+UrbanStyle’i kogumüügitulu on **2,91 miljonit eurot** ning müügiandmetes on **2552 ostnud klienti**. Müügitulu kasvas 2024. aastal võrreldes 2023. aastaga **19,08%**, mis näitab ettevõtte positiivset arengut.
 
 Kuupõhine müügitulu kõigub, kuid 2024. aasta üldine tase on varasemast kõrgem. Hilisemate perioodide andmete täielikkust tuleb enne juhtimisotsuste tegemist kontrollida.
 
