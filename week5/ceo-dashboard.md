@@ -14,14 +14,14 @@ Minu ülesanne oli koostada UrbanStyle’i juhtimis- ja operatsioonivaade. CEO v
 | Näitaja | Tulemus |
 |---|---:|
 | Kogu müügitulu | 2,91 miljonit eurot |
-| Ostnud klientide arv | 2552 |
+| Ostnud klientide arv | 2551 |
 | Müügitulu kasv 2024 vs 2023 | 19,08% |
 
 ## CEO Dashboard
 
 ![CEO Dashboard – UrbanStyle'i müügitulu, kliendid ja kasv](role_a_ceo_dashboard.png)
 
-UrbanStyle’i kogumüügitulu on **2,91 miljonit eurot** ning müügiandmetes on **2552 ostnud klienti**. Müügitulu kasvas 2024. aastal võrreldes 2023. aastaga **19,08%**, mis näitab ettevõtte tugevat positiivset arengut.
+UrbanStyle’i kogumüügitulu on **2,91 miljonit eurot** ning müügiandmetes on **2551 ostnud klienti**. Müügitulu kasvas 2024. aastal võrreldes 2023. aastaga **19,08%**, mis näitab ettevõtte tugevat positiivset arengut.
 
 Kuupõhine müügitulu kõigub, kuid 2024. aasta üldine tase on varasemast kõrgem. Hilisemate perioodide järsku langust tuleb enne äriliste järelduste tegemist kontrollida, sest 2025.–2026. aasta andmed võivad olla mittetäielikud.
 
