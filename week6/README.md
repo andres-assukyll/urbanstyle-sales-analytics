@@ -1,3 +1,9 @@
+## MEESKOND: Sales Analytics | NÄDAL: 6 | TEGELANE: Anna Mets
+
+---
+
+## 👥 Meeskonnaliikmed
+
 | Nimi | Ülesanne (Nädal 6) | OS |
 |---|---|:---:|
 | Nele Kund | A: Täpsustamisel | 🪟 Win |
