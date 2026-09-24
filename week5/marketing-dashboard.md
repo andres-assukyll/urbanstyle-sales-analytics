@@ -3,7 +3,7 @@
 **Nimi:** Nele Kund   
 **Meeskond:** Sales Analytics    
 **Roll:** B – Marketing + Koondvaade  
-**Andmeallikad:** `sales`, `customers` tabelid (Supabase)
+**Andmeallikad:** `sales`, `customers` tabelid
 
 ## Marketing Dashboard
 
