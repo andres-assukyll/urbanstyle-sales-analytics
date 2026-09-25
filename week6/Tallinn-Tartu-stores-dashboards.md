@@ -25,4 +25,4 @@ Tallinna pood on UrbanStyle'i suurim müügikanal. 2024. aastal kasvas poe käiv
 ### Tartu poe andmelugu
 <br>
 
-Tartu pood on UrbanStyle'i müügikanal, mis on kogukäibelt 3.kohal. 2024. aastal kasvas poe käive **13%** - kasv on isegi suurem kui Tallinna kauplusel. Edukas detsembrikuu toetas kasvu ja tõi Tartu poele novembrikuuga võrreldes lausa **72%** rohkem käivet. Soovitame järgida detsembrikuu edu tagamiseks samasugust kampaaniamudelit ja toetada aktiivsete klientide arenemist VIP-klientideks personaalsete pakkumiste abil.
+Tartu pood on UrbanStyle'i müügikanal, mis on kogukäibelt 3. kohal. 2024. aastal kasvas poe käive **13%** - kasv on isegi suurem kui Tallinna kauplusel. Edukas detsembrikuu toetas kasvu ja tõi Tartu poele novembrikuuga võrreldes lausa **72%** rohkem käivet. Kuna detsember tõi väga tugeva käibekasvu, soovitame kindlasti varasemat kampaaniamudelit ka järgmistel aastatel rakendada ja hoida juba olemasolevaid kliente, kelle osakaal kliendibaasist on **99%**.
