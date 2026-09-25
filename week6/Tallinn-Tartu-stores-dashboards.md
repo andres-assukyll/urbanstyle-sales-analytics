@@ -14,7 +14,8 @@
 <br>
 ### Tallinna poe andmelugu
 <br>
-<br>
+
+Tallinna pood on UrbanStyle'i suurim müügikanal. 2024. aastal kasvas poe käive **11%** - seda toetasid tellimuste mahu suurenemine, kliendibaasi kasvatamine ning **detsembrikuu rekordmüük (~64 000 €)**. Soovitame järgida detsembrikuu edu tagamiseks samasugust kampaaniamudelit ja toetada aktiivsete klientide arenemist VIP-klientideks personaalsete pakkumiste abil.
 
 ## Tartu poe Dashboard
 
@@ -24,3 +25,6 @@
 ### Tartu poe andmelugu
 <br>
 <br>
+Kontekst--
+Andmed/konflikt--
+Soovitus--
