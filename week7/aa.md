@@ -1,3 +1,6 @@
+### RMF
+(./img/d1.png)
+
 ### V
 Analüüsitud klientidest kuulub VIP segmenti **450**. <br>
 Nende kogukulutus **1 104 225.48 €** moodustab **42.6%** analüüsitud klientide kogukulutusest. <br>
