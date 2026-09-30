@@ -1,5 +1,12 @@
 ### V
-Marko, analüüsitud klientidest 450 kuulub VIP Champions segmenti. Nende kogukulutus on 1,104,225.48 eurot, mis moodustab 42.6% analüüsitud klientide kogukulutusest. At Risk segmendis on 510 klienti; see viitab tähelepanu vajavale kliendirühmale, kuid ei tõenda nende lahkumist. VIP-klientidele soovitan varajast ligipääsu uutele kollektsioonidele ja eritingimusi ning At Risk klientidele personaalset 14-päevast tagasivõitmispakkumist, mille tulemust mõõta 30 päeva kordusostumäära ja kontrollrühmaga võrdlemise kaudu. Kuna RFM-analüüsi viitekuupäev on 28.02.2025, tuleb enne kampaaniate käivitamist kliendisegmendid värskendada.
+Analüüsitud klientidest kuulub VIP segmenti **450**. <br>
+Nende kogukulutus **1 104 225.48 €** moodustab **42.6%** analüüsitud klientide kogukulutusest. <br>
+**At Risk** segmendis on **510** klienti <br>
+     – viitab tähelepanu vajavale kliendirühmale, kuid ei tõenda nende lahkumist. <br>
+VIP-klientidele soovitan varajast ligipääsu uutele kollektsioonidele ja eritingimusi.<br>
+At Risk klientidele personaalset 14-päevast tagasivõitmispakkumist, mille tulemust mõõta 30 päeva kordusostumäära ja kontrollrühmaga võrdlemise kaudu. 
+
+Kuna RFM-analüüsi viitekuupäev on 28.02.2025, tuleb enne kampaaniate käivitamist kliendisegmendid värskendada.
 
 ### VI
 1. VIP programm: paku VIP Champions klientidele varajast ligipääsu uutele kollektsioonidele ja tasuta tarnet alates kindlast ostusummast. Testi programmi 60 päeva ning mõõda kordusostumäära ja kasumit kliendi kohta.
