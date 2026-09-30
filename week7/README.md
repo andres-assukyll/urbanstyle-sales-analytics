@@ -1,4 +1,4 @@
-## MEESKOND: Sales Analytics | NÄDAL: 6 | TEGELANE: Anna Mets
+## MEESKOND: Sales Analytics | NÄDAL: 7 | TEGELANE: Marko Saar
 
 ---
 
@@ -6,7 +6,7 @@
 
 | Nimi | Ülesanne (Nädal 7) | OS |
 |---|---|:---:|
-| Andres Assuküll | A+B | 🍎 Mac |
-| Nele Kund | A: [Tallinna ja Tartu kaupluste andmelood](Tallinn-Tartu-stores-dashboards.md) | 🪟 Win |
-| Evelyn Uusmaa | B: [Pärnu kaupluse ja e-poe dashboard'id ning andmelood](Pärnu_Epood_analüüs.md) | 🪟 Win |
+| Andres Assuküll | A: Data Loading + Cleaning | 🍎 Mac |
+| Nele Kund | B: [RMF analüüs](rmf_analyys.md) | 🪟 Win |
+| Evelyn Uusmaa | C: [Visualiseerimine](rmf_vizual.md) | 🪟 Win |
 
