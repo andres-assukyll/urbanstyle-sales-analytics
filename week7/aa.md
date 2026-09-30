@@ -1,5 +1,7 @@
 ### RMF
-(./img/d1.png)
+![](./img/d1.png) <br>
+![](./img/d2.png) <br>
+![](./img/d3.png)
 
 ### V
 Analüüsitud klientidest kuulub VIP segmenti **450**. <br>
