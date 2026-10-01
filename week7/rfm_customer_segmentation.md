@@ -10,11 +10,11 @@
 
 | Segment | Klientide arv | Osakaal % |
 |---|---:|---:|
-| **Potential** | 743 | 29.3% |
-| **Loyal** | 691 | 27.2% |
-| **At Risk** | 517 | 20.4% |
-| **VIP Champions** | 461 | 18.1% |
-| **Lost** | 128 | 5.0% |
+| **Potential** | 740 | 29.4% |
+| **Loyal** | 684 | 27.2% |
+| **At Risk** | 512 | 20.4% |
+| **VIP Champions** | 455 | 18.1% |
+| **Lost** | 124 | 4.9% |
 
 ### Jupyter Notebook sektsioonid
 
