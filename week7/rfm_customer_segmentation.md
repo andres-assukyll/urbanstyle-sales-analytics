@@ -15,3 +15,7 @@
 | **At Risk** | 517 | 20.4% |
 | **VIP Champions** | 461 | 18.1% |
 | **Lost** | 128 | 5.0% |
+
+### Jupyter Notebook sektsioonid
+
+[Vaata RFM arvutuskoodi](https://github.com/nelekund/daca-portfolio/blob/main/week-7/individual/week7_rfm_role%20_C.ipynb)
