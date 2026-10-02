@@ -8,5 +8,5 @@
 |---|---|:---:|
 | Andres Assuküll | A: [Laadimine ja puhastamine](aa.md) | 🍎 Mac |
 | Nele Kund | B: [RFM kliendisegmenteerimine](rfm_customer_segmentation.md) | 🪟 Win |
-| Evelyn Uusmaa | C: [Visualiseerimine](rmf_vizual.md) | 🪟 Win |
+| Evelyn Uusmaa | C: [Visualiseerimine](rmf_visual.md) | 🪟 Win |
 
