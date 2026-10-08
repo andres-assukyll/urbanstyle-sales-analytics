@@ -18,13 +18,13 @@ Ehitada **modulaarne automatiseeritud pipeline**'i, mis:
 3. Visualiseerib tulemused ja salvestab failidesse
 4. Automatiseerib kogu protsessi üheks funktsiooniks koos ajastamisloogikaga
 
-## ❓ Küsimused Markolt
+## 💬 Küsimused Markolt
 
-#### Kui palju aega pipeline kokku hoiab, võrreldes käsitsi töötlusega?
+#### ❓ Kui palju aega pipeline kokku hoiab, võrreldes käsitsi töötlusega?
 
 Hinnanguliselt võtaks samade andmete käsitsi laadimine, puhastamine, analüüs ja visualiseerimine u. 55–100 minutit ühe pipeline jooksutamise kohta. Automatiseeritud pipeline teeb sama töö u. 2–5 minutiga, sõltuvalt andmemahtudest ja Supabase'i ühenduse kiirusest. Seega säästab pipeline hinnanguliselt umbes 50–95 minutit ühe jooksutamise kohta ning vähendab oluliselt ka käsitsi tehtavate vigade riski. Kui aga pipeline'i käivitada kord nädalas, võib aastane ajavõit olla ligikaudu 40–80 tundi.
 
-#### Milline soovitus Markole automatiseerimise laiendamiseks? Mida veel võiks automaatselt teha? Churn risk alert? Inventory warning? Weekly email?
+#### ❓ Milline soovitus Markole automatiseerimise laiendamiseks? Mida veel võiks automaatselt teha? Churn risk alert? Inventory warning? Weekly email?
 
 Mõistlikuim edasine samm oleks laiendada automatiseerimist **Weekly Performance Email** ja **Churn Risk Alert**'idega. Pipeline võiks kord nädalas arvutada peamised KPI-d, võrrelda neid eelmise perioodiga ning tuvastada kliendid, kelle ostuaktiivsus on langenud. <br>
 Need raportid kasutavad juba olemasolevaid andmeid ega nõua tingimata uut andmeallikat. Samuti liiguks projekt siis edasi **ärilise otsustoe automatiseerimise** suunas.
@@ -35,7 +35,7 @@ Lisaks võiks kaaluda ka: <br>
     📉 ebatavaliselt väike tulu — võimalik probleem müügis, andmetes või süsteemis;<br>
     📈 ebatavaliselt suur tulu — võimalik väga edukas müügipäev, kampaania mõju või anomaalia andmetes.
 
-#### Mis juhtub, kui Supabase on maas? Kuidas meie pipeline sellega toime tuleb? Kas ta crash'ib? Kas on fallback? Kuidas veakäsitlus aitab?
+#### ❓ Mis juhtub, kui Supabase on maas? Kuidas meie pipeline sellega toime tuleb? Kas ta crash'ib? Kas on fallback? Kuidas veakäsitlus aitab?
 
 | Küsimus | Meie lahendus |
 |---|---|
