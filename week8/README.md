@@ -18,6 +18,8 @@ Meeskond arutab ja vastab kolmele küsimusele (vastused suunatakse Markole):
    Mida veel võiks automaatselt teha? Churn risk alert? Inventory warning? Weekly email?
 3. "Mis juhtub, kui Supabase on maas? Kuidas meie pipeline sellega toime tuleb?"
    Kas pipeline crash'ib? Kas on fallback? Kuidas veakäsitlus aitab?
+   - Supabase'i ajutise tõrke korral kasutab meie pipeline *retry* mehhanismi. Pärast kolme ebaõnnestunud katset edastatakse viga pipeline'ile, mis omakorda ei jätka puudulike andmetega, vaid märgib vastava perioodi ebaõnnestunuks. Mitme perioodi korral saab pipeline seetõttu teisi perioode siiski töödelda ning lõpptulemusena saadetakse üks staatusepõhine e-kiri. <br>
+   - *Fallback*i ehk asendusandmeallikat hetkel ei kasutata.
 
 ## 📧 *Pipeline* e-kirja teavitus
 
