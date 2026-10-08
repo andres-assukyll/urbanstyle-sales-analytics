@@ -43,7 +43,7 @@ Lisaks võiks kaaluda ka: <br>
 | Kõik perioodid ebaõnnestuvad | **FAILURE** |
 | Kas saadetakse teavitus? | **Jah, üks e-mail kogu jooksu kohta** |
 
-### 📧 *Pipeline* e-kirja teavitus SUCCESS
+#### 📧 *Pipeline* e-kirja teavitus SUCCESS
 
 ✅ UrbanStyle pipeline valmis!
 
