@@ -10,8 +10,16 @@
 | Andres Assuküll | B: [Data Processing](data.md) | 🍎 Mac  |
 | Nele Kund | C: [Visualization + Saving](visual_saving.md) | 🪟 Win |
 
-## ❓ Küsimused
-Meeskond arutab ja vastab kolmele küsimusele (vastused suunatakse Markole):
+## Eesmärk
+
+Ehitada **modulaarne automatiseeritud pipeline**'i, mis:
+1. Pärib andmed UrbanStyle.ltd Supabase API-st
+2. Töötleb andmed pandas pipeline'iga (puhastamine + transformeerimine)
+3. Visualiseerib tulemused ja salvestab failidesse
+4. Automatiseerib kogu protsessi üheks funktsiooniks koos ajastamisloogikaga
+
+## ❓ Küsimused Markolt
+
 #### Kui palju aega pipeline kokku hoiab, võrreldes käsitsi töötlusega?
 
 Hinnanguliselt võtaks samade andmete käsitsi laadimine, puhastamine, analüüs ja visualiseerimine u. 55–100 minutit ühe pipeline jooksutamise kohta. Automatiseeritud pipeline teeb sama töö u. 2–5 minutiga, sõltuvalt andmemahtudest ja Supabase'i ühenduse kiirusest. Seega säästab pipeline hinnanguliselt umbes 50–95 minutit ühe jooksutamise kohta ning vähendab oluliselt ka käsitsi tehtavate vigade riski. Kui aga pipeline'i käivitada kord nädalas, võib aastane ajavõit olla ligikaudu 40–80 tundi.
