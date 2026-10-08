@@ -5,7 +5,7 @@
 **Roll:** B – Data processing
 <br>
 
-### Ülesanne
+### Ülesanne : andmete puhastamine ja analüüs
 
 Moodustada `transform` fail, mis impordiks andmed `data_fetcher`-ist ning valmistaks need ette `visualize_export`jaoks.
 
