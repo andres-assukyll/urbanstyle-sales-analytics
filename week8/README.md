@@ -16,8 +16,8 @@ Meeskond arutab ja vastab kolmele küsimusele (vastused suunatakse Markole):
    Mõtelge, kui kaua võiks sama töötlus käsitsi aega võtta (andmete laadimine, puhastamine, analüüs, eksport) — ja kui kaua pipeline seda teeb.
 2. "Milline soovitus Markole automatiseerimise laiendamiseks?"
    Mida veel võiks automaatselt teha? Churn risk alert? Inventory warning? Weekly email?
-3. "Mis juhtub, kui Supabase on maas? Kuidas meie pipeline sellega toime tuleb?"
-   Kas pipeline crash'ib? Kas on fallback? Kuidas veakäsitlus aitab?
+
+#### Mis juhtub, kui Supabase on maas? Kuidas meie pipeline sellega toime tuleb? Kas ta crash'ib? Kas on fallback? Kuidas veakäsitlus aitab?
 
 | Küsimus | Meie lahendus |
 |---|---|
