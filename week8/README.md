@@ -12,8 +12,10 @@
 
 ## ❓ Küsimused
 Meeskond arutab ja vastab kolmele küsimusele (vastused suunatakse Markole):
-1. "Kui palju aega pipeline kokku hoiab, võrreldes käsitsi töötlusega?"
-   Mõtelge, kui kaua võiks sama töötlus käsitsi aega võtta (andmete laadimine, puhastamine, analüüs, eksport) — ja kui kaua pipeline seda teeb.
+#### Kui palju aega pipeline kokku hoiab, võrreldes käsitsi töötlusega?
+
+Hinnanguliselt võtaks samade andmete käsitsi laadimine, puhastamine, analüüs ja visualiseerimine u. 55–100 minutit ühe pipeline jooksutamise kohta. Automatiseeritud pipeline teeb sama töö u. 2–5 minutiga, sõltuvalt andmemahtudest ja Supabase'i ühenduse kiirusest. Seega säästab pipeline hinnanguliselt umbes 50–95 minutit ühe jooksutamise kohta ning vähendab oluliselt ka käsitsi tehtavate vigade riski. Kui aga pipeline'i käivitada kord nädalas, võib aastane ajavõit olla ligikaudu 40–80 tundi.
+
 #### Milline soovitus Markole automatiseerimise laiendamiseks? Mida veel võiks automaatselt teha? Churn risk alert? Inventory warning? Weekly email?
 
 Mõistlikuim edasine samm oleks laiendada automatiseerimist **Weekly Performance Email** ja **Churn Risk Alert**'idega. Pipeline võiks kord nädalas arvutada peamised KPI-d, võrrelda neid eelmise perioodiga ning tuvastada kliendid, kelle ostuaktiivsus on langenud. <br>
