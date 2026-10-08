@@ -10,7 +10,7 @@
 | Andres Assuküll | B: [Data Processing](data.md) | 🍎 Mac  |
 | Nele Kund | C: [Visualization + Saving](visual_saving.md) | 🪟 Win |
 
-## Eesmärk
+## 🎯 Eesmärk
 
 Ehitada **modulaarne automatiseeritud pipeline**'i, mis:
 1. Pärib andmed UrbanStyle.ltd Supabase API-st
