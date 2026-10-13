@@ -81,6 +81,19 @@ Seejärel kontrolli negatiivseid laoseise päringuga C. Praegu on aastase kasvu 
 
 > *Need tulemused kinnitavad, et põhilised müüginäitajad on arvutatavad, kuid andmete kvaliteet ei ole veel piisav kõigi juhtimisotsuste tegemiseks ilma täiendavate kontrollideta*.
 
+### Müügikanalite ja asukohtade võrdlus
+
+| Kanal või asukoht | Käive | Osakaal kogukäibest |
+|---|---:|---:|
+| Tallinna pood | 1 092 083,15 € | 37,5% |
+| Online | 1 006 747,68 € | 34,6% |
+| Tartu pood | 521 603,11 € | 17,9% |
+| Pärnu pood | 288 744,04 € | 9,9% |
+> *Osakaalud on arvutatud ligikaudsest kogukäibest 2,91 mln eurot; ümardamise tõttu ei pruugi need kokku anda täpselt 100%*.
+
+Tallinna pood on suurima käibega müügikoht ja online-kanal on sellele lähedal. Füüsiliste poodide koondkäive on 1 902 430,30 € ehk 65,39% ning online-kanali osakaal 34,61%.
+Laokategooriate koondpildi järgi on suurim laokogus meeste rõivastel ja väikseim aksessuaaridel. Seda ei saa siiski tõlgendada automaatselt optimaalse varude jaotusena: vaja on võrrelda varusid müügikiiruse, hooajalisuse ja tellimispunktidega.
+
 ## Kokkuvõte Kristile ja Annale
 
 UrbanStyle’i müügiandmete esialgne valideerimine kinnitab, et 2024. aasta müügitulu kasvas võrreldes 2023. aastaga 19,08%, ulatudes 1,47 miljoni euroni. Suurima käibega müügikanal on Tallinna pood 1,09 miljoni euroga, millele järgneb online-kanal ligikaudu 1,01 miljoni euroga; füüsiliste poodide koondosakaal on 65,39%. Andmekvaliteedi kontroll tõi esile 195 negatiivse müügisummaga rida, 501 rida, kus müügisumma erineb koguse ja ühikuhinna korrutisest, ning 10 negatiivse laoseisuga rida, mis vajavad täiendavat uurimist. Enne lõplike juhtimisotsuste tegemist tuleb selgitada nende erinevuste põhjused ning hinnata laoseisu tellimispunktide ja toodete müügikiiruse põhjal.
