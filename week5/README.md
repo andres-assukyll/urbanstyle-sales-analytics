@@ -40,6 +40,8 @@ Turundustegevustes tasub pöörata tähelepanu online-kanalile ning tugevdada ka
 
 Tallinn on suurima müügituluga müügikoht, moodustades ligikaudu 37% kogumüügist, ning sellele järgneb väga lähedalt online-kanal. Pärnu müügitulu on kõige väiksem, mistõttu tasub hinnata sealse poe müügitulemusi ja tegevusmahtu.
 
+Kõige suurem laoseis on meeste riiete kategoorias, samas kui kõige väiksem laoseis on aksessuaaridel. Väiksema laoseisuga kategooriate puhul tuleb võrrelda laokoguseid müügikiiruse ja tellimispunktidega, et vältida kaupade lõppemist.
+
 ### D: Investori kokkuvõte
 
 UrbanStyle'i aastane kasv on **19%** (2023 → 2024). Kasvu toetab online-müügi ja füüsiliste poodide kombinatsioon. Suurima käibega on Tallinna pood **(1,09 mln €)**, millele järgneb vaid väikese vahega e-pood **(1,01 mln €)**
