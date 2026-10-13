@@ -48,11 +48,11 @@ UrbanStyle'i aastane kasv on **19%** (2023 → 2024). Kasvu toetab online-müüg
 <br>
 **Soovitus:** Suurendada turundustegevusi augustis-septembris ja alustada varakult aastalõpukampaaniatega.
 
-### E: UrbanStyle’i müügiandmete valideerimise kokkuvõte**
+### E: UrbanStyle’i müügiandmete valideerimise kokkuvõte
 
-Esialgne valideerimine kinnitab, et UrbanStyle’i müügiandmete kogukäive on 2,91 miljonit eurot ning 2024. aasta käive kasvas võrreldes 2023. aastaga 19,08%, ulatudes 1,47 miljoni euroni. Suurima käibega müügikoht on Tallinn 1,09 miljoni euroga, millele järgneb online-kanal ligikaudu 1,01 miljoni euroga. Füüsiliste poodide koondosakaal on 65,39% ja online-kanali osakaal 34,61%.
+Esialgne valideerimine kinnitab, et UrbanStyle’i müügiandmete kogukäive on **2,91 miljonit eurot** ning 2024. aasta käive kasvas võrreldes 2023. aastaga **19,08%**, ulatudes 1,47 miljoni euroni. Suurima käibega müügikoht on Tallinn 1,09 miljoni euroga, millele järgneb online-kanal ligikaudu 1,01 miljoni euroga. Füüsiliste poodide koondosakaal on 65,39% ja e-poe osakaal 34,61%.
 
-Andmekvaliteedi kontroll tõi esile 195 negatiivse müügisummaga rida, 988 puuduva kliendi-ID-ga müügirida ning 501 rida, kus müügisumma erineb koguse ja ühikuhinna korrutisest. Viimase näitaja puhul tuleb esmalt eristada negatiivsete summade märgierinevust tegelikust arvutuslikust lahknevusest. Laoandmetes esineb 10 negatiivse ja 7 nullkogusega kirjet ning 226 kirjet, mille kogus jääb alla tellimispunkti.
+Andmekvaliteedi kontroll tõi esile **195 negatiivse müügisummaga** rida, **988 puuduva kliendinumbriga** müügirida ning **501** rida, kus **müügisumma erineb koguse ja ühikuhinna korrutisest**. Viimase näitaja puhul tuleb esmalt eristada negatiivsete summade märgierinevust tegelikust arvutuslikust lahknevusest. Laoandmetes esineb **10 negatiivse** ja **7 nullkogusega** kirjet ning **226** kirjet, mille kogus jääb **alla tellimispunkti**.
 
 **Soovitatavad järgmised sammud:** selgitada negatiivsete müügiridade tähendus, arvutada müügisumma lahknevused pärast tehingutüübi arvestamist uuesti, kontrollida laoandmete ajakohasust ning prioriseerida varude täiendamine müügikiiruse ja tellimispunktide alusel. Turunduse hooajalisuse ja 2025.–2026. aasta müügitrendi järeldused tuleks enne otsuste tegemist valideerida võrreldavate perioodide andmetega.
 
