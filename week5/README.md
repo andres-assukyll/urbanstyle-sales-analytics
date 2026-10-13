@@ -8,7 +8,7 @@
 |---|---|:---:|
 | Evelyn Uusmaa | A: [CEO + Operations]() | 🪟 Win |
 | Nele Kund | B: [Marketing + Koondvaade](marketing-dashboard.md) | 🪟 Win |
-| Andres Assuküll | C: []()  | 🍎 Mac |
+| Andres Assuküll | C: [Valideerija & Kvaliteedikontroll + Ärisünteesi koondaja](vka.md)  | 🍎 Mac |
 
 ---
 
@@ -57,3 +57,5 @@ Andmekvaliteedi kontroll tõi esile **195 negatiivse müügisummaga** rida, **98
 **Soovitatavad järgmised sammud:** selgitada negatiivsete müügiridade tähendus, arvutada müügisumma lahknevused pärast tehingutüübi arvestamist uuesti, kontrollida laoandmete ajakohasust ning prioriseerida varude täiendamine müügikiiruse ja tellimispunktide alusel. Turunduse hooajalisuse ja 2025.–2026. aasta müügitrendi järeldused tuleks enne otsuste tegemist valideerida võrreldavate perioodide andmetega.
 
 Kokkuvõttes on 2024. aasta müügikasv kinnitatud, kuid andmekvaliteedi probleemid vajavad lahendamist enne, kui kõiki tulemusi saab kasutada lõplike juhtimisotsuste alusena.
+
+➡️ [Vaata täielikku analüüsi](vka.md)
