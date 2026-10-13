@@ -79,6 +79,7 @@ Seejärel kontrolli negatiivseid laoseise päringuga C. Praegu on aastase kasvu 
 | Alla tellimispunkti | 226 rida | Vajab prioriseerimist. |
 | Tooteta vastendamata laoread | 0 | Kontrollitud seos `inventory` ja `products` vahel on korras. |
 
+> *Need tulemused kinnitavad, et põhilised müüginäitajad on arvutatavad, kuid andmete kvaliteet ei ole veel piisav kõigi juhtimisotsuste tegemiseks ilma täiendavate kontrollideta*.
 
 ## Kokkuvõte Kristile ja Annale
 
