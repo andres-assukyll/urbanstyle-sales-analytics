@@ -63,6 +63,22 @@ Seejärel kontrolli negatiivseid laoseise päringuga C. Praegu on aastase kasvu 
 | B — müügisumma võrdlus | Väljavõte näitab negatiivseid summasid ning mitme rea puhul erineb ka summa absoluutväärtus koguse ja ühikuhinna korrutisest. | Kontrollida eraldi märgikonventsiooni ja arvutuslikke lahknevusi. |
 | C — probleemne laoseis | Väljavõttes esineb negatiivseid laokoguseid, nullseise ja koguseid, mis jäävad alla tellimispunkti. | Vajab laoandmete ning täiendamise protsessi kontrolli. |
 
+## Koondvalideerimine: mis on kinnitatud?
+
+| Näitaja | Tulemus | Järeldus |
+|---|---:|---|
+| Müügiridade arv | 10 118 | Kõikidel ridadel on unikaalne `id`. |
+| Kogukäive | 2 909 177,98 € | Ümardatult 2,91 mln €. |
+| Ostnud kliendid | 2 551 | Kooskõlas varasema koondtulemusega; tühjad kliendi-ID-d ei kuulu arvestusse. |
+| Käibe kasv 2024 vs 2023 | 19,08% | Kinnitatud. |
+| Puuduv `customer_id` | 988 rida | Kliendipõhine analüüs võib olla puudulik. |
+| Negatiivne `total_price` | 195 rida | Vajab ärilise tähenduse selgitamist. |
+| Müügisumma arvutuslik lahknevus | 501 rida | Vajab uuesti kontrollimist pärast negatiivsete summade käsitlemist. |
+| Negatiivne laoseis | 10 rida | Laoandmete või laoliikumiste kontroll vajalik. |
+| Null-laoseis | 7 rida | Võib tähendada läbimüüki või laopuudust. |
+| Alla tellimispunkti | 226 rida | Vajab prioriseerimist. |
+| Tooteta vastendamata laoread | 0 | Kontrollitud seos `inventory` ja `products` vahel on korras. |
+
 
 ## Kokkuvõte Kristile ja Annale
 
