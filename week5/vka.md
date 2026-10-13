@@ -1,3 +1,6 @@
+Valideerija & Kvaliteedikontroll + Ärisüntees
+
+
 ## 📋 Kvaliteedikontroll
 
 ### 📥 Roll A – algandmed ja töötlus
