@@ -38,7 +38,7 @@ Turundustegevustes tasub pöörata tähelepanu online-kanalile ning tugevdada ka
 
 ### C: Operations
 
-Andrese Operations-analüüs lisatakse pärast selle valmimist.
+Tallinn on suurima müügituluga müügikoht, moodustades ligikaudu 37% kogumüügist, ning sellele järgneb väga lähedalt online-kanal. Pärnu müügitulu on kõige väiksem, mistõttu tasub hinnata sealse poe müügitulemusi ja tegevusmahtu.
 
 ### D: Investori kokkuvõte
 
