@@ -17,6 +17,10 @@
 
 
 ### Lisakontrollid
+
+[SQL päring](src/w5.lisakontrollid.sql)
+
+Need päringud aitavad eristada tegelikke andmevigu tavapärastest äritehingutest.
 Lisakontrollid A ja B. Need mõjutavad kõige otsesemalt käibe usaldusväärsust. 
 Seejärel kontrolli negatiivseid laoseise päringuga C. Praegu on aastase kasvu näitaja kooskõlas varasema analüüsiga, kuid kogu andmestiku kvaliteeti ei saa veel lõplikult heaks kiita.
 
