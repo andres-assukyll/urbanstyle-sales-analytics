@@ -46,5 +46,4 @@ Kõige rohkem **erinevaid tooteid** ja **suurim müügikogus** oli **meeste riie
 
 **(A)** Hetkel puuduvad rohkemate aastate müügiandmed hooajaliste mustrite prognoosimiseks.  
 **(B) ja (C)** Pole.
-   
-> *Slaidiesitluseks koondame siia esmalt kokku need punktid, mis slaidile lähevad.*
+
