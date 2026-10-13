@@ -15,6 +15,37 @@
 
 [SQL päring](src/w5.andmete_kvaliteedikontroll.sql)
 
+### Päringute kontroll: OK / PARANDA
+
+| Päring | Hinnang | Põhjendus |
+|---|---|---|
+| 1. Müügiandmete üldkontroll | **PARANDA / kontrolli** | 10 118 müügirida ja 10 118 unikaalset rearea ID-d. Puuduva kliendi-ID-ga on 988 rida ning negatiivse müügisummaga 195 rida. |
+| 2. Aastakäive ja kasv | **OK** | 2023. aasta käive oli 1 234 758,90 € ja 2024. aastal 1 470 358,02 €. Käibe kasv **19,08%** vastab varasemale tulemusele. |
+| 3. Käive kanali ja asukoha järgi | **OK, kontrolli perioodi** | Tallinn 1 092 083,15 €, online 1 006 747,68 €, Tartu 521 603,11 € ja Pärnu 288 744,04 €. |
+| 4. Kanalite osakaal | **OK** | Füüsiliste poodide osakaal on 65,39% ja online-kanali osakaal 34,61%. |
+| 5. Laoseis kategooriate kaupa | **VAJA LISAKONTROLLI** | Meeste riietel on suurim laokogus ja aksessuaaridel väikseim. Kogused üksi ei näita, kas laovaru on müügiga võrreldes sobiv. |
+| 6. Laoandmete kvaliteet | **PARANDA** | 10 negatiivse laoseisuga rida, 7 nullkogusega rida ja 226 tellimispunktist madalama kogusega rida. Toodete vasted on olemas. |
+| 7. Müügisumma kontroll | **PARANDA / uuri** | 501 rida ei vasta kontrollile `quantity × unit_price`; erinevuste summa on −117 003,03 €. Põhjuseks võivad olla allahindlused, maksud, tagastused või andmevead. |
+
+## Olulisemad leiud
+
+| Valdkond | Tulemus | Hinnang | Järeldus |
+|---|---|---|---|
+| Müügikasv | 2023: 1 234 758,90 €; 2024: 1 470 358,02 €; kasv 19,08% | **OK** | 2024. aasta müügikasv on kinnitatud. |
+| Kogukäive | 2 909 177,98 € | **OK, kontrolli perioodi** | Kogukäive on ligikaudu 2,91 miljonit eurot. |
+| Negatiivsed müügiread | 195 rida | **VAJA LISAKONTROLLI** | Selgita, kas tegemist on tagastuste, kreeditarvete või andmevigadega. |
+| Puuduvad kliendi-ID-d | 988 rida | **VAJA LISAKONTROLLI** | Kontrolli, kas anonüümsed või tuvastamata kliendid on äriprotsessi järgi lubatud. |
+| Müügisummade erinevused | 501 rida; erinevuste summa −117 003,03 € | **VAJA LISAKONTROLLI** | Kontrolli allahindluste, maksude ja tagastuste arvestust enne summade korrigeerimist. |
+| Laoseis | 10 negatiivse laoseisuga rida | **PARANDA / uuri** | Kontrolli laoliikumisi ja võimalikke arvestusvigu. |
+| Tellimispunktist madalam laoseis | 226 rida | **VAJA TEGEVUST** | Hinda täiendamise vajadust asukoha, müügikiiruse ja tarnetingimuste järgi. |
+| Toodete seosed laoga | 0 vasteta tooterida | **OK** | Kõik kontrollitud laokirjed seostuvad olemasoleva tootega. |
+
+### Järeldus
+
+- **Kinnitatud:** 2024. aasta müügitulu kasvas 2023. aastaga võrreldes 19,08%.
+- **Vajab uurimist:** negatiivsed müügiread, puuduvad kliendi-ID-d ja müügisummade erinevused.
+- **Vajab tegevust:** negatiivsed laoseisud ja tellimispunktist madalamad laokogused.
+- **Enne lõplike otsuste tegemist:** kontrolli, kas kõik analüüsid kasutavad sama ajavahemikku ja sama käibe arvestamise loogikat.
 
 ### Lisakontrollid
 
@@ -24,7 +55,13 @@ Need päringud aitavad eristada tegelikke andmevigu tavapärastest äritehingute
 Lisakontrollid A ja B. Need mõjutavad kõige otsesemalt käibe usaldusväärsust. 
 Seejärel kontrolli negatiivseid laoseise päringuga C. Praegu on aastase kasvu näitaja kooskõlas varasema analüüsiga, kuid kogu andmestiku kvaliteeti ei saa veel lõplikult heaks kiita.
 
+### Lisakontrolli tulemused
 
+| Päring | Mida tulemus näitab | Hinnang |
+|---|---|---|
+| A — negatiivsed müügiread | Müügiandmetes on 195 negatiivse summaga rida. | Vajab põhjuste kontrolli: tagastused, kreeditarved või vigased kanded. |
+| B — müügisumma võrdlus | Väljavõte näitab negatiivseid summasid ning mitme rea puhul erineb ka summa absoluutväärtus koguse ja ühikuhinna korrutisest. | Kontrollida eraldi märgikonventsiooni ja arvutuslikke lahknevusi. |
+| C — probleemne laoseis | Väljavõttes esineb negatiivseid laokoguseid, nullseise ja koguseid, mis jäävad alla tellimispunkti. | Vajab laoandmete ning täiendamise protsessi kontrolli. |
 
 
 ## Kokkuvõte Kristile ja Annale
