@@ -17,7 +17,7 @@
 
 ![Esitlus](./img/week4_presentation.png)
 
-### Peamised leiud (3 punkti — üks igalt rollilt)
+### Peamised leiud
 
 **Kokkuvõte (A)**: Müügi koondandmed <br> 
 ![Müügi koond](./img/myygi-koond.svg) <br>
