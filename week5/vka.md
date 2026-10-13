@@ -1,4 +1,8 @@
-Valideerija & Kvaliteedikontroll + Ärisüntees
+# Nädal 5: Visualisation Design
+
+**Nimi:** Andres Assuküll  
+**Meeskond:** Sales Analytics    
+**Roll:** E: Valideerija & Kvaliteedikontroll + Ärisüntees
 
 
 ## 📋 Kvaliteedikontroll
