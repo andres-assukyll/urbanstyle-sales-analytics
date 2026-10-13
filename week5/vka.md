@@ -97,12 +97,12 @@ Laokategooriate koondpildi järgi on suurim laokogus meeste rõivastel ja väiks
 ## Ärilised järeldused ja soovitused
 
 - **Müügikasv:** 2024. aasta käive kasvas 2023. aastaga võrreldes 19,08%. See on andmetega kinnitatud positiivne tulemus.
-- **Kanalite juhtimine:** Tallinn ja online on suurimad käibeallikad. Nende tulemuslikkust tasub analüüsida eraldi, sh marginaali ja tagastuste järgi, mitte ainult käibe põhjal.
+- **Kanalite juhtimine:** Tallinn ja e-pood on suurimad käibeallikad. Nende tulemuslikkust tasub analüüsida eraldi, sh marginaali ja tagastuste järgi, mitte ainult käibe põhjal.
 - **Varude juhtimine:** tellimispunkti ületamise asemel tuleks prioriseerida tooteid, mille laoseis on negatiivne, nullis või alla tellimispunkti ning mille müügikiirus on kõrge.
 - **Augusti–septembri kampaaniad:** varasemates rollide tulemustes esitatud soovitus tugevdada turundust suve lõpus ja sügise alguses on esialgne hüpotees. Enne eelarve muutmist tuleb kuude kaupa võrrelda müüki, uute klientide lisandumist ja kampaaniate mõju.
 - **2025.–2026. aasta müügilangus:** seda ei tohiks käsitleda kinnitatud trendina enne, kui perioodid on võrreldavad. 2026. aasta andmed lõpevad 28. juunil ning seetõttu on aasta osaline.
 
 ## Kokkuvõte Kristile ja Annale
 
-UrbanStyle’i müügiandmete esialgne valideerimine kinnitab, et 2024. aasta müügitulu kasvas võrreldes 2023. aastaga 19,08%, ulatudes 1,47 miljoni euroni. Suurima käibega müügikanal on Tallinna pood 1,09 miljoni euroga, millele järgneb online-kanal ligikaudu 1,01 miljoni euroga; füüsiliste poodide koondosakaal on 65,39%. Andmekvaliteedi kontroll tõi esile 195 negatiivse müügisummaga rida, 501 rida, kus müügisumma erineb koguse ja ühikuhinna korrutisest, ning 10 negatiivse laoseisuga rida, mis vajavad täiendavat uurimist. Enne lõplike juhtimisotsuste tegemist tuleb selgitada nende erinevuste põhjused ning hinnata laoseisu tellimispunktide ja toodete müügikiiruse põhjal.
+UrbanStyle’i müügiandmete esialgne valideerimine kinnitab, et 2024. aasta müügitulu kasvas võrreldes 2023. aastaga 19,08%, ulatudes 1,47 miljoni euroni. Suurima käibega müügikanal on Tallinna pood 1,09 miljoni euroga, millele järgneb e-poodligikaudu 1,01 miljoni euroga; füüsiliste poodide koondosakaal on 65,39%. Andmekvaliteedi kontroll tõi esile 195 negatiivse müügisummaga rida, 501 rida, kus müügisumma erineb koguse ja ühikuhinna korrutisest, ning 10 negatiivse laoseisuga rida, mis vajavad täiendavat uurimist. Enne lõplike juhtimisotsuste tegemist tuleb selgitada nende erinevuste põhjused ning hinnata laoseisu tellimispunktide ja toodete müügikiiruse põhjal.
 
