@@ -6,8 +6,11 @@
 <br>
 
 ### 📋 LÜHIKOKKUVÕTE
-**Ülesanne**: andmete puhastamine ja analüüs. Moodustada `transform` fail, mis impordiks andmed `data_fetcher`-ist ning valmistaks need ette `visualize_export`jaoks.
+**Ülesanne**: andmete puhastamine ja analüüs. Koostada `transform.py` fail, mis impordiks andmed `data_fetcher.py`-ist ning valmistaks need ette `visualize_export.py`jaoks.
 
+<details>
+<summary>🔗 Vaata kogu Python koodi</summary>
+    
 ```python
 import logging
 
@@ -668,3 +671,5 @@ if __name__ == "__main__":
         "========== ROLL B LÕPP =========="
     )
 ```
+
+</details>
