@@ -10,9 +10,12 @@
 **Ülesanne**: Müügi- ja kliendiandmete laadimine, ühendamine ja puhastamine valmistamaks need ette edasiseks RFM analüüsiks. <br>
 > 🔗 *Täielik analüüs on [leitav siit](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-7/README.md)*.
 
+---
 
-### 📥 Andmete laadimine
-
+### 📥 Andmete laadimine <br>
+<details>
+<summary>Vaata Python-koodi</summary>
+  
 ```python
 import pandas as pd
 
@@ -44,8 +47,12 @@ print('\n === Andmetüübid ühendatud tabelis === \n')
 print(df.dtypes)
 ```
 
-### 🧹 Andmete puhastamine
+</details>
 
+### 🧹 Andmete puhastamine
+<details>
+<summary>Vaata Python-koodi</summary>
+  
 ```python
 # Algne DF
 
@@ -100,3 +107,5 @@ print('\n === Puhastamisraport === \n')
 print(f'Puhastatud tabel: {df.shape[0]} rida, {df['customer_id'].nunique()} klienti')
 print(f'Kuupäevavahemik: {df['sale_date'].min().date()} - {df['sale_date'].max().date()}')
 ```
+
+</detalis>
