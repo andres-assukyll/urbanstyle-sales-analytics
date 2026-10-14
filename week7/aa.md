@@ -7,7 +7,7 @@
 <br>
 
 ### 📋 LÜHIKOKKUVÕTE <br>
-**Ülesanne**: Müügi- ja kliendiandmete laadimine, ühendamine ja puhastamine valmistamaks need ette edasiseks RFM analüüsiks. <br>
+**Ülesanne**: Müügi- ja kliendiandmete laadimine, ühendamine ja puhastamine valmistamaks need ette edasiseks RFM-analüüsiks. <br>
 > 🔗 *Täielik analüüs on [leitav siit](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-7/README.md)*.
 
 ---
