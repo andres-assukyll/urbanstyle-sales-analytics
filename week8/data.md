@@ -695,7 +695,7 @@ def get_retry_settings():
 
 </details>
 
-🔄 Lisada `pipeline.py` faili töödeldava perioodi valik käsurea argumentidega ning kogu pipeline'i tulemusi koondav e-posti teavitus. <br>
+🔄 Lisada `pipeline.py` faili töödeldava perioodi valik käsurea argumentidega, et oleks võimalik ühe päringuga väljastada mitme erineva perioodi andmeid. Samuti lisada kogu pipeline'i tulemusi koondav e-posti teavitus. <br>
 <details>
 <summary>Vaata perioodi funktsiooni eraldi</summary>
 
