@@ -6,7 +6,12 @@
 **Andmeallikad:** Nädal 1 CSV failid (sales.csv + customers.csv)
 <br>
 
-### A: Andmete laadimine
+## 🎯 Eesmärk
+Müügi- ja kliendiandmete laadimine, ühendamine ja puhastamine valmistamaks need ette edasiseks RFM analüüsiks. <br>
+Täielik analüüs on leitav [SIIT](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-7/README.md)
+
+
+### 📥 Andmete laadimine
 
 ```python
 import pandas as pd
@@ -39,7 +44,7 @@ print('\n === Andmetüübid ühendatud tabelis === \n')
 print(df.dtypes)
 ```
 
-### B: Andmete puhastamine
+### 🧹 Andmete puhastamine
 
 ```python
 # Algne DF
