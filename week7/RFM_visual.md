@@ -2,7 +2,7 @@
 
 **Koostaja:** Evelyn Uusmaa  
 **Analüüsi seis:** 28.02.2025  
-**Märkmik:** [RFM-analüüs koos kommentaaridega](https://github.com/andres-assukyll/daca-portfolio/main/week-7/team/week7_rfm_complete.ipynb)
+**Märkmik:** [RFM-analüüs koos kommentaaridega](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-7/team/week7_rfm_complete.ipynb)
 
 ## Tulemused
 
