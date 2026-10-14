@@ -53,7 +53,7 @@ Lisaks võiks kaaluda ka: <br>
 
 ---
 
-#### 📧 *Pipeline* e-kirja teavitus SUCCESS
+#### 📧 *Pipeline* e-kirja teavituse näidis : SUCCESS
 
 ✅ UrbanStyle pipeline valmis!
 
