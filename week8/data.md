@@ -9,7 +9,7 @@
 **Ülesanne**: andmete puhastamine ja analüüs. Koostada `transform.py` fail, mis impordiks andmed `data_fetcher.py`-ist ning valmistaks need ette `visualize_export.py`jaoks.
 
 <details>
-<summary>🔗 Vaata kogu Python koodi</summary>
+<summary>Vaata kogu Python koodi</summary>
     
 ```python
 import logging
