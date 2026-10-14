@@ -13,10 +13,10 @@
 ## 🎯 Eesmärk
 
 Ehitada **modulaarne automatiseeritud pipeline**'i, mis:
-1. Pärib andmed UrbanStyle.ltd Supabase API-st
-2. Töötleb andmed pandas pipeline'iga (puhastamine + transformeerimine)
-3. Visualiseerib tulemused ja salvestab failidesse
-4. Automatiseerib kogu protsessi üheks funktsiooniks koos ajastamisloogikaga
+1. Pärib andmed UrbanStyle.ltd Supabase API-st : `data_fetcher.py`
+2. Töötleb andmed pandas pipeline'iga (puhastamine + transformeerimine) : `transform.py`
+3. Visualiseerib tulemused ja salvestab failidesse : `visualize_export.py`
+4. Automatiseerib kogu protsessi üheks funktsiooniks koos ajastamisloogika, perioodi valiku ja e-posti teavitusega : `pipeline.py`
 
 ## 💬 Küsimused Markolt
 
@@ -50,6 +50,8 @@ Lisaks võiks kaaluda ka: <br>
 | Mõni periood õnnestub, mõni ebaõnnestub | **WARNING** |
 | Kõik perioodid ebaõnnestuvad | **FAILURE** |
 | Kas saadetakse teavitus? | **Jah, üks e-mail kogu jooksu kohta** |
+
+---
 
 #### 📧 *Pipeline* e-kirja teavitus SUCCESS
 
