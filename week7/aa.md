@@ -8,7 +8,7 @@
 
 ## 🎯 Eesmärk
 Müügi- ja kliendiandmete laadimine, ühendamine ja puhastamine valmistamaks need ette edasiseks RFM analüüsiks. <br>
-Täielik analüüs on leitav [SIIT](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-7/README.md)
+> 🔗 *Täielik analüüs on [leitav siit](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-7/README.md)*.
 
 
 ### 📥 Andmete laadimine
