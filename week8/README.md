@@ -53,7 +53,18 @@ Lisaks võiks kaaluda ka: <br>
 
 ---
 
-#### 📧 *Pipeline* e-kirja teavituse näidis : SUCCESS
+#### ⚙️ Pipeline'i käivitamine
+
+**Näide: kolme perioodi töötlemine ühe käsuga**
+
+```bash
+python3 pipeline.py \
+    --period 2023-01-01:2023-01-31 \
+    --period 2023-03-01:2023-03-31 \
+    --period 2023-05-01:2023-05-31
+```
+
+#### 📧 E-kirja teavitus SUCCESS
 
 ✅ UrbanStyle pipeline valmis!
 
