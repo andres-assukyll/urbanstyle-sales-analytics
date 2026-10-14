@@ -53,7 +53,7 @@ Lisaks võiks kaaluda ka: <br>
 
 ---
 
-#### ⚙️ Pipeline'i käivitamine
+#### ⚙️ Pipeline'i käivitamine Terminalis
 
 **Näide: kolme perioodi töötlemine ühe käsuga**
 
