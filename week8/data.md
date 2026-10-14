@@ -673,3 +673,251 @@ if __name__ == "__main__":
 ```
 
 </details>
+
+#### ✨ **Lisaülesanne**:
+🔄 Lisada `data_fetcher.py` faili korduskatsete (*retry*) seadistuste lugemise funktsioon ning luua nende haldamiseks `config.yaml` fail. <br>
+<details>
+<summary>Vaata retry funktsiooni eraldi</summary>
+
+```python
+# retry seadistus
+def get_retry_settings():
+    """Loeb Supabase retry-seadistused config.yaml failist."""
+    config = load_config()
+
+    supabase_config = config["supabase"]
+
+    max_retries = supabase_config["max_retries"]
+    retry_delay_seconds = supabase_config["retry_delay_seconds"]
+
+    return max_retries, retry_delay_seconds
+```
+
+</details>
+
+🔄 Lisada `pipeline.py` faili töödeldava perioodi valik käsurea argumentidega ning kogu pipeline'i tulemusi koondav e-posti teavitus. <br>
+<details>
+<summary>Vaata perioodi funktsiooni eraldi</summary>
+
+```python
+# perioodi valiku seadistus
+
+def parse_arguments():
+    """
+    Loeb käsurea argumendid.
+
+    Näiteks:
+
+        python3 pipeline.py
+
+    või:
+
+        python3 pipeline.py \
+            --period 2023-01-01:2023-01-31 \
+            --period 2023-03-01:2023-03-31
+    """
+
+    parser = argparse.ArgumentParser(
+        description="UrbanStyle ETL pipeline"
+    )
+
+    parser.add_argument(
+        "--period",
+        action="append",
+        help=(
+            "Töödeldav periood kujul "
+            "YYYY-MM-DD:YYYY-MM-DD. "
+            "Argumenti võib kasutada mitu korda."
+        ),
+    )
+
+    return parser.parse_args()
+
+
+def get_periods(args):
+    """
+    Tagastab töödeldavad perioodid.
+
+    Kui --period puudub, töödeldakse kogu saadaolevat perioodi.
+    """
+
+    if not args.period:
+        return [(None, None)]
+
+    periods = []
+
+    for period_text in args.period:
+        periods.append(
+            parse_period(period_text)
+        )
+
+    return periods
+```
+
+</details>
+
+<details>
+<summary>Vaata e-post teavituse funktsiooni eraldi</summary>
+
+```python
+# e-posti teavituse seadistamine
+
+def build_notification_message(results):
+    """
+    Koostab ühe e-kirja sisu kogu pipeline'i käivituse kohta.
+    """
+
+    lines = [
+        "UrbanStyle pipeline tulemused",
+        ""
+    ]
+
+    for result in results:
+        lines.append("━━━━━━━━━━━━━━━━━━━━")
+
+        start_date = result["start_date"]
+        end_date = result["end_date"]
+
+        if start_date is None and end_date is None:
+            lines.append("📅 Kogu saadaolev periood")
+        else:
+            lines.append(
+                f"📅 {start_date} – {end_date}"
+            )
+
+        if result["success"]:
+            kpis = result["kpis"]
+
+            lines.extend([
+                "",
+                f"💰 Kogutulu: "
+                f"€{kpis['total_revenue']:,.2f}",
+                f"👥 Unikaalsed kliendid: "
+                f"{kpis['unique_customers']:,}",
+                f"🛒 Keskmine tellimuse väärtus: "
+                f"€{kpis['avg_order_value']:,.2f}",
+                "",
+                f"📁 Tulemused: "
+                f"{result['output_display']}",
+            ])
+
+        else:
+            lines.extend([
+                "",
+                f"❌ Viga: {result['error']}",
+            ])
+
+    lines.append("━━━━━━━━━━━━━━━━━━━━")
+
+    return "\n".join(lines)
+
+
+def main():
+    args = parse_arguments()
+
+    try:
+        periods = get_periods(args)
+
+    except ValueError as error:
+        print(f"VIGA: {error}")
+
+        send_status_notification(
+            status="FAILURE",
+            stage="Pipeline",
+            message_text=str(error),
+        )
+
+        return 1
+
+    results = []
+
+    for start_date, end_date in periods:
+        try:
+            result = run_period(
+                start_date=start_date,
+                end_date=end_date
+            )
+
+            results.append(result)
+
+        except Exception as error:
+            period_label = (
+                "kogu periood"
+                if start_date is None and end_date is None
+                else f"{start_date} – {end_date}"
+            )
+
+            print()
+            print(f"VIGA perioodil {period_label}: {error}")
+
+            results.append({
+                "success": False,
+                "start_date": start_date,
+                "end_date": end_date,
+                "error": (
+                    f"{type(error).__name__}: {error}"
+                ),
+            })
+
+    successful = [
+        result
+        for result in results
+        if result["success"]
+    ]
+
+    failed = [
+        result
+        for result in results
+        if not result["success"]
+    ]
+
+    # -------------------------
+    # PIPELINE STATUS
+    # -------------------------
+
+    if failed and successful:
+        status = "WARNING"
+
+    elif failed:
+        status = "FAILURE"
+
+    else:
+        status = "SUCCESS"
+
+    notification_message = build_notification_message(
+        results
+    )
+
+    # Täpselt üks e-kiri kogu pipeline'i käivituse kohta.
+    try:
+        send_status_notification(
+            status=status,
+            stage="Pipeline",
+            message_text=notification_message,
+        )
+
+        print("\nE-posti teavitus saadetud.")
+
+    except Exception as error:
+        print(
+            f"\nHOIATUS: e-posti teavituse saatmine "
+            f"ebaõnnestus: {error}"
+        )
+
+        # E-posti vea tõttu ei muudeta juba edukalt
+        # lõppenud ETL pipeline'i staatust.
+        if status == "SUCCESS":
+            status = "WARNING"
+
+    print()
+    print("=" * 60)
+    print(f"Pipeline lõppes staatusega: {status}")
+    print("=" * 60)
+
+    if status == "FAILURE":
+        return 1
+
+    return 0
+```
+
+<details>
