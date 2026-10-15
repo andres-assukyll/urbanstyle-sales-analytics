@@ -6,7 +6,7 @@
 
 | Nimi | Ülesanne (Nädal 9) | OS |
 |---|---|:---:|
-| Nele Kund | A+D: [Palkamis- ja tiimijuht](hr_team_lead.md) | 🪟 Win |
+| Nele Kund | A+D: [Palkamis- ja tiimijuht](hiring_manager+team_lead.md) | 🪟 Win |
 | Evelyn Uusmaa | B: [Tehniline intervjueerija](tech_int.md) | 🪟 Win |
 | Andres Assuküll | C: [Personalijuht](pm.md) | 🍎 Mac  |
 
