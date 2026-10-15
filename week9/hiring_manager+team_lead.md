@@ -5,6 +5,8 @@
 **Roll:** A + D – Palkamisjuhi + Tiimijuhi värbamisjuhendi vaade
 <br>
 
+<br>
+
 ## Palkamisjuhi vaade: mida otsida juunioranalüütiku CV-s ja LinkedIn-is?
 
 ### 1. Mida esimesena vaadata? (esimesed sekundid)
