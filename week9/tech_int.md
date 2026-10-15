@@ -56,9 +56,6 @@ Koostasin tehnilise intervjueerija vaatepunktist hindamiskriteeriumid ning kolm 
 - Kuidas README ja Git-ajalugu aitavad teisel inimesel projekti mõista.
 - Miks peab kandidaat suutma oma koodi ja analüüsiotsuseid selgitada.
 
-## AI kasutamine
-
-Kasutasin ChatGPT-d hindamiskriteeriumide ning roheliste ja punaste lippude sõnastamiseks ja teksti koondamiseks. Näited sidusin kursusel käsitletud ülesannetega.
 
 ## Artefakt
 
