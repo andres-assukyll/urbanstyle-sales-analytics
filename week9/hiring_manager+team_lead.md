@@ -2,7 +2,7 @@
 
 **Nimi:** Nele Kund   
 **Meeskond:** Sales Analytics      
-**Roll:** A + D – HR/Hiring Manager + Team Leader view for recruitment guide
+**Roll:** A + D – Palkamisjuhi + Tiimijuhi värbamisjuhendi vaade
 <br>
 
 ## Palkamisjuhi vaade: mida otsitakse juunioranalüütiku CV-s ja LinkedIn-is?
