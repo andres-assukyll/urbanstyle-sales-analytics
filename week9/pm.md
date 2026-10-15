@@ -2,7 +2,7 @@
 
 **Nimi:** Andres Assuküll  
 **Meeskond:** Sales Analytics <br>
-**Roll C:** Personalijuht
+**Roll:** C – Personalijuht
 
 📋 LÜHIKOKKUVÕTE
 
