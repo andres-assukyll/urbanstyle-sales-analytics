@@ -1,6 +1,6 @@
 # Nädal 9 – Värbamisjuhend
 
-**Roll C:** tehniline intervjueerija  
+**Roll C:** Personalijuht
 **Autor:** Andres Assuküll  
 **Meeskond:** Sales Analytics
 
