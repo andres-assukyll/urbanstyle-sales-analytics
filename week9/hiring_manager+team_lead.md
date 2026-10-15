@@ -2,12 +2,12 @@
 
 **Nimi:** Nele Kund   
 **Meeskond:** Sales Analytics      
-**Roll:** A + D – Palkamisjuhi + Tiimijuhi värbamisjuhendi vaade
+**Roll:** **A + D** – Palkamisjuhi + Tiimijuhi värbamisjuhendi vaade
 <br>
 
 <br>
 
-## Palkamisjuhi vaade: mida otsida juunioranalüütiku CV-s ja LinkedIn-is?
+## 💼 Palkamisjuhi vaade: mida otsida juunioranalüütiku CV-s ja LinkedIn-is?
 
 ### 1. Mida esimesena vaadata? (esimesed sekundid)
 
@@ -72,4 +72,4 @@ Andmelugu projektis:
 
 <br>
 
-## Tiimijuhi vaade: mida otsida analüütiku koostöö, kommunikatsiooni ja iseseisvuse osas?
+## 🤝 Tiimijuhi vaade: mida otsida analüütiku koostöö, kommunikatsiooni ja iseseisvuse osas?
