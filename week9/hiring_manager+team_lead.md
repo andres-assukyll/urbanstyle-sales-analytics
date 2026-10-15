@@ -31,3 +31,29 @@ Andmelugu projektis:
 <br>
 
     probleem → miks see on oluline → meetod → lahenduskäik → visualiseerimine → järeldused ja soovitused → piirangud.
+
+<br>
+
+### 3. Rohelised ja punased lipud
+
+#### Rohelised lipud (tugev kandidaat)
+
+1. Analüüsitulemused on seletatud lihtsas keeles, ilma liigsete tehniliste terminiteta
+2. Analüüsid lõpevad konkreetse, andmetele toetuva tegevusettepanekuga (mida ettevõte peaks tegema)
+3. Dashboardidel on loogiline ja läbimõeldud lugu
+
+#### Punased lipud (hoiatusmärk)
+
+1. Oskuste nimekirjas on tööriistu, mille kasutamist projektid ei näita
+2. Meeskonnatööna tehtud portfoolioprojektidest ei selgu, mis oli kandidaadi roll ja panus töösse
+
+### 4. LinkedIn: millised projektid on "pin-worthy"?
+
+| Projekt | Näide |
+|---|---|
+| **Lahendab reaalsetes ettevõtetes esinevaid probleeme** | |
+| **Näitab tegelikke väljakutseid, millega analüütikud kokku puutuvad** | Suured andmemahud, andmete puhastamine, põhjendatud tööriistavalik |
+| **Võimaldab "tulevikku vaadata"** | Prognoosimine, trendide väljatoomine, võimalike riskide avastamine |
+| **Avastab pudelikaelasid, mida igapäevaselt ei pruugita märgata** | Varjatud potentsiaal: kliendid, kes pole kunagi ostnud, aga on registreerunud |
+
+> **Märkus:** juunioranalüütiku projektid ei pea katma kõiki neid punkte, kuna muidu võivad tekkida ebarealistlikud ootused.
