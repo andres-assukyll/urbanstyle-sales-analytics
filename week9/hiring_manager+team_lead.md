@@ -76,37 +76,36 @@ Andmelugu projektis:
 
 ### 1. Iseseisvus: mis näitab, et kandidaat lahendab ise?
 
-| Kriteerium | Mida see tähendab? |
+| Kriteerium | Tähendus |
 |---|---|
-| Otsuste põhjendamine | Põhjendab oma otsuseid ja toob varasematest olukordadest konkreetseid näiteid (nt STAR-meetodil) |
-| AI väljundi kontroll | Kontrollib AI väljundit ja oskab selgitada, miks tulemus on loogiline |
-| Õiged küsimused | Esitab õiged küsimused enne andmetesse süvenemist |
+| **Otsuste põhjendamine** | Põhjendab oma otsuseid ja toob varasematest olukordadest konkreetseid näiteid (nt STAR-meetodil) |
+| **AI väljundi kontroll** | Kontrollib AI väljundit ja oskab selgitada, miks tulemus on loogiline |
+| **Õiged küsimused** | Esitab õiged küsimused enne andmetesse süvenemist |
 
 ### 2. Kommunikatsioon: mis näitab selget selgitust?
 
-| Kriteerium | Mida see tähendab? |
+| Kriteerium | Tähendus |
 |---|---|
-| Lihtne ja lühike | Selgitus on lihtsas keeles ja lühike, katab kõik olulise ning eristab mitteolulise |
-| Kohandamine kuulajale | Analüütik oskab selgitada tulemusi nii tehnilisele kui mittetehnilisele osapoolele, st kohandada sõnavara sujuvalt |
-| Küsimuste võimaldamine | Selgitus võimaldab publikul küsimusi esitada |
+| **Lihtne ja lühike** | Selgitus on lihtsas keeles, katab kõik olulise ning eristab mitteolulise |
+| **Kohandamine kuulajale** | Analüütik oskab selgitada tulemusi nii tehnilisele kui mittetehnilisele osapoolele, st kohandada sõnavara sujuvalt |
+| **Küsimuste võimaldamine** | Selgitus võimaldab publikul küsimusi esitada |
 
 ### 3. Koostöö: mis näitab panust meeskonnatöösse?
 
-| Kriteerium | Mida see tähendab? |
+| Kriteerium | Tähendus |
 |---|---|
-| Aktiivne osalemine | Kaasarääkimine, arutlemine aktiivselt probleemilahendusel, oskus ka meeskonnakaaslasi kuulata |
-| Arvestamine ja oma seisukoht | Meeskonna ideedega arvestamine, aga ka julgus oma seisukohta öelda ja põhjendada, kui ei nõustu |
-| Rollide kokkulepped | Rollides kokkulepete saavutamine |
-| Toetus | Toetus, aitamine ootamatutes olukordades |
+| **Aktiivne osalemine** | Kaasarääkimine, arutlemine aktiivselt probleemilahendusel, oskus ka meeskonnakaaslasi kuulata |
+| **Oma seisukoht** | Meeskonna ideedega arvestamine, aga ka julgus oma seisukohta öelda ja põhjendada mittenõustumist |
+| **Toetus** | Tiimi aitamine ootamatutes olukordades |
 
 ### 4. Arengupotentsiaal: mille järgi hinnata kasvuruumi?
 
-| Kriteerium | Mida see tähendab? |
+| Kriteerium | Tähendus |
 |---|---|
-| "Ja mis siis?" | Küsimuste esitamine ja "ja mis siis?" põhimõtte tundmine ning rakendamine: miks on mingi avastus ettevõttele oluline ning mida selle teadmisega edasi teha |
-| Erinevad vaatenurgad | Läheneb andmetele erinevatest vaatenurkadest, vaatab eri tasandeid, otsib mustreid |
-| Kohanemine AI-ga | AI kasutamine töö automatiseerimiseks, säilitades samas kriitilise mõtlemise |
-| Avatus tagasisidele | Kolleegide hinnangud, valmidus täiendada lähenemist tööülesannete lahendamisel |
+| **"Ja mis siis?"** | Küsimuste esitamine ja "ja mis siis?" põhimõtte tundmine ning rakendamine: miks on mingi avastus ettevõttele oluline ning mida selle teadmisega edasi teha |
+| **Erinevad vaatenurgad** | Läheneb andmetele erinevatest vaatenurkadest, vaatab eri tasandeid, otsib mustreid |
+| **Kohanemine AI-ga** | AI kasutamine töö automatiseerimiseks, säilitades samas kriitilise mõtlemise |
+| **Avatus tagasisidele** | Kolleegide hinnangud, valmidus täiendada lähenemist tööülesannete lahendamisel |
 
 ### 5. Rohelised ja punased lipud
 
@@ -116,7 +115,7 @@ Andmelugu projektis:
 🟢 Kontrollib AI-ga tehtud tööd (nt arvutused, andmete puhastamine) enne selle teistele jagamist  
 🟢 Julgeb olla põhjendatult eriarvamusel: ütleb välja, kui kahtleb pakutud lahenduses, kuid kuulab ka teiste argumente ja on valmis oma seisukohta muutma  
 
-### Punased lipud
+#### Punased lipud
 
 🔴 Puudulik dokumenteerimine: kandidaat ei pea oluliseks oma töö dokumenteerimist, näiteks ei lisa koodile vajalikke kommentaare ega selgitusi tehtud valikute kohta. Selle tulemusena on meeskonnakaaslastel keeruline tema tööd mõista, üle võtta või edasi arendada  
 🔴 Ekslik enesekindlus: kandidaat esitab oletusi või ebakindlaid analüüsitulemusi faktidena, jättes selgitamata andmete piirangud ja võimalikud veakohad
