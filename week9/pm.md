@@ -4,7 +4,7 @@
 **Autor:** Andres Assuküll  
 **Meeskond:** Sales Analytics
 
-## Eesmärk
+## 🎯  Eesmärk
 
 Koostada UrbanStyle’i värbamisjuhendi osa, et hinnata juunior andmeanalüütiku rolli jaoks olulisi suhtlemis-, probleemilahendus- ja koostööoskusi ning õppimisvalmidust.
 
