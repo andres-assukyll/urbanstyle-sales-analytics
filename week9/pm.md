@@ -8,7 +8,7 @@
 
 **Ülesanne**: koostada UrbanStyle’i värbamisjuhendi osa, et hinnata juunior andmeanalüütiku rolli jaoks olulisi suhtlemis-, probleemilahendus- ja koostööoskusi ning õppimisvalmidust.
 
-🔗 **[Täielik värbamisjuhend](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-9/README.md)**
+🔗 **[Ava täielik värbamisjuhend](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-9/README.md)**
 
 ### 🛠️ Interaktiivsed värbamistööriistad
 
