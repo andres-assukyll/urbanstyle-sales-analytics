@@ -26,8 +26,9 @@
 | **Numbrid ja mõju** | Varasema kogemuse kirjelduses on konkreetsed numbrid + tegevuse mõju |
 | **Tõendatud tehnilised oskused** | Iga mainitud tööriista juures on kogemus või projekt, kus seda kasutati |
 | **Äriline tähendus** | Projektide äriline tähendus on CV-s välja toodud |
-| **Struktureeritud mõtlemine** | Kandidaat suudab probleemi jagada osadeks ja lahendada samm-sammult. Nt projektikirjelduses on välja toodud alaküsimused probleemi osadeks jagamiseks |
 | **Projektide lingid (portfoolio)** | Näitavad kandidaadi stiili analüütikuna ning oskust jutustada andmelugu algusest lõpuni |
+| **Keeleoskus** | Inglise keel on kohustuslik, saksa keel on Saksamaa *remote* positsioonil boonus |
+
 
 Andmelugu projektis:
 <br>
