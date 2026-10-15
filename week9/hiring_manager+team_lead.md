@@ -11,6 +11,6 @@
 
 | Nr | CV / LinkedIn-i osad | Küsimused |
 |:-:|---|---|
-| 1 | Tutvustus | Kas on selge suund ja valdkond? |
-| 2 | Numbrid kogemuse kirjelduses | Kas on mõju, mitte ainult tegevus? |
-| 3 | Projektide lingid | Kas on tõend, et oskused on päriselt olemas? |
+| **1** | **Tutvustus** | Kas on selge suund ja valdkond? |
+| **2** | **Numbrid kogemuse kirjelduses** | Kas on mõju, mitte ainult tegevus? |
+| **3** | **Projektide lingid** | Kas on tõend, et oskused on päriselt olemas? |
