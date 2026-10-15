@@ -5,7 +5,7 @@
 **Roll:** A + D – Palkamisjuhi + Tiimijuhi värbamisjuhendi vaade
 <br>
 
-## Palkamisjuhi vaade: mida otsitakse juunioranalüütiku CV-s ja LinkedIn-is?
+## Palkamisjuhi vaade: mida otsida juunioranalüütiku CV-s ja LinkedIn-is?
 
 ### 1. Mida esimesena vaadata? (esimesed sekundid)
 
@@ -57,3 +57,10 @@ Andmelugu projektis:
 | **Avastab pudelikaelasid, mida igapäevaselt ei pruugita märgata** | Varjatud potentsiaal: kliendid, kes pole kunagi ostnud, aga on registreerunud |
 
 > **Märkus:** juunioranalüütiku projektid ei pea katma kõiki neid punkte, kuna muidu võivad tekkida ebarealistlikud ootused.
+
+
+<br>
+
+<br>
+
+## Tiimijuhi vaade: mida otsida analüütiku koostöö, kommunikatsiooni ja iseseisvuse osas?
