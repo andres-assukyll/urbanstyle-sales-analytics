@@ -4,7 +4,7 @@
 **Meeskond:** Sales Analytics <br>
 **Roll:** C – Personalijuht
 
-📋 LÜHIKOKKUVÕTE
+### 📋 LÜHIKOKKUVÕTE
 
 **Ülesanne**: koostada UrbanStyle’i värbamisjuhendi osa, et hinnata juunior andmeanalüütiku rolli jaoks olulisi suhtlemis-, probleemilahendus- ja koostööoskusi ning õppimisvalmidust.
 
