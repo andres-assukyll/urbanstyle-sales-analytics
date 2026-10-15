@@ -34,18 +34,18 @@ Andmelugu projektis:
 
 <br>
 
-### 3. Rohelised ja punased lipud
+### 3. Rohelised ja punased lipud (CV + projektid)
 
-#### Rohelised lipud (tugev kandidaat)
+#### Rohelised lipud
 
-1. Analüüsitulemused on seletatud lihtsas keeles, ilma liigsete tehniliste terminiteta
-2. Analüüsid lõpevad konkreetse, andmetele toetuva tegevusettepanekuga (mida ettevõte peaks tegema)
-3. Dashboardidel on loogiline ja läbimõeldud lugu
+🟢 Analüüsitulemused on seletatud lihtsas keeles, ilma liigsete tehniliste terminiteta  
+🟢 Analüüsid lõpevad konkreetse, andmetele toetuva tegevusettepanekuga (mida ettevõte peaks tegema)  
+🟢 Dashboardidel on loogiline ja läbimõeldud lugu  
 
-#### Punased lipud (hoiatusmärk)
+#### Punased lipud
 
-1. Oskuste nimekirjas on tööriistu, mille kasutamist projektid ei näita
-2. Meeskonnatööna tehtud portfoolioprojektidest ei selgu, mis oli kandidaadi roll ja panus töösse
+🔴 Oskuste nimekirjas on tööriistu, mille kasutamist projektid ei näita  
+🔴 Meeskonnatööna tehtud portfoolioprojektidest ei selgu, mis oli kandidaadi roll ja panus töösse  
 
 ### 4. LinkedIn: millised projektid on "pin-worthy"?
 
