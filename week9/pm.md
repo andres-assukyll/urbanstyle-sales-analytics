@@ -1,8 +1,8 @@
 # Nädal 9 – Värbamisjuhend
 
+**Nimi:** Andres Assuküll  
+**Meeskond:** Sales Analytics <br>
 **Roll C:** Personalijuht
-**Autor:** Andres Assuküll  
-**Meeskond:** Sales Analytics
 
 📋 LÜHIKOKKUVÕTE
 
