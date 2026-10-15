@@ -1,4 +1,4 @@
-# Nädal 9 – Värbamisjuhend
+# Nädal 9 : Värbamisjuhend
 
 **Nimi:** Andres Assuküll  
 **Meeskond:** Sales Analytics <br>
