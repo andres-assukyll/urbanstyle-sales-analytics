@@ -56,8 +56,3 @@ Koostasin tehnilise intervjueerija vaatepunktist hindamiskriteeriumid ning kolm 
 - Kuidas README ja Git-ajalugu aitavad teisel inimesel projekti mõista.
 - Miks peab kandidaat suutma oma koodi ja analüüsiotsuseid selgitada.
 
-
-## Artefakt
-
-- Individuaalne värbamisjuhendi osa: käesolev README.
-- Meeskonna ühisdokumendi viide lisatakse pärast peatüki koondamist.
