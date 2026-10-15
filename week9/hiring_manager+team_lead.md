@@ -49,15 +49,22 @@ Andmelugu projektis:
 
 ### 4. LinkedIn: millised projektid on "pin-worthy"?
 
-| Projekt | Näide |
-|---|---|
-| **Lahendab reaalsetes ettevõtetes esinevaid probleeme** | |
-| **Näitab tegelikke väljakutseid, millega analüütikud kokku puutuvad** | Suured andmemahud, andmete puhastamine, põhjendatud tööriistavalik |
-| **Võimaldab "tulevikku vaadata"** | Prognoosimine, trendide väljatoomine, võimalike riskide avastamine |
-| **Avastab pudelikaelasid, mida igapäevaselt ei pruugita märgata** | Varjatud potentsiaal: kliendid, kes pole kunagi ostnud, aga on registreerunud |
+**Projektid, mis:**
+
+📌 **Lahendavad reaalsetes ettevõtetes esinevaid probleeme**  
+
+📌 **Näitavad tegelikke väljakutseid, millega analüütikud kokku puutuvad**  
+> Suured andmemahud, andmete puhastamine, põhjendatud tööriistavalik
+
+📌 **Võimaldab "tulevikku vaadata"**
+> Prognoosimine, trendide väljatoomine, võimalike riskide avastamine
+
+📌 **Avastab pudelikaelasid, mida igapäevaselt ei pruugita märgata**
+> Varjatud potentsiaal: nt kliendid, kes pole kunagi ostnud, aga on registreerunud
+
+<br>
 
 > **Märkus:** juunioranalüütiku projektid ei pea katma kõiki neid punkte, kuna muidu võivad tekkida ebarealistlikud ootused.
-
 
 <br>
 
