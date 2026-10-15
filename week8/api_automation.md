@@ -15,8 +15,9 @@ kuupäevad edastatakse fetcherile ning filter rakendatakse API-päringus.
 
 ## Minu failid
 
-- [data_fetcher_e.py](src/data_fetcher_e.py)
-- [pipeline2.py](src/pipeline2.py)
+- [data_fetcher_e.py – minu API päringute kood](https://github.com/Nordmehr/daca-portfolio/blob/main/week-8/data_fetcher_e.py)
+- [pipeline2.py – minu pipeline’i kood](https://github.com/Nordmehr/daca-portfolio/blob/main/week-8/pipeline2.py)
+- [Pikem selgitus ja käivitamisjuhend minu portfoolios](https://github.com/Nordmehr/daca-portfolio/tree/main/week-8)
 
 ## Käivitamine
 
