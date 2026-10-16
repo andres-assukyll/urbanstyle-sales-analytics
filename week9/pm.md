@@ -6,9 +6,10 @@
 
 ### 📋 LÜHIKOKKUVÕTE
 
-**Ülesanne**: koostada UrbanStyle’i personalijuhi värbamisjuhend juunior andmeanalüütiku värbamiseks. Eesmärk on hinnata olulisi suhtlemis-, probleemilahendus- ja koostööoskusi ning õppimisvalmidust vastava ametipositsiooni jaoks.
+**Ülesanne**: koostada UrbanStyle’i personalijuhi värbamisjuhend juunior andmeanalüütiku värbamiseks. 
 
-Juhend lähtub UrbanStyle'i ettevõtte kontekstist: kiiresti kasvav ja rahvusvaheline ettevõte, kus analüütik peab töötama erinevate müügikanalite andmetega, suhtlema eri osakondadega ning tegema koostööd ka rahvusvahelises kaugtöö keskkonnas.
+> Juhend lähtub UrbanStyle'i ettevõtte kontekstist: kiiresti kasvav ja rahvusvaheline ettevõte, kus analüütik peab töötama erinevate müügikanalite andmetega, suhtlema eri osakondadega ning tegema koostööd ka rahvusvahelises kaugtöö keskkonnas.
+> #### 🔗 **[VAATA TÄIELIKKU VÄRBAMISJUHENDIT](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-9/README.md)**
 
 ---
 
@@ -59,10 +60,6 @@ Nelja põhikompetentsi hindamine skaalal 1–5 koos tõendite dokumenteerimise j
 **Töövoog:** kogu intervjuust tõendid → hinda kompetentse → dokumenteeri soovitus → tee põhjendatud värbamisotsus.
 
 🔗 **[Ava interaktiivsed värbamistööriistad](https://andres-assukyll.github.io/daca-portfolio/week-9/index.html)**
-
----
-
-🔗 **[VAATA TÄIELIKKU VÄRBAMISJUHENDIT](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-9/README.md)**
 
 ---
 
