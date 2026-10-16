@@ -51,7 +51,7 @@ Kandidaadi varasema käitumise hindamine nelja elemendi kaudu:
 - **A – Action:** tegevus.
 - **R – Result:** tulemus ja õpitu.
 
-🔗 **[Ava STAR-intervjuu](https://andres-assukyll.github.io/daca-portfolio/week-9star.html)**
+🔗 **[Ava STAR-intervjuu](https://andres-assukyll.github.io/daca-portfolio/week-9/star.html)**
 
 **2. Hiring Scorecard
 
