@@ -59,6 +59,19 @@ Meie õppeprojektid annavad järgmised praktilised näited, mille abil kandidaad
 
 Tugevat analüütikut näitab nende tegevuste juures oskus selgitada nii lahenduskäiku kui ka seda, miks tulemus on ettevõttele oluline.
 
+#### kompaktsem verisoon
+
+| Näide | Mida hinnata? |
+|---|---|
+| **Registreerunud, kuid ostudeta klientide leidmine SQL-iga** | Ühendamisloogika ja äriline tõlgendus. |
+| **Müügiandmete puhastamine ja RFM-analüüs** | Andmekvaliteedi kontroll ja põhjendatud valikud. |
+| **CEO, kaupluse ja e-poe dashboard’id** | Mõõdikute valik ja tulemuste selgitamine. |
+| **Supabase API päringud ja pipeline** | Töövoo korratavus, dokumentatsioon ja veakäsitlus. |
+| **Eri analüüsiperioodide võrdlemine** | Võrreldavate perioodide ja arvutusreeglite kontroll. |
+| **Ühise GitHubi projekti dokumenteerimine** | Isikliku panuse selgus ja töö taaskasutatavus. |
+
+Tugevat analüütikut iseloomustab oskus põhjendada oma lahendusi, kontrollida tulemusi ja selgitada nende ärilist väärtust.
+
 ## 4. Kolm võtmesoovitust Liisile
 
 1. **Kasuta ühtset hindamislehte.**  
