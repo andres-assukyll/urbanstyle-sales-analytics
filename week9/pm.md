@@ -53,7 +53,7 @@ Kandidaadi varasema käitumise hindamine nelja elemendi kaudu:
 
 🔗 **[Ava STAR-intervjuu](https://andres-assukyll.github.io/daca-portfolio/week-9star.html)**
 
-**2. *Hiring Scorecard***
+**2. Hiring Scorecard
 
 Nelja põhikompetentsi hindamine skaalal 1–5 koos tõendite dokumenteerimise ja põhjendatud värbamissoovitusega. Tulemusi saab salvestada brauseris, eksportida JSON-failina ja printida PDF-iks.
 
