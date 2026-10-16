@@ -1,1 +1,423 @@
 
+<!DOCTYPE html>
+<html lang="et">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UrbanStyle – Värbamisjuhend</title>
+
+  <style>
+    :root {
+      --teal: #009B8D;
+      --navy: #1A1A2E;
+      --white: #FFFFFF;
+      --light-gray: #F5F5F5;
+      --green: #27864B;
+      --orange: #D97706;
+      --gray: #747985;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #E8ECEF;
+      font-family: Calibri, Arial, sans-serif;
+      color: var(--navy);
+    }
+
+    .slide {
+      width: min(100vw, 177.778vh);
+      aspect-ratio: 16 / 9;
+      background: var(--white);
+      padding: 3.2%;
+      display: flex;
+      flex-direction: column;
+      gap: 2%;
+      overflow: hidden;
+      position: relative;
+      box-shadow: 0 12px 40px #1A1A2E20;
+      container-type: inline-size;
+    }
+
+    .topline {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .week {
+      background: var(--teal);
+      color: var(--white);
+      padding: 5px 12px;
+      border-radius: 5px;
+      font-size: clamp(10px, 0.85cqw, 12px);
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+
+    .brand {
+      color: var(--teal);
+      font-size: clamp(10px, 0.9cqw, 12px);
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-align: right;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(24px, 2.1cqw, 30px);
+      line-height: 1.08;
+      font-weight: 700;
+    }
+
+    .subtitle {
+      margin: 5px 0 0;
+      font-size: clamp(12px, 1cqw, 14px);
+      color: #555B68;
+    }
+
+    .accent-line {
+      height: 4px;
+      flex-shrink: 0;
+      background: var(--teal);
+      border-radius: 5px;
+    }
+
+    .main-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2.5%;
+      flex: 1.25;
+      min-height: 0;
+    }
+
+    .panel {
+      background: var(--light-gray);
+      padding: 3.5%;
+      border-radius: 9px;
+      min-height: 0;
+    }
+
+    h2 {
+      margin: 0 0 12px;
+      color: var(--teal);
+      font-size: clamp(18px, 1.6cqw, 23px);
+      line-height: 1.1;
+    }
+
+    .role {
+      margin-bottom: 9px;
+    }
+
+    .role-name {
+      font-size: clamp(12px, 1.05cqw, 15px);
+      font-weight: 700;
+      margin-bottom: 1px;
+    }
+
+    .role-desc {
+      font-size: clamp(11px, 0.95cqw, 13px);
+      color: #505563;
+      line-height: 1.2;
+    }
+
+    .examples {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .examples li {
+      position: relative;
+      padding-left: 16px;
+      margin-bottom: 12px;
+      font-size: clamp(12px, 1.05cqw, 15px);
+      line-height: 1.25;
+    }
+
+    .examples li::before {
+      content: "";
+      width: 7px;
+      height: 7px;
+      background: var(--teal);
+      border-radius: 50%;
+      position: absolute;
+      left: 0;
+      top: 6px;
+    }
+
+    .recommendations h2 {
+      color: var(--navy);
+      margin-bottom: 10px;
+    }
+
+    .recommendation-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+    }
+
+    .recommendation {
+      border: 1px solid #D5EAE7;
+      border-radius: 8px;
+      padding: 10px 12px;
+      display: flex;
+      align-items: flex-start;
+      gap: 9px;
+      min-width: 0;
+    }
+
+    .number {
+      color: var(--teal);
+      font-size: clamp(20px, 1.8cqw, 26px);
+      line-height: 1;
+      font-weight: 700;
+    }
+
+    .recommendation p {
+      margin: 0;
+      font-size: clamp(12px, 1cqw, 14px);
+      line-height: 1.2;
+      font-weight: 600;
+    }
+
+    .discovery {
+      background: #E8F5F3;
+      border-left: 4px solid var(--teal);
+      border-radius: 5px;
+      padding: 10px 14px;
+    }
+
+    .discovery-label {
+      font-size: clamp(10px, 0.85cqw, 12px);
+      font-weight: 700;
+      color: var(--teal);
+      letter-spacing: 0.5px;
+      margin-bottom: 3px;
+    }
+
+    .discovery p {
+      font-size: clamp(12px, 1cqw, 14px);
+      line-height: 1.25;
+      margin: 0;
+    }
+
+    .toolbar {
+      position: fixed;
+      right: 16px;
+      bottom: 16px;
+      z-index: 5;
+    }
+
+    .toolbar button {
+      border: 0;
+      border-radius: 6px;
+      padding: 10px 14px;
+      background: var(--navy);
+      color: white;
+      font: 14px Calibri, Arial, sans-serif;
+      cursor: pointer;
+    }
+
+    .toolbar button:hover {
+      background: var(--teal);
+    }
+
+    .slide:fullscreen {
+      width: 100vw;
+      height: 100vh;
+      aspect-ratio: auto;
+      padding: 3.2vw;
+      justify-content: space-between;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        align-items: flex-start;
+      }
+
+      .slide {
+        width: 100%;
+        aspect-ratio: auto;
+        min-height: 100vh;
+        overflow: visible;
+        padding: 22px;
+        gap: 18px;
+      }
+
+      .main-grid {
+        grid-template-columns: 1fr;
+        gap: 14px;
+      }
+
+      .recommendation-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .role-desc,
+      .examples li,
+      .recommendation p,
+      .discovery p {
+        font-size: 14px;
+      }
+
+      h1 {
+        font-size: 28px;
+      }
+
+      h2 {
+        font-size: 21px;
+      }
+
+      .panel {
+        padding: 16px;
+      }
+    }
+
+    @media print {
+      @page {
+        size: 16in 9in;
+        margin: 0;
+      }
+
+      body {
+        background: white;
+      }
+
+      .slide {
+        width: 100vw;
+        height: 56.25vw;
+        box-shadow: none;
+      }
+
+      .toolbar {
+        display: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="slide" id="slide">
+
+    <header class="topline">
+      <span class="week">9. NÄDAL</span>
+      <span class="brand">URBANSTYLE · VÄRBAMISJUHEND</span>
+    </header>
+
+    <section>
+      <h1>Tugeva juuniorandmeanalüütiku leidmine</h1>
+      <p class="subtitle">
+        Eesmärk: hinnata tehnilisi oskusi, analüütilist mõtlemist
+        ja ärilist arusaama.
+      </p>
+    </section>
+
+    <div class="accent-line"></div>
+
+    <section class="main-grid">
+
+      <article class="panel">
+        <h2>Hindamiskriteeriumid</h2>
+
+        <div class="role">
+          <div class="role-name">A · Värbamisjuht</div>
+          <div class="role-desc">Kogemus ja projektid</div>
+        </div>
+
+        <div class="role">
+          <div class="role-name">B · Tehniline hindaja</div>
+          <div class="role-desc">SQL, Python ja andmekvaliteet</div>
+        </div>
+
+        <div class="role">
+          <div class="role-name">C · Personalijuht</div>
+          <div class="role-desc">Suhtlus ja õppimisvõime</div>
+        </div>
+
+        <div class="role">
+          <div class="role-name">D · Tiimijuht</div>
+          <div class="role-desc">Iseseisvus ja koostöö</div>
+        </div>
+      </article>
+
+      <article class="panel">
+        <h2>UrbanStyle'i näited</h2>
+
+        <ul class="examples">
+          <li>Müügi- ja kliendiandmete analüüs</li>
+          <li>Armatuurlauad ja andmete visualiseerimine</li>
+          <li>SQL, API-d ja andmetöötlus</li>
+          <li>Dokumentatsioon ja tulemuste kontroll</li>
+        </ul>
+      </article>
+
+    </section>
+
+    <section class="recommendations">
+      <h2>3 võtmesoovitust juhile</h2>
+
+      <div class="recommendation-grid">
+        <div class="recommendation">
+          <span class="number">01</span>
+          <p>Kasuta ühtset hindamislehte.</p>
+        </div>
+
+        <div class="recommendation">
+          <span class="number">02</span>
+          <p>Hinda praktilise ülesandega.</p>
+        </div>
+
+        <div class="recommendation">
+          <span class="number">03</span>
+          <p>Kontrolli põhjendusi ja koostööd.</p>
+        </div>
+      </div>
+    </section>
+
+    <footer class="discovery">
+      <div class="discovery-label">ÜLLATAV AVASTUS</div>
+      <p>
+        Tehniliselt õigest vastusest ei piisa — kandidaat peab oskama
+        tulemusi kontrollida ja nende ärilist väärtust selgitada.
+      </p>
+    </footer>
+
+  </main>
+
+  <div class="toolbar">
+    <button onclick="toggleFullscreen()" type="button">
+      ⛶ Täisekraan
+    </button>
+  </div>
+
+  <script>
+    function toggleFullscreen() {
+      const slide = document.getElementById("slide");
+
+      if (!document.fullscreenElement) {
+        slide.requestFullscreen().catch(() => {
+          window.print();
+        });
+      } else {
+        document.exitFullscreen();
+      }
+    }
+
+    document.addEventListener("keydown", function (event) {
+      if (event.key.toLowerCase() === "f") {
+        toggleFullscreen();
+      }
+    });
+  </script>
+</body>
+</html>
+
