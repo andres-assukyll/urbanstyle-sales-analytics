@@ -59,7 +59,7 @@ Nelja põhikompetentsi hindamine skaalal 1–5 koos tõendite dokumenteerimise j
 
 **Töövoog:** kogu intervjuust tõendid → hinda kompetentse → dokumenteeri soovitus → tee põhjendatud värbamisotsus.
 
-🔗 **[Ava interaktiivsed värbamistööriistad](https://andres-assukyll.github.io/daca-portfolio/week-9/index.html)**
+🔗 **[Ava Hiring Scorecard](https://andres-assukyll.github.io/daca-portfolio/week-9/scorecard.html)**
 
 ---
 
