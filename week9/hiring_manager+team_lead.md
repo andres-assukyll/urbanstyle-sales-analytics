@@ -21,7 +21,7 @@
 
 | Kriteerium | Tähendus |
 |---|---|
-| **Selge struktuur** | CV on lihtsalt loetav, sest seda vaadatakse ainult mõned sekundid |
+| **Selge struktuur** | CV on lihtsasti loetav |
 | **Tutvustus** | Lühike, aga konkreetne. Näitab ka valdkonda (nt e-kaubandus, tervishoid, finants). See viitab, et kandidaat mõistab konteksti, nt ärilisi mõõdikuid |
 | **Numbrid ja mõju** | Varasema kogemuse kirjelduses on konkreetsed numbrid + tegevuse mõju |
 | **Tõendatud tehnilised oskused** | Iga mainitud tööriista juures on kogemus või projekt, kus seda kasutati |
