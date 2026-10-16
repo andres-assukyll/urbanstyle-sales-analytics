@@ -18,6 +18,10 @@
 **Meeskond:** Sales Analytics  
 **UrbanStyle’i juht:** Liis Koppel – operatsioonijuht
 
+## Esitlus
+
+**[Vaata esitlust](https://andres-assukyll.github.io/urbanstyle-sales-analytics/week9/)**
+
 ## 1. Ülevaade
 
 See peatükk koondab palkamisjuhi, tehnilise intervjueerija, personalijuhi ja tiimijuhi vaated juuniorandmeanalüütiku värbamisele. Eesmärk on hinnata kandidaadi tehnilisi oskusi, ärilist mõtlemist, suhtlemist ja koostöövalmidust konkreetsete tõendite põhjal. UrbanStyle vajab analüütikut, kes suudab muuta müügi- ja kliendiandmed kontrollitud ning arusaadavateks soovitusteks.
