@@ -12,7 +12,7 @@
 
 ### 🛠️ Interaktiivsed värbamistööriistad
 
-Tööriistade avaleht koondab värbamise hindamiseks vajalikud vormid ja juhised.
+Tööriistade avaleht koondab kandidaadi hindamisvormi (*Hiring Scorecard*) ja STAR-intervjuu maatriksi, mis toetavad kompetentside hindamist, tõendite dokumenteerimist ja põhjendatud värbamisotsuse tegemist.
 
 🔗 **[Ava interaktiivsed värbamistööriistad](https://andres-assukyll.github.io/daca-portfolio/week-9/index.html)**
 
