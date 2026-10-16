@@ -1,0 +1,614 @@
+
+<!DOCTYPE html>
+<html lang="et">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UrbanStyle – Värbamisjuhend, nädal 9</title>
+
+  <style>
+    :root {
+      --teal: #009B8D;
+      --navy: #1A1A2E;
+      --white: #FFFFFF;
+      --light: #F5F5F5;
+      --text: #292B38;
+      --muted: #626776;
+      --green: #24834A;
+      --green-bg: #EFF8F2;
+      --orange: #B85C18;
+      --orange-bg: #FFF5EB;
+      --border: #E1E4E9;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+      font-family: Calibri, Arial, sans-serif;
+      color: var(--text);
+      background: #E8EAF0;
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 24px;
+    }
+
+    .slide {
+      width: min(1600px, 100%);
+      aspect-ratio: 16 / 9;
+      background: var(--white);
+      padding: 2.2%;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5%;
+      overflow: hidden;
+      box-shadow: 0 12px 40px rgba(26, 26, 46, 0.14);
+    }
+
+    .header {
+      flex-shrink: 0;
+      background: var(--navy);
+      color: var(--white);
+      border-radius: 10px;
+      padding: 1.5% 2%;
+    }
+
+    .eyebrow {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      color: #D8DCE8;
+      font-size: clamp(10px, 0.85vw, 14px);
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+    }
+
+    .week {
+      background: var(--teal);
+      color: var(--white);
+      border-radius: 5px;
+      padding: 5px 10px;
+      white-space: nowrap;
+    }
+
+    h1 {
+      font-size: clamp(23px, 2.3vw, 38px);
+      line-height: 1.08;
+      margin: 12px 0 7px;
+      color: var(--white);
+    }
+
+    .subtitle {
+      margin: 0;
+      color: #D8DCE8;
+      font-size: clamp(12px, 1.05vw, 17px);
+      line-height: 1.25;
+    }
+
+    .main {
+      flex: 1;
+      min-height: 0;
+      display: grid;
+      grid-template-columns: 1.12fr 0.88fr;
+      gap: 1.5%;
+    }
+
+    .panel {
+      min-height: 0;
+      background: var(--light);
+      border-radius: 8px;
+      padding: 2.5%;
+    }
+
+    h2 {
+      font-size: clamp(15px, 1.35vw, 22px);
+      line-height: 1.1;
+      color: var(--navy);
+      margin: 0 0 8px;
+    }
+
+    h3 {
+      font-size: clamp(12px, 1.05vw, 17px);
+      line-height: 1.15;
+      margin: 0;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .section-note {
+      color: var(--muted);
+      font-size: clamp(10px, 0.8vw, 13px);
+      margin-bottom: 10px;
+    }
+
+    .examples {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+
+    .example {
+      padding: 1.65% 0;
+      border-bottom: 1px solid var(--border);
+      display: grid;
+      grid-template-columns: 0.95fr 1.05fr;
+      gap: 12px;
+      align-items: start;
+    }
+
+    .example:last-child {
+      border-bottom: none;
+    }
+
+    .example strong {
+      color: var(--navy);
+      font-size: clamp(10px, 0.94vw, 15px);
+      line-height: 1.2;
+    }
+
+    .example span {
+      color: #525866;
+      font-size: clamp(10px, 0.86vw, 14px);
+      line-height: 1.22;
+    }
+
+    .table-heading {
+      color: var(--teal);
+      font-size: clamp(9px, 0.72vw, 12px);
+      font-weight: 700;
+      letter-spacing: 0.45px;
+      text-transform: uppercase;
+      padding-bottom: 5px;
+      border-bottom: 2px solid var(--teal);
+      display: grid;
+      grid-template-columns: 0.95fr 1.05fr;
+      gap: 12px;
+    }
+
+    .right-column {
+      display: flex;
+      flex-direction: column;
+      gap: 3%;
+      min-height: 0;
+    }
+
+    .skills {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px 14px;
+      margin-top: 12px;
+    }
+
+    .skill {
+      display: flex;
+      align-items: flex-start;
+      gap: 9px;
+    }
+
+    .skill-icon {
+      color: var(--teal);
+      font-size: clamp(17px, 1.5vw, 24px);
+      line-height: 1;
+      font-weight: 700;
+    }
+
+    .skill strong {
+      display: block;
+      color: var(--navy);
+      font-size: clamp(11px, 0.92vw, 15px);
+      line-height: 1.15;
+      margin-bottom: 3px;
+    }
+
+    .skill span {
+      display: block;
+      color: var(--muted);
+      font-size: clamp(10px, 0.8vw, 13px);
+      line-height: 1.2;
+    }
+
+    .flags {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    .flag {
+      border-radius: 8px;
+      padding: 12px;
+    }
+
+    .flag h3 {
+      margin-bottom: 7px;
+    }
+
+    .flag p {
+      font-size: clamp(10px, 0.82vw, 13px);
+      line-height: 1.3;
+    }
+
+    .green {
+      background: var(--green-bg);
+      border: 1px solid #B7DEC9;
+    }
+
+    .green h3 {
+      color: var(--green);
+    }
+
+    .red {
+      background: var(--orange-bg);
+      border: 1px solid #F0D0B4;
+    }
+
+    .red h3 {
+      color: var(--orange);
+    }
+
+    .recommendations {
+      flex-shrink: 0;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.3% 1.6%;
+    }
+
+    .recommendations h2 {
+      margin-bottom: 9px;
+    }
+
+    .recommendation-list {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    .recommendation {
+      display: flex;
+      align-items: flex-start;
+      gap: 9px;
+    }
+
+    .number {
+      width: 25px;
+      height: 25px;
+      min-width: 25px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      color: var(--white);
+      background: var(--teal);
+      font-weight: 700;
+      font-size: 13px;
+    }
+
+    .recommendation p {
+      color: var(--text);
+      font-size: clamp(11px, 0.91vw, 15px);
+      line-height: 1.25;
+      font-weight: 600;
+    }
+
+    .discovery {
+      flex-shrink: 0;
+      background: var(--light);
+      border-left: 4px solid var(--teal);
+      border-radius: 5px;
+      padding: 1.1% 1.5%;
+    }
+
+    .discovery-label {
+      color: var(--teal);
+      font-weight: 700;
+      font-size: clamp(9px, 0.75vw, 12px);
+      text-transform: uppercase;
+      letter-spacing: 0.6px;
+      margin-bottom: 4px;
+    }
+
+    .discovery p {
+      color: var(--navy);
+      font-size: clamp(14px, 1.35vw, 22px);
+      font-weight: 700;
+      line-height: 1.15;
+    }
+
+    .footer {
+      flex-shrink: 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      color: #737987;
+      font-size: clamp(9px, 0.72vw, 12px);
+      letter-spacing: 0.35px;
+    }
+
+    .date {
+      white-space: nowrap;
+    }
+
+    .controls {
+      position: fixed;
+      bottom: 14px;
+      right: 14px;
+      z-index: 10;
+    }
+
+    .controls button {
+      border: 0;
+      border-radius: 7px;
+      padding: 10px 14px;
+      color: white;
+      background: var(--navy);
+      cursor: pointer;
+      font: inherit;
+    }
+
+    .controls button:hover {
+      background: var(--teal);
+    }
+
+    @media (max-width: 760px) {
+      body {
+        display: block;
+        padding: 8px;
+      }
+
+      .slide {
+        aspect-ratio: auto;
+        min-height: 100vh;
+        padding: 14px;
+        gap: 12px;
+        overflow: visible;
+      }
+
+      .header {
+        padding: 16px;
+      }
+
+      .main {
+        grid-template-columns: 1fr;
+        gap: 12px;
+      }
+
+      .panel {
+        padding: 14px;
+      }
+
+      .example {
+        padding: 10px 0;
+      }
+
+      .skills {
+        gap: 14px;
+      }
+
+      .recommendations {
+        padding: 14px;
+      }
+
+      .recommendation-list {
+        grid-template-columns: 1fr;
+        gap: 12px;
+      }
+
+      .discovery {
+        padding: 14px;
+      }
+
+      .controls {
+        position: static;
+        text-align: center;
+        margin-top: 12px;
+      }
+    }
+
+    @media print {
+      @page {
+        size: 13.333in 7.5in;
+        margin: 0;
+      }
+
+      html,
+      body {
+        width: 13.333in;
+        height: 7.5in;
+        padding: 0;
+        background: white;
+      }
+
+      .slide {
+        width: 13.333in;
+        height: 7.5in;
+        aspect-ratio: auto;
+        box-shadow: none;
+        padding: 2.2%;
+      }
+
+      .controls {
+        display: none;
+      }
+
+      * {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="slide">
+    <header class="header">
+      <div class="eyebrow">
+        <span>UrbanStyle · Värbamisjuhend</span>
+        <span class="week">Nädal 9</span>
+      </div>
+
+      <h1>Kuidas ära tunda tugevat juunioranalüütikut?</h1>
+
+      <p class="subtitle">
+        Leia kandidaat, kes ühendab analüütilised oskused
+        usaldusväärsete äriotsustega.
+      </p>
+    </header>
+
+    <section class="main">
+      <article class="panel">
+        <h2>Praktilised näited</h2>
+        <p class="section-note">
+          Mida kandidaadi töö puhul hinnata?
+        </p>
+
+        <div class="table-heading">
+          <span>Näide</span>
+          <span>Mida hinnata?</span>
+        </div>
+
+        <div class="examples">
+          <div class="example">
+            <strong>Ostudeta kliendid SQL-iga</strong>
+            <span>Ühendamisloogika ja äriline tõlgendus.</span>
+          </div>
+
+          <div class="example">
+            <strong>Andmete puhastamine ja RFM</strong>
+            <span>Andmekvaliteet ja põhjendatud valikud.</span>
+          </div>
+
+          <div class="example">
+            <strong>CEO, kaupluse ja e-poe dashboard’id</strong>
+            <span>Mõõdikute valik ja tulemuste selgitamine.</span>
+          </div>
+
+          <div class="example">
+            <strong>Supabase API ja pipeline</strong>
+            <span>Korratavus, dokumentatsioon ja veakäsitlus.</span>
+          </div>
+
+          <div class="example">
+            <strong>Analüüsiperioodide võrdlus</strong>
+            <span>Võrreldavad perioodid ja arvutusreeglid.</span>
+          </div>
+
+          <div class="example">
+            <strong>GitHubi projekti dokumenteerimine</strong>
+            <span>Isiklik panus ja taaskasutatavus.</span>
+          </div>
+        </div>
+      </article>
+
+      <div class="right-column">
+        <article class="panel">
+          <h2>Mida hinnata?</h2>
+
+          <div class="skills">
+            <div class="skill">
+              <span class="skill-icon" aria-hidden="true">⌘</span>
+              <div>
+                <strong>Tehnilised oskused</strong>
+                <span>SQL, Python ja API-d</span>
+              </div>
+            </div>
+
+            <div class="skill">
+              <span class="skill-icon" aria-hidden="true">↗</span>
+              <div>
+                <strong>Äriline mõtlemine</strong>
+                <span>Mõõdikud ja soovitused</span>
+              </div>
+            </div>
+
+            <div class="skill">
+              <span class="skill-icon" aria-hidden="true">✓</span>
+              <div>
+                <strong>Andmekvaliteet</strong>
+                <span>Kontroll ja võrreldavus</span>
+              </div>
+            </div>
+
+            <div class="skill">
+              <span class="skill-icon" aria-hidden="true">↔</span>
+              <div>
+                <strong>Koostöö</strong>
+                <span>Selgitamine ja dokumenteerimine</span>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <div class="flags">
+          <article class="flag green">
+            <h3>✓ Rohelised lipud</h3>
+            <p>
+              Põhjendab valikuid, kontrollib andmeid
+              ja seostab tulemused äriga.
+            </p>
+          </article>
+
+          <article class="flag red">
+            <h3>! Punased lipud</h3>
+            <p>
+              Kontrollimata tulemused, põhjendamata
+              otsused või ärilise tõlgenduse puudumine.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="recommendations">
+      <h2>3 soovitust värbamiseks</h2>
+
+      <div class="recommendation-list">
+        <div class="recommendation">
+          <span class="number">1</span>
+          <p>Kasuta kõigi kandidaatidega sama praktilist ülesannet.</p>
+        </div>
+
+        <div class="recommendation">
+          <span class="number">2</span>
+          <p>Palu põhjendada andmevalikuid ja tulemuste kontrollimist.</p>
+        </div>
+
+        <div class="recommendation">
+          <span class="number">3</span>
+          <p>Hinda tehnilisi oskusi koos ärilise mõtlemisega.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="discovery">
+      <div class="discovery-label">Üllatav avastus</div>
+      <p>
+        Hea analüütik ei anna ainult vastust —
+        ta selgitab, miks seda vastust usaldada.
+      </p>
+    </section>
+
+    <footer class="footer">
+      <span>SALES ANALYTICS · URBANSTYLE</span>
+      <span class="date">16.10.2026</span>
+    </footer>
+  </main>
+
+  <div class="controls">
+    <button type="button" onclick="window.print()">
+      Prindi / salvesta PDF-ina
+    </button>
+  </div>
+</body>
+</html>
