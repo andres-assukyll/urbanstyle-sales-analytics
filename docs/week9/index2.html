@@ -36,6 +36,7 @@
 
     body {
       display: flex;
+      flex-direction: column;
       justify-content: center;
       align-items: center;
       padding: 24px;
@@ -340,30 +341,63 @@
       white-space: nowrap;
     }
 
+    /* Täisekraani nupp: slaidi all keskel */
     .controls {
-      position: fixed;
-      bottom: 14px;
-      right: 14px;
-      z-index: 10;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      margin-top: 18px;
+      margin-bottom: 4px;
     }
 
     .controls button {
-      border: 0;
-      border-radius: 7px;
-      padding: 10px 14px;
-      color: white;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      padding: 9px 16px;
+      border: none;
+      border-radius: 6px;
       background: var(--navy);
+      color: var(--white);
+      font: 600 14px Calibri, Arial, sans-serif;
       cursor: pointer;
-      font: inherit;
+      transition: background 0.2s ease;
     }
 
     .controls button:hover {
       background: var(--teal);
     }
 
+    .controls button:focus-visible {
+      outline: 3px solid var(--teal);
+      outline-offset: 3px;
+    }
+
+    .fullscreen-icon {
+      font-size: 16px;
+      line-height: 1;
+    }
+
+    /* Täisekraanil kuvatakse slaid ilma ümbritseva taustata */
+    .slide:fullscreen {
+      width: 100vw;
+      height: 100vh;
+      max-width: none;
+      aspect-ratio: auto;
+      padding: 2.2%;
+      box-shadow: none;
+      background: var(--white);
+    }
+
+    .slide:fullscreen .header {
+      padding: 1.5% 2%;
+    }
+
     @media (max-width: 760px) {
       body {
-        display: block;
+        display: flex;
+        flex-direction: column;
         padding: 8px;
       }
 
@@ -411,8 +445,8 @@
 
       .controls {
         position: static;
-        text-align: center;
-        margin-top: 12px;
+        margin-top: 14px;
+        margin-bottom: 8px;
       }
     }
 
@@ -451,7 +485,7 @@
 </head>
 
 <body>
-  <main class="slide">
+  <main class="slide" id="slide">
     <header class="header">
       <div class="eyebrow">
         <span>UrbanStyle · Värbamisjuhend</span>
@@ -606,9 +640,33 @@
   </main>
 
   <div class="controls">
-    <button type="button" onclick="window.print()">
-      Prindi / salvesta PDF-ina
+    <button type="button" id="fullscreenButton" onclick="toggleFullscreen()">
+      <span class="fullscreen-icon" aria-hidden="true">⛶</span>
+      <span id="fullscreenLabel">Ava täisekraan</span>
     </button>
   </div>
+
+  <script>
+    const slide = document.getElementById("slide");
+    const fullscreenLabel = document.getElementById("fullscreenLabel");
+
+    async function toggleFullscreen() {
+      try {
+        if (!document.fullscreenElement) {
+          await slide.requestFullscreen();
+        } else {
+          await document.exitFullscreen();
+        }
+      } catch (error) {
+        console.error("Täisekraanirežiimi avamine ebaõnnestus:", error);
+      }
+    }
+
+    document.addEventListener("fullscreenchange", () => {
+      fullscreenLabel.textContent = document.fullscreenElement
+        ? "Välju täisekraanist"
+        : "Ava täisekraan";
+    });
+  </script>
 </body>
 </html>
