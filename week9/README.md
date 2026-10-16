@@ -24,7 +24,7 @@
 
 ## 1. Ülevaade
 
-See peatükk koondab palkamisjuhi, tehnilise intervjueerija, personalijuhi ja tiimijuhi vaated juuniorandmeanalüütiku värbamisele. Eesmärk on hinnata kandidaadi tehnilisi oskusi, ärilist mõtlemist, suhtlemist ja koostöövalmidust konkreetsete tõendite põhjal. UrbanStyle vajab analüütikut, kes suudab muuta müügi- ja kliendiandmed kontrollitud ning arusaadavateks soovitusteks.
+See peatükk koondab palkamisjuhi, tehnilise intervjueerija, personalijuhi ja tiimijuhi vaated juuniorandmeanalüütiku värbamisele. Eesmärk on hinnata kandidaadi tehnilisi oskusi, ärilist mõtlemist, suhtlemisoskust ja koostöövalmidust konkreetsete tõendite põhjal. Nii saab kandidaadist terviklikuma pildi ja vähendada ohtu, et otsus põhineb vaid ühe osapoole arvamusel. UrbanStyle vajab analüütikut, kes suudab muuta müügi- ja kliendiandmed kontrollitud ning arusaadavateks soovitusteks.
 
 ## 2. Hindamiskriteeriumid
 
