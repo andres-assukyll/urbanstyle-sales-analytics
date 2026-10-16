@@ -80,7 +80,7 @@ Tugevat analüütikut iseloomustab oskus põhjendada oma lahendusi, kontrollida 
 ## 4. Kolm võtmesoovitust Liisile
 
 1. **Kasuta ühtset hindamislehte.**  
-   Leppige enne intervjuusid kokku rollile vajalikud oskused, hindamisskaala ja hinnete tähendus. Iga hinnangu juurde märkige konkreetne tõend; Andrese koostatud Hiring Scorecard ja STAR-maatriks toetavad seda protsessi.
+   Leppige enne intervjuusid kokku rollile vajalikud oskused, hindamisskaala ja hinnete tähendus. Iga hinnangu juurde märkige konkreetne tõend, interaktiivsed Hiring Scorecard ja STAR-maatriks toetavad seda protsessi.
 
 2. **Ühenda praktiline ülesanne lahenduse selgitamisega.**  
    Anna kandidaadile piiratud mahuga UrbanStyle’i müügi- või kliendiandmete ülesanne. Palu tal põhjendada ühte puhastamisotsust, näidata ühte tulemuse kontrolli ning sõnastada üks äriline soovitus; leppige eelnevalt kokku ka AI kasutamise tingimused.
