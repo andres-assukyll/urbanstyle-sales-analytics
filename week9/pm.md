@@ -13,7 +13,7 @@
 
 ---
 
-## 🏙️ UrbanStyle.ltd värbamisjuhend (lühendatult)
+## 🏙️ UrbanStyle.ltd värbamisjuhend (kokkuvõtvalt)
 
 **Eesmärk:** hinnata juunior andmeanalüütiku pehmeid oskusi struktureeritud, õiglase ja tõenduspõhise värbamisprotsessi kaudu.
 
