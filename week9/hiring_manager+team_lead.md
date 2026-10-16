@@ -81,7 +81,7 @@ Andmelugu projektis:
 |---|---|
 | **Otsuste põhjendamine** | Põhjendab oma otsuseid ja toob varasematest olukordadest konkreetseid näiteid (nt STAR-meetodil) |
 | **AI väljundi kontroll** | Kontrollib AI väljundit ja oskab selgitada, miks tulemus on loogiline |
-| **Õiged küsimused** | Esitab õiged küsimused enne andmetesse süvenemist |
+| **Õiged küsimused** | Esitab õigeid küsimusi enne andmetesse süvenemist |
 
 ### 2. Kommunikatsioon: mis näitab selget selgitust?
 
