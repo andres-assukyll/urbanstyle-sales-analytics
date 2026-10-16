@@ -20,7 +20,7 @@
 
 ## Esitlus
 
-**[Vaata esitlust VAR. 1](https://andres-assukyll.github.io/urbanstyle-sales-analytics/week9/index.html)** 
+**[Vaata esitlust](https://andres-assukyll.github.io/urbanstyle-sales-analytics/week9/index.html)** 
 
 ## 1. Ülevaade
 
