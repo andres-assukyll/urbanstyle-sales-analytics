@@ -5,280 +5,401 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>UrbanStyle – Värbamisjuhend</title>
-
   <style>
     :root {
       --teal: #009B8D;
       --navy: #1A1A2E;
       --white: #FFFFFF;
-      --light-gray: #F5F5F5;
-      --green: #27864B;
-      --orange: #D97706;
-      --gray: #747985;
+      --light: #F5F5F5;
+      --green-bg: #E8F5E9;
+      --green: #216E39;
+      --red-bg: #FDECEC;
+      --red: #A61B1B;
+      --text: #252536;
+      --muted: #667085;
+      --border: #DCE5E4;
     }
 
     * {
       box-sizing: border-box;
     }
 
+    html,
     body {
       margin: 0;
+      width: 100%;
+      min-height: 100%;
+      font-family: Calibri, Arial, sans-serif;
+      color: var(--text);
+      background: #E9EAEE;
+    }
+
+    body {
       min-height: 100vh;
       display: flex;
+      flex-direction: column;
       align-items: center;
       justify-content: center;
-      background: #E8ECEF;
-      font-family: Calibri, Arial, sans-serif;
-      color: var(--navy);
+      padding: 16px;
     }
 
     .slide {
-      width: min(100vw, 177.778vh);
+      width: min(100%, 1200px);
       aspect-ratio: 16 / 9;
       background: var(--white);
-      padding: 3.2%;
+      padding: 2.1%;
       display: flex;
       flex-direction: column;
-      gap: 2%;
+      gap: 1.25%;
       overflow: hidden;
-      position: relative;
-      box-shadow: 0 12px 40px #1A1A2E20;
+      box-shadow: 0 12px 40px rgba(26, 26, 46, 0.14);
+      border-radius: 8px;
       container-type: inline-size;
     }
 
-    .topline {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 12px;
-    }
-
-    .week {
-      background: var(--teal);
+    .header {
+      background: var(--navy);
       color: var(--white);
-      padding: 5px 12px;
-      border-radius: 5px;
-      font-size: clamp(10px, 0.85cqw, 12px);
-      font-weight: 700;
-      letter-spacing: 0.5px;
+      border-radius: 8px;
+      padding: 1.6% 2%;
+      flex-shrink: 0;
     }
 
-    .brand {
+    .eyebrow {
       color: var(--teal);
-      font-size: clamp(10px, 0.9cqw, 12px);
+      font-size: clamp(9px, 1.05cqw, 13px);
       font-weight: 700;
-      letter-spacing: 1px;
-      text-align: right;
+      letter-spacing: 0.08em;
+      margin-bottom: 0.5%;
     }
 
     h1 {
-      margin: 0;
-      font-size: clamp(24px, 2.1cqw, 30px);
+      font-size: clamp(20px, 2.55cqw, 31px);
       line-height: 1.08;
+      margin: 0 0 0.7%;
       font-weight: 700;
     }
 
-    .subtitle {
-      margin: 5px 0 0;
-      font-size: clamp(12px, 1cqw, 14px);
-      color: #555B68;
+    .meta {
+      font-size: clamp(10px, 1.15cqw, 14px);
+      color: #F0F0F4;
     }
 
-    .accent-line {
-      height: 4px;
-      flex-shrink: 0;
-      background: var(--teal);
-      border-radius: 5px;
-    }
-
-    .main-grid {
+    .cards {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 2.5%;
-      flex: 1.25;
+      grid-template-rows: 1fr 1fr;
+      gap: 1.25%;
+      flex: 1 1 auto;
       min-height: 0;
     }
 
-    .panel {
-      background: var(--light-gray);
-      padding: 3.5%;
-      border-radius: 9px;
-      min-height: 0;
+    .card {
+      background: var(--light);
+      border-radius: 7px;
+      padding: 2.3% 3%;
+      min-width: 0;
+      overflow: hidden;
     }
 
-    h2 {
-      margin: 0 0 12px;
+    .card h2 {
       color: var(--teal);
-      font-size: clamp(18px, 1.6cqw, 23px);
+      font-size: clamp(12px, 1.5cqw, 18px);
       line-height: 1.1;
+      margin: 0 0 2.2%;
     }
 
-    .role {
-      margin-bottom: 9px;
+    .card p,
+    .card li {
+      font-size: clamp(10px, 1.15cqw, 14px);
+      line-height: 1.24;
     }
 
-    .role-name {
-      font-size: clamp(12px, 1.05cqw, 15px);
-      font-weight: 700;
-      margin-bottom: 1px;
+    .card p {
+      margin: 0 0 1.5%;
     }
 
-    .role-desc {
-      font-size: clamp(11px, 0.95cqw, 13px);
-      color: #505563;
-      line-height: 1.2;
-    }
-
-    .examples {
-      list-style: none;
+    .card ul {
       margin: 0;
-      padding: 0;
+      padding-left: 1.1em;
     }
 
-    .examples li {
-      position: relative;
-      padding-left: 16px;
-      margin-bottom: 12px;
-      font-size: clamp(12px, 1.05cqw, 15px);
-      line-height: 1.25;
+    .card li {
+      margin-bottom: 1.1%;
     }
 
-    .examples li::before {
-      content: "";
-      width: 7px;
-      height: 7px;
-      background: var(--teal);
-      border-radius: 50%;
-      position: absolute;
-      left: 0;
-      top: 6px;
+    .criteria p {
+      margin-bottom: 1.6%;
     }
 
-    .recommendations h2 {
+    .examples ul {
+      padding-left: 1em;
+    }
+
+    .recommendations p {
+      margin-bottom: 2.5%;
+    }
+
+    .flags-title {
       color: var(--navy);
-      margin-bottom: 10px;
+      font-size: clamp(13px, 1.55cqw, 19px);
+      margin: 0;
+      flex-shrink: 0;
     }
 
-    .recommendation-grid {
+    .flags {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 12px;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.25%;
+      flex-shrink: 0;
     }
 
-    .recommendation {
-      border: 1px solid #D5EAE7;
-      border-radius: 8px;
-      padding: 10px 12px;
-      display: flex;
-      align-items: flex-start;
-      gap: 9px;
+    .flag {
+      border-radius: 7px;
+      padding: 1.4% 2.3%;
       min-width: 0;
     }
 
-    .number {
-      color: var(--teal);
-      font-size: clamp(20px, 1.8cqw, 26px);
-      line-height: 1;
-      font-weight: 700;
+    .flag.good {
+      background: var(--green-bg);
+      color: var(--green);
     }
 
-    .recommendation p {
+    .flag.bad {
+      background: var(--red-bg);
+      color: var(--red);
+    }
+
+    .flag h3 {
+      font-size: clamp(11px, 1.3cqw, 16px);
+      margin: 0 0 1.4%;
+    }
+
+    .flag ul {
+      list-style: none;
+      padding: 0;
       margin: 0;
-      font-size: clamp(12px, 1cqw, 14px);
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2px 8px;
+    }
+
+    .flag li {
+      font-size: clamp(9px, 1.05cqw, 13px);
       line-height: 1.2;
-      font-weight: 600;
     }
 
     .discovery {
-      background: #E8F5F3;
-      border-left: 4px solid var(--teal);
-      border-radius: 5px;
-      padding: 10px 14px;
+      background: var(--light);
+      border: 1px solid var(--border);
+      border-left: 5px solid var(--teal);
+      border-radius: 7px;
+      padding: 1.4% 2%;
+      flex-shrink: 0;
     }
 
     .discovery-label {
-      font-size: clamp(10px, 0.85cqw, 12px);
-      font-weight: 700;
       color: var(--teal);
-      letter-spacing: 0.5px;
-      margin-bottom: 3px;
+      font-weight: 700;
+      font-size: clamp(9px, 1.05cqw, 13px);
+      letter-spacing: 0.04em;
+      margin-bottom: 0.5%;
     }
 
     .discovery p {
-      font-size: clamp(12px, 1cqw, 14px);
-      line-height: 1.25;
+      color: var(--navy);
+      font-size: clamp(12px, 1.55cqw, 19px);
+      line-height: 1.15;
+      font-weight: 700;
       margin: 0;
     }
 
-    .toolbar {
-      position: fixed;
-      right: 16px;
-      bottom: 16px;
-      z-index: 5;
+    .footer {
+      display: flex;
+      justify-content: space-between;
+      color: var(--muted);
+      font-size: clamp(8px, 0.85cqw, 10px);
+      flex-shrink: 0;
     }
 
-    .toolbar button {
+    .fullscreen-button {
+      margin-top: 12px;
+      padding: 10px 18px;
+      color: var(--white);
+      background: var(--navy);
       border: 0;
       border-radius: 6px;
-      padding: 10px 14px;
-      background: var(--navy);
-      color: white;
-      font: 14px Calibri, Arial, sans-serif;
+      font: inherit;
+      font-size: 14px;
       cursor: pointer;
     }
 
-    .toolbar button:hover {
+    .fullscreen-button:hover {
       background: var(--teal);
     }
 
     .slide:fullscreen {
       width: 100vw;
       height: 100vh;
+      max-width: none;
       aspect-ratio: auto;
-      padding: 3.2vw;
-      justify-content: space-between;
+      border-radius: 0;
+      padding: 2.1vh 2.5vw;
+      gap: 1.1vh;
+      box-shadow: none;
+    }
+
+    .slide:fullscreen .header {
+      padding: 1.3vh 2vw;
+    }
+
+    .slide:fullscreen h1 {
+      font-size: 3.1vw;
+    }
+
+    .slide:fullscreen .eyebrow,
+    .slide:fullscreen .discovery-label {
+      font-size: 1.15vw;
+    }
+
+    .slide:fullscreen .meta {
+      font-size: 1.25vw;
+    }
+
+    .slide:fullscreen .card h2 {
+      font-size: 1.65vw;
+    }
+
+    .slide:fullscreen .card p,
+    .slide:fullscreen .card li {
+      font-size: 1.25vw;
+    }
+
+    .slide:fullscreen .flag h3 {
+      font-size: 1.4vw;
+    }
+
+    .slide:fullscreen .flag li {
+      font-size: 1.1vw;
+    }
+
+    .slide:fullscreen .discovery p {
+      font-size: 1.7vw;
+    }
+
+    .slide:fullscreen .footer {
+      font-size: 0.9vw;
     }
 
     @media (max-width: 600px) {
       body {
-        align-items: flex-start;
+        padding: 8px;
       }
 
       .slide {
-        width: 100%;
         aspect-ratio: auto;
-        min-height: 100vh;
+        min-height: 95vh;
+        padding: 12px;
+        gap: 10px;
         overflow: visible;
-        padding: 22px;
-        gap: 18px;
       }
 
-      .main-grid {
-        grid-template-columns: 1fr;
-        gap: 14px;
-      }
-
-      .recommendation-grid {
-        grid-template-columns: 1fr;
-      }
-
-      .role-desc,
-      .examples li,
-      .recommendation p,
-      .discovery p {
-        font-size: 14px;
+      .header {
+        padding: 14px;
       }
 
       h1 {
-        font-size: 28px;
+        font-size: 24px;
       }
 
-      h2 {
-        font-size: 21px;
+      .eyebrow {
+        font-size: 11px;
       }
 
-      .panel {
-        padding: 16px;
+      .meta {
+        font-size: 12px;
+        line-height: 1.4;
+      }
+
+      .cards {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        gap: 8px;
+      }
+
+      .card {
+        padding: 12px;
+      }
+
+      .card h2 {
+        font-size: 16px;
+        margin-bottom: 8px;
+      }
+
+      .card p,
+      .card li {
+        font-size: 13px;
+        line-height: 1.3;
+      }
+
+      .card li {
+        margin-bottom: 5px;
+      }
+
+      .flags {
+        gap: 8px;
+      }
+
+      .flag {
+        padding: 10px;
+      }
+
+      .flag h3 {
+        font-size: 13px;
+      }
+
+      .flag ul {
+        grid-template-columns: 1fr;
+        gap: 5px;
+      }
+
+      .flag li {
+        font-size: 11px;
+      }
+
+      .discovery {
+        padding: 10px 12px;
+      }
+
+      .discovery-label {
+        font-size: 11px;
+      }
+
+      .discovery p {
+        font-size: 15px;
+        line-height: 1.25;
+      }
+
+      .footer {
+        font-size: 10px;
+      }
+
+      .slide:fullscreen {
+        padding: 2vh 2vw;
+        gap: 1vh;
+      }
+
+      .slide:fullscreen h1 {
+        font-size: 3.1vw;
+      }
+
+      .slide:fullscreen .card h2 {
+        font-size: 1.6vw;
+      }
+
+      .slide:fullscreen .card p,
+      .slide:fullscreen .card li {
+        font-size: 1.2vw;
       }
     }
 
@@ -288,136 +409,139 @@
         margin: 0;
       }
 
+      html,
       body {
+        width: 100%;
+        height: 100%;
         background: white;
+        padding: 0;
       }
 
       .slide {
-        width: 100vw;
-        height: 56.25vw;
+        width: 100%;
+        height: 100%;
+        max-width: none;
+        aspect-ratio: 16 / 9;
+        border-radius: 0;
         box-shadow: none;
+        print-color-adjust: exact;
+        -webkit-print-color-adjust: exact;
       }
 
-      .toolbar {
+      .fullscreen-button {
         display: none;
       }
     }
   </style>
 </head>
-
 <body>
   <main class="slide" id="slide">
-
-    <header class="topline">
-      <span class="week">9. NÄDAL</span>
-      <span class="brand">URBANSTYLE · VÄRBAMISJUHEND</span>
+    <header class="header">
+      <div class="eyebrow">URBANSTYLE · VÄRBAMISJUHEND</div>
+      <h1>Kuidas ära tunda tugevat juunioranalüütikut?</h1>
+      <div class="meta">
+        Meeskond: Sales Analytics · UrbanStyle juht: Liis Koppel
+      </div>
     </header>
 
-    <section>
-      <h1>Tugeva juuniorandmeanalüütiku leidmine</h1>
-      <p class="subtitle">
-        Eesmärk: hinnata tehnilisi oskusi, analüütilist mõtlemist
-        ja ärilist arusaama.
-      </p>
-    </section>
-
-    <div class="accent-line"></div>
-
-    <section class="main-grid">
-
-      <article class="panel">
-        <h2>Hindamiskriteeriumid</h2>
-
-        <div class="role">
-          <div class="role-name">A · Värbamisjuht</div>
-          <div class="role-desc">Kogemus ja projektid</div>
-        </div>
-
-        <div class="role">
-          <div class="role-name">B · Tehniline hindaja</div>
-          <div class="role-desc">SQL, Python ja andmekvaliteet</div>
-        </div>
-
-        <div class="role">
-          <div class="role-name">C · Personalijuht</div>
-          <div class="role-desc">Suhtlus ja õppimisvõime</div>
-        </div>
-
-        <div class="role">
-          <div class="role-name">D · Tiimijuht</div>
-          <div class="role-desc">Iseseisvus ja koostöö</div>
-        </div>
+    <section class="cards">
+      <article class="card">
+        <h2>01 · Ülevaade</h2>
+        <p>
+          Värbamisel tuleb hinnata nii analüütilist mõtlemist
+          kui ka oskust muuta andmed usaldusväärseteks äriotsusteks.
+        </p>
       </article>
 
-      <article class="panel">
-        <h2>UrbanStyle'i näited</h2>
+      <article class="card criteria">
+        <h2>02 · Hindamiskriteeriumid</h2>
+        <p><strong>A · Tehniline:</strong> SQL, Python ja API-d.</p>
+        <p><strong>B · Äriline:</strong> KPI-d ja soovitused.</p>
+        <p><strong>C · Kvaliteet:</strong> kontroll ja võrreldavus.</p>
+        <p><strong>D · Koostöö:</strong> dokumentatsioon ja selgitamine.</p>
+      </article>
 
-        <ul class="examples">
-          <li>Müügi- ja kliendiandmete analüüs</li>
-          <li>Armatuurlauad ja andmete visualiseerimine</li>
-          <li>SQL, API-d ja andmetöötlus</li>
-          <li>Dokumentatsioon ja tulemuste kontroll</li>
+      <article class="card examples">
+        <h2>03 · Konkreetsed näited</h2>
+        <ul>
+          <li>Ostuta klientide leidmine SQL-iga.</li>
+          <li>Andmete puhastamine ja RFM-analüüs.</li>
+          <li>Dashboard’id juhtimisotsusteks.</li>
+          <li>API-pipeline’id ja GitHubi dokumentatsioon.</li>
         </ul>
       </article>
 
+      <article class="card recommendations">
+        <h2>04 · 3 soovitust juhile</h2>
+        <p><strong>1.</strong> Kasuta kõigile sama praktilist ülesannet.</p>
+        <p><strong>2.</strong> Küsi põhjendusi ja tulemuste kontrolli kohta.</p>
+        <p><strong>3.</strong> Hinda tehnilisi oskusi ja ärilist mõtlemist koos.</p>
+      </article>
     </section>
 
-    <section class="recommendations">
-      <h2>3 võtmesoovitust juhile</h2>
+    <h2 class="flags-title">Mida intervjuul jälgida?</h2>
 
-      <div class="recommendation-grid">
-        <div class="recommendation">
-          <span class="number">01</span>
-          <p>Kasuta ühtset hindamislehte.</p>
-        </div>
+    <section class="flags">
+      <article class="flag good">
+        <h3>✓ Rohelised lipud</h3>
+        <ul>
+          <li>✓ Põhjendab valikuid.</li>
+          <li>✓ Kontrollib andmeid.</li>
+          <li>✓ Seostab tulemused äriga.</li>
+          <li>✓ Selgitab arusaadavalt.</li>
+        </ul>
+      </article>
 
-        <div class="recommendation">
-          <span class="number">02</span>
-          <p>Hinda praktilise ülesandega.</p>
-        </div>
-
-        <div class="recommendation">
-          <span class="number">03</span>
-          <p>Kontrolli põhjendusi ja koostööd.</p>
-        </div>
-      </div>
+      <article class="flag bad">
+        <h3>! Punased lipud</h3>
+        <ul>
+          <li>! Kontrollimata tulemused.</li>
+          <li>! Põhjendamata otsused.</li>
+          <li>! Vigaste andmete eiramine.</li>
+          <li>! Ärilise tähenduse puudumine.</li>
+        </ul>
+      </article>
     </section>
 
-    <footer class="discovery">
-      <div class="discovery-label">ÜLLATAV AVASTUS</div>
+    <section class="discovery">
+      <div class="discovery-label">05 · ÜLLATAV AVASTUS</div>
       <p>
-        Tehniliselt õigest vastusest ei piisa — kandidaat peab oskama
-        tulemusi kontrollida ja nende ärilist väärtust selgitada.
+        Hea analüütik ei anna ainult vastust —
+        ta selgitab, miks seda vastust usaldada.
       </p>
-    </footer>
+    </section>
 
+    <footer class="footer">
+      <span>UrbanStyle · Sales Analytics</span>
+      <span>Värbamisjuhend</span>
+    </footer>
   </main>
 
-  <div class="toolbar">
-    <button onclick="toggleFullscreen()" type="button">
-      ⛶ Täisekraan
-    </button>
-  </div>
+  <button class="fullscreen-button" id="fullscreenButton" type="button">
+    Ava täisekraan
+  </button>
 
   <script>
-    function toggleFullscreen() {
-      const slide = document.getElementById("slide");
+    const slide = document.getElementById("slide");
+    const button = document.getElementById("fullscreenButton");
 
-      if (!document.fullscreenElement) {
-        slide.requestFullscreen().catch(() => {
-          window.print();
-        });
-      } else {
-        document.exitFullscreen();
+    button.addEventListener("click", async () => {
+      try {
+        if (!document.fullscreenElement) {
+          await slide.requestFullscreen();
+        } else {
+          await document.exitFullscreen();
+        }
+      } catch (error) {
+        console.error("Täisekraanivaate avamine ebaõnnestus:", error);
       }
-    }
+    });
 
-    document.addEventListener("keydown", function (event) {
-      if (event.key.toLowerCase() === "f") {
-        toggleFullscreen();
-      }
+    document.addEventListener("fullscreenchange", () => {
+      button.textContent = document.fullscreenElement
+        ? "Sulge täisekraan"
+        : "Ava täisekraan";
     });
   </script>
 </body>
 </html>
-
