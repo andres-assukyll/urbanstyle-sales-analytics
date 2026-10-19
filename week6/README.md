@@ -12,7 +12,7 @@
 
 
 
-## E + F : Kvaliteedikontroll ja ärisüntees
+## E: Kvaliteedikontrolli ja ärisünteesi kokkuvõte
 
 Kontrolliti **10 118** müügirida, et tagada andmete usaldusväärsus.
 
