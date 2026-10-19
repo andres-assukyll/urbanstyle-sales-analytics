@@ -1,6 +1,14 @@
+# Nädal 6: Visualisation Design
 
+**Nimi:** Andres Assuküll  
+**Meeskond:** Sales Analytics    
+**Roll:** E: Valideerija & Kvaliteedikontroll + Ärisüntees
 
-ÜLESANNE:
-Loo e-poe interaktiivne dashboard koos andmelooga. E-pood on UrbanStyle'i kiiremini kasvav kanal — siin on tulevik. Sinu ülesanne on näidata kasvutempot ja digitaalse kanali potentsiaali.
+## 🎯 Eesmärk
 
+Teha meeskonna töö **usaldusväärseks** ja **tervikuks**. Enne kui tulemus
+stakeholderini jõuab, peab kontrollima, et numbrid klapiksid ja lugu oleks ühtne.
 
+**Ülesanne**: Rollide A–D väljundid.
+
+## 📋 Kvaliteedikontroll
