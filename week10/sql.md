@@ -25,6 +25,6 @@ SLAIDI ÜLESEHITUS
 - VIP-id, (AI ja üleminek ainult kõnes, esitlusele ei pane)
 
 
-VEEL VAJA KONTROLLID KONTROLLIDA
-- Puhastatud müügitabeli ridade arv (8 631 või 10 118)
+TÄPSUSTUSED:
+- Pärast 5 116 duplikaadi eemaldamist jäi alles 10 118 puhtat müügirida, millest umbes 1 500 on külalisostud (registreerimata kliendid)
 - +19,1% on arvutatud tabelist, kus kliendita müügid on sees
