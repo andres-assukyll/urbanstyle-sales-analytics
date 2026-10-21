@@ -8,7 +8,7 @@
 |---|---|:---:|
 | Nele Kund | A: [Tallinna ja Tartu kaupluste andmelood](Tallinn-Tartu-stores-dashboards.md) | 🪟 Win |
 | Evelyn Uusmaa | B: [Pärnu kaupluse ja e-poe dashboard'id ning andmelood](Pärnu_Epood_analüüs.md) | 🪟 Win |
-| Andres Assuküll | E: [Valideerija & Kvaliteedikontroll + Ärisünteesi koondaja](vka.md) | 🍎 Mac |
+| Andres Assuküll | E: [Valideerija & Kvaliteedikontroll + Ärisünteesi koondaja](vka.md) | 🍎 Mac 🪟 Win |
 
 
 
