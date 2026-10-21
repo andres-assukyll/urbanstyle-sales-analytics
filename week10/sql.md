@@ -1,0 +1,30 @@
+SLAID 2: SQL JA ANDMETÖÖ (1 min 50 s)
+Sõnum: kolmandik müügiridadest oli duplikaat, iga viies klient on ostmata, käive kasvas ligi 19%.
+
+| Osa | Aeg | Number | Kuidas öeldakse |
+|---|---|---|---|
+| 1. Lähtepunkt | ~22 s | 15 234 müügirida, 5 116 duplikaati | Kolmandik müügiridadest oli duplikaat, eemaldasime need. ~1 500 müüki on ilma kliendita (käibes sees, klienditest väljas). Customers: e-postiprobleemid, tooted puhtad |
+| 2. Ostuta kliendid | ~15 s | 599 klienti (19%) | Iga viies klient pole kunagi ostnud |
+| 3. Käive | ~25 s | +19,1%, +235 599 €; jaanuar +7,4% | Käive kasvas ligi 19%, isegi nõrgimal kuul oli kasv. Piirang: ~10% käibest ei saa kliendiga siduda |
+| 4. VIP-id | ~18 s | 19 VIP-i, 13,2% käibest; 14 neist Tallinnas/Pärnus | Paarkümmend klienti toob kaheksandiku käibest |
+| 5. AI | ~8 s | - | SQL-päringute debugimine, koodi valideerimine, annotatsioonide lihvimine |
+| 6. Üleminek | ~10 s | - | Sõna järgmisele |
+
+
+KOLM NUMBRIT, MIS PEAVAD MEELDE JÄÄMA
+| # | Number | Kõnes |
+|---|---|---|
+| 1 | 5 116 duplikaati | Kolmandik müügiridadest |
+| 2 | 599 klienti | Iga viies on ostmata |
+| 3 | +19,1% (+235 599 €) | Käive kasvas ligi 19% |
+
+SLAIDI ÜLESEHITUS
+- Pealkiri: järeldus
+- Üleval: enne/pärast võrdlus (müügiread)
+- All: kaks numbrikaarti (ostuta kliendid, käibekasv)
+- VIP-id, (AI ja üleminek ainult kõnes, esitlusele ei pane)
+
+
+VEEL VAJA KONTROLLID KONTROLLIDA
+- Puhastatud müügitabeli ridade arv (8 631 või 10 118)
+- +19,1% on arvutatud tabelist, kus kliendita müügid on sees
