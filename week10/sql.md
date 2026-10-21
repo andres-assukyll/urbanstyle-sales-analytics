@@ -7,7 +7,7 @@ Sõnum: kolmandik müügiridadest koosnes duplikaatidest, iga viies klient on os
 | 2. Ostuta kliendid | ~15 s | 599 klienti (19%) | Iga viies klient pole kunagi ostnud |
 | 3. Käive | ~25 s | +19,1%, +235 599 €; jaanuar +7,4% | Käive kasvas ligi 19%, isegi nõrgimal kuul oli kasv. Piirang: ~10% käibest ei saa kliendiga siduda |
 | 4. VIP-id | ~18 s | 19 VIP-i, 13,2% käibest; 14 neist Tallinnas/Pärnus | Paarkümmend klienti toob kaheksandiku käibest |
-| 5. AI | ~8 s | - | SQL-päringute debugimine, koodi valideerimine, annotatsioonide lihvimine |
+| 5. AI | ~8 s | - | SQL-päringute debugimine |
 | 6. Üleminek | ~10 s | - | Sõna järgmisele |
 
 
