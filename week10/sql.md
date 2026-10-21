@@ -3,7 +3,7 @@ Sõnum: kolmandik müügiridadest koosnes duplikaatidest, iga viies klient on os
 
 | Osa | Aeg | Number | Kuidas öeldakse |
 |---|---|---|---|
-| 1. Lähtepunkt | ~22 s | 15 234 müügirida, 5 116 duplikaati | Kolmandik müügiridadest oli duplikaat, eemaldasime need. ~1 500 müüki on ilma kliendita (käibes sees, klienditest väljas). Customers: e-postiprobleemid, tooted puhtad |
+| 1. Lähtepunkt | ~22 s | 15 234 → 10 118 müügirida, 5116 duplikaati eemaldatud, Üle 4 mln € → 2,91 mln € | Kolmandik müügiridadest olid duplikaadid, eemaldasime need. ~1 500 müüki on ilma kliendita (käibes sees, klienditest väljas). Customers: e-postiprobleemid, tooted puhtad |
 | 2. Ostuta kliendid | ~15 s | 599 klienti (19%) | Iga viies klient pole kunagi ostnud |
 | 3. Käive | ~25 s | +19,1%, +235 599 €; jaanuar +7,4% | Käive kasvas ligi 19%, isegi nõrgimal kuul oli kasv. Piirang: ~10% käibest ei saa kliendiga siduda |
 | 4. VIP-id | ~18 s | 19 VIP-i, 13,2% käibest; 14 neist Tallinnas/Pärnus | Paarkümmend klienti toob kaheksandiku käibest |
