@@ -16,9 +16,11 @@
 
 Kontrolliti **10 118** müügirida, et tagada andmete usaldusväärsus.
 
+![Dashboard](https://github.com/andres-assukyll/daca-portfolio/blob/main/week-6/img/quality_ctrl_dashboard.png)
+
 **Peamised leiud:**
 - 0 duplikaatset ID-d.
-- 988 (9,8%) müügireal puudub kliendi-ID; nendega seotud müügitulu on 286 446,20 €.
+- 988 (9,8%) müügireal puudub kliendi-ID; nendega seotud müügitulu on ligi 286 500 €.
 - 501 müügirea summa erineb arvutusest `quantity × unit_price` üle 0,01 € (195 negatiivset ja 306 positiivset summat).
 - 10 toote jaehind on omahinnast madalam.
 - Puuduvaid tooteviiteid ega müügikuupäevi ei leitud.
