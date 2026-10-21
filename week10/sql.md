@@ -1,7 +1,7 @@
 SLAID 2: SQL JA ANDMETÖÖ (1 min 50 s)
 Sõnum: kolmandik müügiridadest koosnes duplikaatidest, iga viies klient on ostmata, käive kasvas ligi 19%.
 
-| Osa | Aeg | Number | Kuidas öeldakse |
+| Osa | Number | Täpsustus |
 |---|---|---|---|
 | 1. Lähtepunkt | 15 234 → 10 118 müügirida, 5116 duplikaati eemaldatud, Üle 4 mln € → 2,91 mln € | Kolmandik müügiridadest olid duplikaadid, eemaldasime need. ~1 500 müüki on ilma kliendita (käibes sees, klienditest väljas). Customers: e-postiprobleemid, tooted puhtad |
 | 2. Ostuta kliendid | 599 klienti (19%) | Iga viies klient pole kunagi ostnud |
