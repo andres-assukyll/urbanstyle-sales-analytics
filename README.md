@@ -1,5 +1,9 @@
-# UrbanStyle.ltd · Sales Analytics
-**Müügiandmetest selgete järeldusteni**
+# 🏙️  UrbanStyle.ltd · Sales Analytics
+<div align="center">
+  
+⭐ **Müügiandmetest selgete järeldusteni** ⭐ 
+
+</div>
 
 ## 🎯 Meie eesmärk
 
