@@ -1,5 +1,5 @@
 SLAID 2: SQL JA ANDMETÖÖ (1 min 50 s)
-Sõnum: kolmandik müügiridadest oli duplikaat, iga viies klient on ostmata, käive kasvas ligi 19%.
+Sõnum: kolmandik müügiridadest koosnes duplikaatidest, iga viies klient on ostmata, käive kasvas ligi 19%.
 
 | Osa | Aeg | Number | Kuidas öeldakse |
 |---|---|---|---|
