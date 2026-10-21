@@ -9,3 +9,8 @@
 | Nele Kund | A: [SQL ja andmebaasid](sql.md) | 🪟 Win |
 | Evelyn Uusmaa | B: [Visualiseerimine](power_bi.md) | 🪟 Win |
 | Andres Assuküll | C: [Python ja automatiseerimine](python.md) | 🍎 Mac  |
+
+
+## 🎬 LIVE DEMO
+
+**[Vaata esitlust →](https://andres-assukyll.github.io/urbanstyle-sales-analytics/week10/)**
