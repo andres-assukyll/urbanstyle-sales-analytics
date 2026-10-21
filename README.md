@@ -9,9 +9,13 @@ Analüüsime UrbanStyle.ltd müügiandmeid, et leida olulisi trende ja toetada �
 
 ![UrbanStyle meeskond](./assets/sales-analytics-team.svg)
 
+<div align="center">
+
 [![Evelyn · Portfoolio](https://img.shields.io/badge/Evelyn-Portfoolio-009B8D?style=flat-square&labelColor=1A1A2E)](https://github.com/Nordmehr/daca-portfolio/)
 [![Nele · Portfoolio](https://img.shields.io/badge/Nele-Portfoolio-009B8D?style=flat-square&labelColor=1A1A2E)](https://github.com/nelekund/daca-portfolio/)
 [![Andres · Portfoolio](https://img.shields.io/badge/Andres-Portfoolio-009B8D?style=flat-square&labelColor=1A1A2E)](https://github.com/andres-assukyll/daca-portfolio/)
+
+</div>
 
 ## 📊 Oodatav tulemus
 
