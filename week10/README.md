@@ -15,4 +15,4 @@
 
 **[Vaata esitlust →](https://andres-assukyll.github.io/urbanstyle-sales-analytics/week10/)**
 
-[Demo 2 →](https://andres-assukyll.github.io/urbanstyle-sales-analytics/week10/demo2.html)
+[Demo 2 →](https://andres-assukyll.github.io/urbanstyle-sales-analytics/docs/week10/demo2.html)
