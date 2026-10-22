@@ -8,8 +8,7 @@ Sõnum: kolmandik müügiridadest koosnes duplikaatidest, iga viies klient on os
 | 2. Ostuta kliendid | 599 klienti (19%) | Iga viies klient pole kunagi ostnud |
 | 3. Käive | +19,1%, +235 599 €; jaanuar +7,4% | Käive kasvas ligi 19%, isegi nõrgimal kuul oli kasv. Piirang: ~10% käibest ei saa kliendiga siduda |
 | 4. VIP-id | 19 VIP-i, 13,2% käibest; 14 neist Tallinnas/Pärnus | Paarkümmend klienti toob kaheksandiku käibest |
-| 5. AI | - | SQL-päringute debugimine |
-| 6. Üleminek | - | Sõna järgmisele |
+| 5. Üleminek | - | Sõna järgmisele |
 
 
 KOLM NUMBRIT, MIS PEAVAD MEELDE JÄÄMA
