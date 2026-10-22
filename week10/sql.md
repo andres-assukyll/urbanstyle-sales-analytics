@@ -22,7 +22,7 @@ SLAIDI ÜLESEHITUS
 - Pealkiri: järeldus
 - Üleval: enne/pärast võrdlus (müügiread)
 - All: kaks numbrikaarti (ostuta kliendid, käibekasv)
-- VIP-id, (AI ja üleminek ainult kõnes, esitlusele ei pane)
+- VIP-id
 
 
 TÄPSUSTUSED:
