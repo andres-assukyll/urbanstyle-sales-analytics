@@ -1,4 +1,5 @@
-SLAID 2: SQL JA ANDMETÖÖ (1 min 50 s)
+# SLAID 2: SQL JA ANDMETÖÖ
+
 Sõnum: kolmandik müügiridadest koosnes duplikaatidest, iga viies klient on ostmata, käive kasvas ligi 19%.
 
 | Osa | Number | Täpsustus |
